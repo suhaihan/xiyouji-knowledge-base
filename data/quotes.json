@@ -1,0 +1,1609 @@
+[
+  {
+    "id": "quote-001",
+    "text": "俺老孙来也！",
+    "context": "孙悟空每次出场、施救或亮相时的标志性喊话，贯穿整部小说",
+    "speaker": "sun-wukong",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "孙悟空最具辨识度的口头禅，象征其豪迈不羁的性格和无所畏惧的英雄气概",
+    "related_characters": [
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "孙悟空",
+      "经典"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-002",
+    "text": "皇帝轮流做，明年到我家",
+    "context": "孙悟空大闹天宫时对如来佛祖所言，声称天宫帝位应由强者轮流占据",
+    "speaker": "sun-wukong",
+    "chapter": 7,
+    "location": "天宫",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "体现了孙悟空对天庭权威的根本挑战，是其反叛精神的极致表达，也是整部小说反抗精神的标志性宣言",
+    "related_characters": [
+      "ru-lai-fozu",
+      "yu-huang-dadi"
+    ],
+    "related_events": [
+      "大闹天宫"
+    ],
+    "tags": [
+      "名场面",
+      "孙悟空",
+      "大闹天宫",
+      "反叛"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-003",
+    "text": "齐天大圣到此一游",
+    "context": "孙悟空在如来佛祖手掌上以为到了天边，在此留下墨迹并撒尿作为标记",
+    "speaker": "sun-wukong",
+    "chapter": 7,
+    "location": "如来佛手掌",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "此情节极具讽刺意味——悟空自以为跳出了如来手掌，实则仍在掌中，成为佛教“无所逃于天地之间”哲理的绝妙隐喻",
+    "related_characters": [
+      "ru-lai-fozu"
+    ],
+    "related_events": [
+      "大闹天宫"
+    ],
+    "tags": [
+      "名场面",
+      "孙悟空",
+      "如来佛",
+      "讽刺"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-004",
+    "text": "贫僧从东土大唐而来，去往西天拜佛求经",
+    "context": "唐僧每到一处便以此句自述来历与使命，是其自我介绍的标准话术",
+    "speaker": "tang-seng",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "概括了取经使命的核心信息，是唐僧身份与目标的浓缩表达，反复出现强化了“使命在身”的主题",
+    "related_characters": [
+      "sun-wukong",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "唐僧",
+      "取经"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-005",
+    "text": "悟空，休得无礼",
+    "context": "唐僧反复用以制止孙悟空的鲁莽行为，尤其是悟空欲打杀妖怪或与人冲突时",
+    "speaker": "tang-seng",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "体现了唐僧的慈悲心与规矩意识，也揭示了师徒间“冲动与克制”的张力，是取经团队内部矛盾的核心触发点",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "三打白骨精"
+    ],
+    "tags": [
+      "口头禅",
+      "唐僧",
+      "师徒关系"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-006",
+    "text": "善哉善哉",
+    "context": "唐僧表达慈悲、感叹或劝诫时的常用语，贯穿取经全程",
+    "speaker": "tang-seng",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "唐僧佛家修行的外在标志，体现其慈悲为怀的僧人本色，与悟空的暴力手段形成鲜明对照",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "唐僧",
+      "慈悲"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-007",
+    "text": "师父被妖怪抓走了",
+    "context": "猪八戒在师父失踪时的第一反应，常与慌张、畏缩的举止相伴",
+    "speaker": "zhu-bajie",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "猪八戒的经典台词，体现其遇事慌张、缺乏主见的性格，也是取经团队中“胆小者”角色的典型表达",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "猪八戒",
+      "搞笑"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-008",
+    "text": "散伙散伙，回高老庄",
+    "context": "猪八戒每逢师父遇险或困难重重时便提出散伙回高老庄，是其退缩心理的典型表现",
+    "speaker": "zhu-bajie",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "猪八戒最著名的退缩宣言，象征其凡俗欲望与取经信念的矛盾，“高老庄”成为凡世安逸生活的代名词",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong",
+      "gao-tai-gong"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "猪八戒",
+      "退缩",
+      "高老庄"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-009",
+    "text": "老猪肚子饿了",
+    "context": "猪八戒反复抱怨饥饿，是其贪吃性格的典型台词",
+    "speaker": "zhu-bajie",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "猪八戒贪吃本性的浓缩表达，“饥饿”是其最核心的日常驱动力，与取经的崇高目标形成喜剧性的反差",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "猪八戒",
+      "贪吃"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-010",
+    "text": "大师兄，师父被妖怪抓走了",
+    "context": "沙僧在师父遇险后向孙悟空报告时最常说的话，言简意赅",
+    "speaker": "sha-wujing",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "沙僧的标志性台词，体现其忠诚老实、言语朴素的性格，与八戒的慌张抱怨形成对照，是取经团队中“务实者”的表达方式",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong",
+      "zhu-bajie"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "沙僧",
+      "老实"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-011",
+    "text": "你是何人，敢到我洞府前讨战？",
+    "context": "红孩儿在火云洞前面对孙悟空来讨战时的傲慢质问",
+    "speaker": "hong-hai-er",
+    "chapter": 40,
+    "location": "火云洞",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "红孩儿年少气盛的傲慢态度，体现了妖界小辈不知天高地厚的狂妄，也铺垫了其被观音收伏的命运转折",
+    "related_characters": [
+      "sun-wukong",
+      "guanyin-pusa",
+      "niuwang-mo"
+    ],
+    "related_events": [
+      "红孩儿劫师"
+    ],
+    "tags": [
+      "对话",
+      "红孩儿",
+      "火云洞",
+      "傲慢"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-012",
+    "text": "泼猴！你害我孩儿，又来借扇！",
+    "context": "铁扇公主因孙悟空此前请观音收伏其子红孩儿而怀恨，拒绝借芭蕉扇时的怒斥",
+    "speaker": "tie-shan-gongzhu",
+    "chapter": 59,
+    "location": "芭蕉洞",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "母子之情与取经使命的冲突在此爆发，铁扇公主的怨恨有理有据，揭示了取经路上“救人”与“伤人”的伦理困境",
+    "related_characters": [
+      "sun-wukong",
+      "hong-hai-er",
+      "niuwang-mo"
+    ],
+    "related_events": [
+      "三借芭蕉扇"
+    ],
+    "tags": [
+      "对话",
+      "铁扇公主",
+      "芭蕉扇",
+      "母子"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-013",
+    "text": "泼猢狲！你欺我妻儿，又来骗我宝贝！",
+    "context": "牛魔王对孙悟空的怒斥——悟空先请观音收其子红孩儿，又假冒牛魔王骗铁扇公主借扇，牛魔王积怨爆发",
+    "speaker": "niuwang-mo",
+    "chapter": 60,
+    "location": "摩云洞",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "牛魔王的怒斥概括了悟空在芭蕉扇事件中的全部“罪过”，从妖界视角看悟空行为确有欺诈，折射出取经正义与手段正当之间的灰色地带",
+    "related_characters": [
+      "sun-wukong",
+      "tie-shan-gongzhu",
+      "hong-hai-er"
+    ],
+    "related_events": [
+      "三借芭蕉扇"
+    ],
+    "tags": [
+      "对话",
+      "牛魔王",
+      "芭蕉扇",
+      "恩怨"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-014",
+    "text": "长老，我这是斋僧的饭食，请享用。",
+    "context": "白骨精第一次变化为年轻村姑，以送斋饭为名接近唐僧，实则欲加害",
+    "speaker": "baigujing",
+    "chapter": 27,
+    "location": "白虎岭",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "白骨精以最善意的伪装行最恶毒的企图，是整部小说“善恶难辨”主题的起点，直接引发了悟空三打与唐僧驱逐的核心冲突",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "三打白骨精"
+    ],
+    "tags": [
+      "对话",
+      "白骨精",
+      "伪装",
+      "善恶"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-015",
+    "text": "你这厮乃是个猴子成精，焉敢欺心，要夺玉皇上帝尊位？",
+    "context": "如来佛祖在大闹天宫高潮时质问孙悟空，揭示其出身本质并驳斥其觊觎帝位的妄念",
+    "speaker": "ru-lai-fozu",
+    "chapter": 7,
+    "location": "天宫",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "如来以佛法智慧点破悟空的虚妄野心，“猴子成精”四字既是事实陈述也是身份降格，体现了佛法对世俗权力欲望的终极审视",
+    "related_characters": [
+      "sun-wukong",
+      "yu-huang-dadi"
+    ],
+    "related_events": [
+      "大闹天宫"
+    ],
+    "tags": [
+      "对话",
+      "如来佛祖",
+      "大闹天宫",
+      "佛法"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-016",
+    "text": "你那厮乃是个猴子成精",
+    "context": "如来佛祖在大闹天宫时对孙悟空身份的判定，指出其本质不过是天地孕育的猴精",
+    "speaker": "ru-lai-fozu",
+    "chapter": 7,
+    "location": "天宫",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "此句单独剥离后更突出了如来对悟空“出身卑微”的定性，是佛家“众生平等”理念与“身份等级”现实的微妙矛盾",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "大闹天宫"
+    ],
+    "tags": [
+      "对话",
+      "如来佛祖",
+      "身份",
+      "大闹天宫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-017",
+    "text": "臣启陛下，可念生化之慈恩，降一道招安圣旨",
+    "context": "太白金星向玉帝建议招安孙悟空，以怀柔政策化解天庭危机",
+    "speaker": "tai-bai-jinxing",
+    "chapter": 3,
+    "location": "天宫",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "太白金星的招安之策体现了天庭政治的“怀柔”思路，看似慈悲实则权谋，为后续悟空封弼马温、知齐天大圣等事件埋下伏笔",
+    "related_characters": [
+      "yu-huang-dadi",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "天庭招安"
+    ],
+    "tags": [
+      "对话",
+      "太白金星",
+      "招安",
+      "天庭"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-018",
+    "text": "你这去，定生不良。凭你怎么惹祸行凶，却不期说是我的徒弟。",
+    "context": "菩提祖师在驱逐孙悟空时预言其必生祸端，并严令悟空不得透露师承来历",
+    "speaker": "puti-zushi",
+    "chapter": 2,
+    "location": "灵台方寸山·斜月三星洞",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "菩提祖师的逐徒之言兼具预言与禁令双重意味，“定生不良”是对悟空命运的准确预见，“不许说是我的徒弟”则将师门责任与个人因果彻底切割",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "菩提祖师逐徒"
+    ],
+    "tags": [
+      "对话",
+      "菩提祖师",
+      "驱逐",
+      "预言"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-019",
+    "text": "我奉如来法旨，往东土寻取经人。",
+    "context": "观音菩萨奉如来之命前往东土大唐寻找取经人，在长安化度唐僧",
+    "speaker": "guanyin-pusa",
+    "chapter": 8,
+    "location": "长安",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "此句是整部取经叙事的正式启动点，观音作为佛旨执行者，将“天意”转化为“人间使命”，开启了取经的因果链条",
+    "related_characters": [
+      "ru-lai-fozu",
+      "tang-seng"
+    ],
+    "related_events": [
+      "观音寻取经人"
+    ],
+    "tags": [
+      "对话",
+      "观音菩萨",
+      "取经",
+      "法旨"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-020",
+    "text": "宁可念之本朝，到他国也传了去。",
+    "context": "唐太宗在送别唐僧时表达对佛法传播的期许，希望经文先在本朝流传",
+    "speaker": "tang-taizong",
+    "chapter": 12,
+    "location": "长安",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "唐太宗此语体现了世俗帝王对佛法的政治考量——取经不仅是宗教行为，也是国家文化传播的战略部署",
+    "related_characters": [
+      "tang-seng"
+    ],
+    "related_events": [
+      "唐僧出发取经"
+    ],
+    "tags": [
+      "对话",
+      "唐太宗",
+      "取经",
+      "佛法传播"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-021",
+    "text": "陛下，臣虽在阳世为臣，实兼阴司人曹官之职。",
+    "context": "魏征向唐太宗坦白自己身兼阴阳两职，既为人间宰相又为阴司判官，随后在梦中斩了泾河龙王",
+    "speaker": "wei-zheng",
+    "chapter": 10,
+    "location": "长安",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "魏征此言是小说“阴阳两界相通”世界观的关键揭示，也直接引出泾河龙王被斩、唐太宗魂游地府等后续情节，是取经叙事的间接起点",
+    "related_characters": [
+      "tang-taizong"
+    ],
+    "related_events": [
+      "魏征梦斩泾河龙",
+      "唐太宗游地府"
+    ],
+    "tags": [
+      "对话",
+      "魏征",
+      "阴司",
+      "泾河龙王"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-022",
+    "text": "混沌未分天地乱，茫茫渺渺无人见",
+    "context": "小说开篇第一回的起首诗句，描述天地未开之前的混沌状态",
+    "speaker": null,
+    "chapter": 1,
+    "location": null,
+    "type": "诗词",
+    "category": "经典台词",
+    "significance": "开篇诗奠定了整部小说的宇宙观基调，从混沌到秩序的演化映射了“修行从迷到悟”的主题，是中国古典小说最著名的开篇之一",
+    "related_characters": [],
+    "related_events": [
+      "天地开辟"
+    ],
+    "tags": [
+      "诗词",
+      "开篇",
+      "宇宙观",
+      "混沌"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-023",
+    "text": "心生，种种魔生；心灭，种种魔灭",
+    "context": "取经途中对心经理念的阐释，强调一切妖魔皆由心念而生，修心即降魔",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "哲理",
+    "category": "经典台词",
+    "significance": "此句是《西游记》哲学内核的浓缩表达，将外在的妖魔征伐归结为内在的心念修炼，“降魔即降心”是全书最深层的寓意",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "心经",
+      "修心",
+      "降魔",
+      "哲理"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-024",
+    "text": "千日行军，千日坐禅",
+    "context": "取经路上对修行坚持的概括，强调行路与修心皆需持之以恒",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此句将取经的“行军”之苦与“坐禅”之修并置，揭示了外在旅途与内在修行的双重性质——取经既是地理跋涉，更是心性锤炼",
+    "related_characters": [
+      "tang-seng"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "谚语",
+      "修行",
+      "坚持",
+      "取经"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-025",
+    "text": "山高自有客行路，水深自有渡船人",
+    "context": "孙悟空在取经路上遇险时引用此谚语安慰唐僧，表达逢山开路、遇水搭桥的乐观信念",
+    "speaker": "sun-wukong",
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此句是西游记乐观精神的典型表达，与取经团队的“逢难必过”信念相通，也暗含“天无绝人之路”的民间智慧",
+    "related_characters": [
+      "sun-wukong",
+      "tang-seng"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "谚语",
+      "乐观",
+      "信念"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-026",
+    "text": "道高一尺，魔高一丈",
+    "context": "取经途中反复出现的哲理谚语，警示修行路上魔障始终高于道行",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此谚语是对修行艰难性的深刻警示，“魔高于道”意味着修行的每一步都伴随更大的考验，是《西游记》困难叙事的哲学依据",
+    "related_characters": [],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "谚语",
+      "哲理",
+      "修行",
+      "魔障"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-027",
+    "text": "世上无难事，只怕有心人",
+    "context": "取经路上多次引用的励志谚语，强调决心与毅力可克服一切困难",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此谚语是取经精神的民间化表达，“有心人”既指唐僧的坚定信念，也指悟空的执着战意，是对“道高一尺魔高一丈”的正面回应",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "谚语",
+      "励志",
+      "决心"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-028",
+    "text": "皇帝身上也有三个御虱",
+    "context": "小说中引用的俗语，意指即便是最高贵之人也有凡俗烦扰",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "俗语",
+    "category": "经典台词",
+    "significance": "此俗语以幽默方式揭示“贵贱同体”的道理，即便是玉帝、佛祖也有烦恼，呼应了小说“众生皆有局限”的平等观念",
+    "related_characters": [],
+    "related_events": [],
+    "tags": [
+      "俗语",
+      "幽默",
+      "平等"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-029",
+    "text": "人逢喜事精神爽，闷上心来瞌睡多",
+    "context": "取经路上引用的民间谚语，描述人的精神状态随境遇而变的规律",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此谚语以朴素方式揭示“心随境转”的心理规律，与“心生种种魔生”的佛学命题形成通俗版对照，是小说将高深哲理民间化的手法之一",
+    "related_characters": [
+      "zhu-bajie"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "谚语",
+      "心态",
+      "民间智慧"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-030",
+    "text": "龙游浅水遭虾戏，虎落平阳被犬欺",
+    "context": "取经路上引用的古谚，形容英雄落难时遭小人轻慢的境况",
+    "speaker": null,
+    "chapter": null,
+    "location": null,
+    "type": "谚语",
+    "category": "经典台词",
+    "significance": "此谚语在小说中多次映射悟空等人的困境——强者失势时遭受凌辱，既是情节写照也是人生哲理，与孙悟空被压五行山的命运形成呼应",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "五行山压猴"
+    ],
+    "tags": [
+      "谚语",
+      "落难",
+      "英雄"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-031",
+    "text": "你姓孙，我与你起个法名，叫做孙悟空",
+    "context": "菩提祖师收石猴为徒，见其走路像个食松果的猢狲，便以“孙”为姓，赐法名“悟空”，意为“了悟真空”",
+    "speaker": "puti-zushi",
+    "chapter": 1,
+    "location": "灵台方寸山·斜月三星洞",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "孙悟空得名之始，“悟空”二字蕴含佛家“悟彻真空”之理，暗示其虽从道门学艺，终归佛门正果，是整部小说“道佛合一”主题的起点",
+    "related_characters": [
+      "sun-wukong"
+    ],
+    "related_events": [
+      "悟空拜师"
+    ],
+    "tags": [
+      "名场面",
+      "菩提祖师",
+      "赐名",
+      "悟空"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-032",
+    "text": "我老孙修仙了道，与天齐寿，超升三界之外，超出五行之中",
+    "context": "孙悟空大闹地府时对十殿阎王所言，声称自己已修成仙道，不在生死簿管辖之内，强令销毁名籍",
+    "speaker": "sun-wukong",
+    "chapter": 3,
+    "location": "幽冥地府",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "孙悟空以修仙之身挑战阴司权威，“超出三界五行”是其对自身修行境界的宣言，也是其对天地秩序全面挑战的开端，预示了后续大闹天宫的必然",
+    "related_characters": [
+      "di-zang-pusa"
+    ],
+    "related_events": [
+      "大闹地府"
+    ],
+    "tags": [
+      "名场面",
+      "孙悟空",
+      "地府",
+      "修仙",
+      "反叛"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-033",
+    "text": "不好不好！这般卑贱的官，怎配得上我老孙！",
+    "context": "孙悟空初被天庭招安封为弼马温，得知此官职极为卑微后勃然大怒，打出南天门回花果山自封齐天大圣",
+    "speaker": "sun-wukong",
+    "chapter": 4,
+    "location": "天宫·御马监",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "悟空嫌官小反下天庭是“齐天大圣”名号的由来，此情节揭示了天庭等级制度的傲慢与悟空自尊心的碰撞，是悟空与天庭矛盾的第一次正式爆发",
+    "related_characters": [
+      "yu-huang-dadi",
+      "tai-bai-jinxing"
+    ],
+    "related_events": [
+      "天庭招安",
+      "弃官反天"
+    ],
+    "tags": [
+      "名场面",
+      "孙悟空",
+      "弼马温",
+      "反叛",
+      "自尊"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-034",
+    "text": "你推倒了我的人参果树，怎肯与你干休！",
+    "context": "镇元大仙发现孙悟空推倒了万年一熟的人参果树后怒不可遏，将师徒四人擒获，逼其医活仙树方肯罢休",
+    "speaker": "zhen-yuan-da-xian",
+    "chapter": 25,
+    "location": "万寿山·五庄观",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "人参果树乃天地灵根，镇元大仙以此要挟引出悟空求医仙树、观音甘露救树的情节，是取经路上“犯错—补救—和解”叙事模式的典型案例",
+    "related_characters": [
+      "sun-wukong",
+      "tang-seng",
+      "guanyin-pusa"
+    ],
+    "related_events": [
+      "推倒人参果树",
+      "观音救树"
+    ],
+    "tags": [
+      "对话",
+      "镇元大仙",
+      "人参果",
+      "五庄观"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-035",
+    "text": "孙行者！我叫你一声，你敢答应吗？",
+    "context": "金角大王手持紫金红葫芦，念出孙悟空的名号。此法宝的威力在于——若被叫名者应声，便会被吸入葫芦中化为脓血",
+    "speaker": "jin-jiao-dawang",
+    "chapter": 34,
+    "location": "平顶山·莲花洞",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "紫金红葫芦“应名即收”的设定是《西游记》中最具想象力的法宝机制之一，“叫名敢答应吗”成为后世广为流传的经典台词，体现了名与实的哲学隐喻",
+    "related_characters": [
+      "sun-wukong",
+      "yin-jiao-dawang"
+    ],
+    "related_events": [
+      "平顶山收金角银角"
+    ],
+    "tags": [
+      "名场面",
+      "金角大王",
+      "紫金红葫芦",
+      "法宝"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-036",
+    "text": "行者孙！我叫你一声，你敢答应吗？",
+    "context": "银角大王持紫金红葫芦对付孙悟空。悟空以为自己用了假名“行者孙”便可无忧，不料银角照样叫名收人，悟空仍被吸入葫芦",
+    "speaker": "yin-jiao-dawang",
+    "chapter": 34,
+    "location": "平顶山·莲花洞",
+    "type": "名场面",
+    "category": "经典台词",
+    "significance": "此情节充满喜剧反讽——悟空自作聪明改名“行者孙”，却照样中招，揭示了“名可名，非常名”的哲理，也展现了小说以智斗智的叙事魅力",
+    "related_characters": [
+      "sun-wukong",
+      "jin-jiao-dawang"
+    ],
+    "related_events": [
+      "平顶山收金角银角"
+    ],
+    "tags": [
+      "名场面",
+      "银角大王",
+      "紫金红葫芦",
+      "改名",
+      "喜剧"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-037",
+    "text": "愿以一国之富，招赘御弟为婚",
+    "context": "西梁女国国王见唐僧相貌堂堂，愿以整个国家相让，招唐僧为夫，留其在女儿国做国王，自己做王后",
+    "speaker": "西梁女国国王",
+    "chapter": 54,
+    "location": "西梁女国",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "女儿国是取经路上最特殊的“劫难”——非妖非魔，而是以情欲试探。女王以国相许的诚意与唐僧的坚定拒绝形成张力，是“色难”主题的集中体现",
+    "related_characters": [
+      "tang-seng",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "女儿国遇难"
+    ],
+    "tags": [
+      "对话",
+      "女儿国",
+      "女王",
+      "色难",
+      "情劫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-038",
+    "text": "圣僧从东土到此，有些甚么人事送我们？",
+    "context": "唐僧师徒抵达灵山后，阿难、迦叶二尊者传经时竟向唐僧索要“人事”（礼物），唐僧身无长物，二尊者便给了无字经书",
+    "speaker": "a-nan",
+    "chapter": 98,
+    "location": "灵山·雷音寺",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "灵山索贿是全书最具讽刺意味的情节——佛祖身边弟子公然索要财物，如来却以“经不可轻传”为由认可，揭示了“神圣”与“世俗”的复杂交织，是对宗教腐败的深刻讽喻",
+    "related_characters": [
+      "tang-seng",
+      "jia-ye",
+      "ru-lai-fozu",
+      "sun-wukong"
+    ],
+    "related_events": [
+      "灵山取经",
+      "无字经书"
+    ],
+    "tags": [
+      "对话",
+      "阿难",
+      "迦叶",
+      "灵山",
+      "人事",
+      "讽刺"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-039",
+    "text": "经不可轻传，亦不可以空取",
+    "context": "孙悟空因阿难迦叶索要人事而向如来告状，如来非但没有责罚二尊者，反而解释说经文不可轻易传授，也不可空手索取，这是佛门的规矩",
+    "speaker": "ru-lai-fozu",
+    "chapter": 98,
+    "location": "灵山·雷音寺",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "如来此语是对“神圣交易”的合理化阐释——“不可轻传”强调经文珍贵，“不可空取”则暗示信仰需要代价，是全书对“功德与代价”关系的终极思考",
+    "related_characters": [
+      "sun-wukong",
+      "tang-seng",
+      "a-nan",
+      "jia-ye"
+    ],
+    "related_events": [
+      "灵山取经",
+      "无字经书"
+    ],
+    "tags": [
+      "对话",
+      "如来佛祖",
+      "取经",
+      "灵山",
+      "规矩"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-040",
+    "text": "师父，如今我已成佛，与你一般，这金箍儿莫成还戴？",
+    "context": "取经功成后，孙悟空被封为斗战胜佛，他摸了摸头顶，发现紧箍咒的金箍已自行消失，欣喜地向唐僧确认",
+    "speaker": "sun-wukong",
+    "chapter": 100,
+    "location": "灵山",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "金箍的消失象征悟空修行的圆满——从被外力约束到内化自律，“成佛即无箍”揭示了真正的自由来自内心的觉悟而非外在的束缚，是全书修行主题的完美收束",
+    "related_characters": [
+      "tang-seng",
+      "ru-lai-fozu"
+    ],
+    "related_events": [
+      "灵山封佛"
+    ],
+    "tags": [
+      "对话",
+      "孙悟空",
+      "成佛",
+      "金箍",
+      "圆满"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-041",
+    "text": "哥哥，我老猪从不曾受这般苦也！",
+    "context": "猪八戒在取经途中反复抱怨行路艰辛、风餐露宿，尤其在翻山越岭、忍饥挨饿时最为典型",
+    "speaker": "zhu-bajie",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "猪八戒的经典抱怨，体现其贪图安逸、畏惧艰辛的性格底色，与悟空的勇往直前形成鲜明对照，也是取经团队中“凡俗之声”的典型表达",
+    "related_characters": [
+      "sun-wukong",
+      "tang-seng",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "猪八戒",
+      "抱怨",
+      "受苦"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-042",
+    "text": "出家人时时常要方便，念念不离善心",
+    "context": "唐僧在三打白骨精之前对孙悟空的谆谆教诫，要求悟空以慈悲为本，不可滥杀无辜，即便是妖也要先辨善恶",
+    "speaker": "tang-seng",
+    "chapter": 27,
+    "location": "白虎岭",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "此言是唐僧佛家慈悲理念的核心表述，也是师徒冲突的根本原因——唐僧以“善心”为先，悟空以“辨识”为要，“方便”与“除魔”的矛盾贯穿整部取经路",
+    "related_characters": [
+      "sun-wukong",
+      "baigujing"
+    ],
+    "related_events": [
+      "三打白骨精"
+    ],
+    "tags": [
+      "对话",
+      "唐僧",
+      "慈悲",
+      "善心",
+      "教诫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-043",
+    "text": "我若不打死他，他就要害我师父",
+    "context": "孙悟空三打白骨精后被唐僧责骂滥杀无辜，悟空辩解自己打杀的是妖怪，若不除之必害师父，但唐僧不信，最终念紧箍咒驱逐悟空",
+    "speaker": "sun-wukong",
+    "chapter": 27,
+    "location": "白虎岭",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "此辩解揭示了取经团队最根本的信任危机——悟空的火眼金睛能辨妖魔，却无法说服肉眼凡胎的唐僧，“打妖救师”与“杀生犯戒”的伦理困境在此达到高潮",
+    "related_characters": [
+      "tang-seng",
+      "baigujing"
+    ],
+    "related_events": [
+      "三打白骨精"
+    ],
+    "tags": [
+      "对话",
+      "孙悟空",
+      "白骨精",
+      "辩解",
+      "信任危机"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-044",
+    "text": "这泼猴偷了我的仙丹，又盗了我的宝贝",
+    "context": "太上老君向玉帝诉苦——孙悟空大闹天宫时偷吃了兜率宫的金丹，又顺走了不少法宝，令老君损失惨重",
+    "speaker": "taishang-laojun",
+    "chapter": 6,
+    "location": "天宫·兜率宫",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "太上老君的控诉概括了悟空在天宫的全部“罪状”，“偷丹盗宝”既是其反叛行为的注脚，也为后续取经路上多次借用老君法宝降妖埋下因果",
+    "related_characters": [
+      "sun-wukong",
+      "yu-huang-dadi"
+    ],
+    "related_events": [
+      "大闹天宫",
+      "偷吃金丹"
+    ],
+    "tags": [
+      "对话",
+      "太上老君",
+      "仙丹",
+      "偷盗",
+      "大闹天宫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-045",
+    "text": "大王叫我来巡山",
+    "context": "平顶山莲花洞的小妖被派出去巡山，口中念叨着巡山的口号，不料被孙悟空变化后套问出了法宝底细",
+    "speaker": "小妖",
+    "chapter": 32,
+    "location": "平顶山",
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "小妖巡山是《西游记》中最具喜剧色彩的桥段之一，底层小妖的憨态与悟空的机智形成鲜明对比，“大王叫我来巡山”也成为广为流传的经典台词",
+    "related_characters": [
+      "sun-wukong",
+      "jin-jiao-dawang",
+      "yin-jiao-dawang"
+    ],
+    "related_events": [
+      "平顶山收金角银角"
+    ],
+    "tags": [
+      "口头禅",
+      "小妖",
+      "巡山",
+      "喜剧"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-046",
+    "text": "这妖精原是我莲花池里养大的金鱼",
+    "context": "通天河灵感大王作祟，孙悟空请来观音菩萨，观音认出此妖是自己莲花池中的金鱼精，趁海水涨潮逃到通天河为妖",
+    "speaker": "guanyin-pusa",
+    "chapter": 49,
+    "location": "通天河",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "观音认领金鱼精揭示了取经路上诸多妖怪的“背景”问题——许多妖怪原是天庭或菩萨的坐骑、宠物下凡为祸，“主人的纵容”与“妖怪的恶行”构成微妙的因果链",
+    "related_characters": [
+      "sun-wukong",
+      "ling-gan-da-wang",
+      "tang-seng"
+    ],
+    "related_events": [
+      "通天河收金鱼精"
+    ],
+    "tags": [
+      "对话",
+      "观音菩萨",
+      "金鱼精",
+      "通天河",
+      "坐骑下凡"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-047",
+    "text": "孙悟空，保护圣僧取经全始全终，加升大职正果，封为斗战胜佛",
+    "context": "如来佛祖在灵山封赏取经功臣，肯定孙悟空一路降妖除魔、保护唐僧的功绩，封其为“斗战胜佛”，位列佛果",
+    "speaker": "ru-lai-fozu",
+    "chapter": 100,
+    "location": "灵山·雷音寺",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "从“齐天大圣”到“斗战胜佛”，孙悟空完成了从反叛者到护法者的终极蜕变，“全始全终”四字是对其取经路上不忘初心、始终如一的最高褒奖",
+    "related_characters": [
+      "sun-wukong",
+      "tang-seng"
+    ],
+    "related_events": [
+      "灵山封佛"
+    ],
+    "tags": [
+      "对话",
+      "如来佛祖",
+      "孙悟空",
+      "斗战胜佛",
+      "封佛"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-048",
+    "text": "二师兄，休得胡言",
+    "context": "沙僧在猪八戒说丧气话或散伙之言时出言制止，言简意赅，体现其忠厚老实的性格和对取经使命的坚守",
+    "speaker": "sha-wujing",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "沙僧以“休得胡言”纠正八戒，体现其在团队中的调和角色——不像悟空那样强势，也不像八戒那样动摇，是取经团队中最沉稳的稳定力量",
+    "related_characters": [
+      "zhu-bajie",
+      "sun-wukong",
+      "tang-seng"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "沙僧",
+      "劝阻",
+      "忠厚"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-049",
+    "text": "弟子玄奘，奉东土大唐皇帝旨意，来诣灵山拜佛求经",
+    "context": "唐僧历经九九八十一难抵达灵山雷音寺，在佛祖座前恭敬自述来历与使命，标志着取经之路的最终完成",
+    "speaker": "tang-seng",
+    "chapter": 98,
+    "location": "灵山·雷音寺",
+    "type": "对话",
+    "category": "经典台词",
+    "significance": "此语与唐僧出发时的自述“贫僧从东土大唐而来，去往西天拜佛求经”首尾呼应，从出发到抵达，从“去往”到“来诣”，十四年取经路画上圆满句号",
+    "related_characters": [
+      "ru-lai-fozu",
+      "sun-wukong",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "灵山取经"
+    ],
+    "tags": [
+      "对话",
+      "唐僧",
+      "灵山",
+      "取经",
+      "圆满"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  },
+  {
+    "id": "quote-050",
+    "text": "妖怪！还我师父来！",
+    "context": "孙悟空在唐僧被妖怪掳走后，手持金箍棒直捣妖洞，向妖怪大声讨要师父，是取经途中最为高频的战斗宣言",
+    "speaker": "sun-wukong",
+    "chapter": null,
+    "location": null,
+    "type": "口头禅",
+    "category": "经典台词",
+    "significance": "此句是孙悟空护师除魔的标志性喊话，简洁有力，体现了悟空对师父的忠诚与对妖魔的无畏，也是“降妖救师”叙事模式的标准开场白",
+    "related_characters": [
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_events": [
+      "西天取经"
+    ],
+    "tags": [
+      "口头禅",
+      "孙悟空",
+      "降妖",
+      "救师",
+      "战斗"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "verified": true
+    }
+  }
+]

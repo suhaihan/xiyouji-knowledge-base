@@ -1,0 +1,2984 @@
+[
+  {
+    "id": "ruyi-jingu-bang",
+    "name": "如意金箍棒",
+    "aliases": [
+      "金箍棒",
+      "定海神珍铁",
+      "神珍铁",
+      "灵阳棒"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "sun-wukong",
+    "origin": "太上老君炼制，后借与大禹治水，留在东海龙宫镇海",
+    "summary": "孙悟空随身兵器，原为定海神珍铁，重一万三千五百斤",
+    "description": "如意金箍棒原为太上老君炼制之神铁，后大禹借以治水测量深浅，用完留于东海龙宫作为镇海之宝，称为定海神珍铁。孙悟空入东海龙宫索兵器时，此铁自放光芒。棒两头各有一金箍，中间一段乌铁，重一万三千五百斤。上镌一行字：如意金箍棒，重一万三千五百斤。此棒能随心意变化大小，大可擎天柱地，小如绣花针可藏于耳内。悟空得此棒后神通益增，成为其标志性兵器。",
+    "properties": {
+      "重量": "一万三千五百斤",
+      "材质": "神铁",
+      "长度": "可如意变化",
+      "特征": "两头金箍，中间乌铁"
+    },
+    "appears_in": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      14,
+      27,
+      28,
+      31,
+      33,
+      34,
+      41,
+      46,
+      48,
+      50,
+      56,
+      59,
+      61,
+      63,
+      65,
+      71,
+      74,
+      75,
+      82,
+      88,
+      91,
+      92,
+      95,
+      97
+    ],
+    "first_appears": 3,
+    "acquisition": {
+      "chapter": 3,
+      "method": "强取",
+      "description": "悟空入东海龙宫，此铁自放光现出，悟空取之为兵器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "主人"
+      },
+      {
+        "id": "ao-guang",
+        "relation": "原保管者"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "炼制者"
+      }
+    ],
+    "quotes": [
+      "上镌一行字：如意金箍棒，重一万三千五百斤"
+    ],
+    "tags": [
+      "神兵",
+      "如意",
+      "金箍棒",
+      "定海神珍"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-chi-ding-pa",
+    "name": "九齿钉耙",
+    "aliases": [
+      "钉耙",
+      "九齿铁耙",
+      "上宝逊金耙"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "zhu-bajie",
+    "origin": "太上老君用神冰铁锤炼，借五方五帝、六丁六甲之力锻造而成",
+    "summary": "猪八戒随身兵器，九齿铁耙，乃天宫镇阁之宝",
+    "description": "九齿钉耙全名上宝逊金耙，乃太上老君用神冰铁亲自锤炼，借五方五帝、雷声普化天尊之力配合锻造而成。此耙为天宫镇阁之宝，玉帝赐予天蓬元帅猪八戒作为兵器。耙柄长且重，九齿排列如月牙形。八戒被贬下凡后仍随身携带此耙。在黄风洞、流沙河等多处战斗中皆用此耙作战。八戒虽常显懒散，但此耙威力不小，下凡后于福陵山云栈洞中亦以此耙逞威。",
+    "properties": {
+      "重量": "不详",
+      "材质": "神冰铁",
+      "齿数": "九齿",
+      "特征": "月牙形齿排"
+    },
+    "appears_in": [
+      18,
+      19,
+      22,
+      29,
+      31,
+      33,
+      47,
+      49,
+      56,
+      61,
+      74,
+      75,
+      85,
+      91,
+      94
+    ],
+    "first_appears": 18,
+    "acquisition": {
+      "chapter": 18,
+      "method": "随身携带",
+      "description": "八戒自天庭被贬下凡时随身携带此耙"
+    },
+    "related_characters": [
+      {
+        "id": "zhu-bajie",
+        "relation": "主人"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "炼制者"
+      },
+      {
+        "id": "yu-huang-da-di",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "此耙为天宫镇阁之宝"
+    ],
+    "tags": [
+      "神兵",
+      "钉耙",
+      "天蓬元帅"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiang-yao-zhang",
+    "name": "降妖宝杖",
+    "aliases": [
+      "降妖杖",
+      "宝杖",
+      "月牙铲"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "sha-wujing",
+    "origin": "月宫梭罗仙木为材，鲁班亲手打造",
+    "summary": "沙悟净随身兵器，降妖宝杖，梭罗仙木所制",
+    "description": "降妖宝杖乃月宫梭罗仙木所制，由鲁班亲手打造。杖身外边镶嵌宝物，内里灌注金汁，名为降妖真宝杖。玉帝赐予卷帘大将沙悟净作为兵器。沙悟净于蟠桃会上失手打碎玻璃盏被贬下凡，流落流沙河为妖，此杖仍随身携带。宝杖形似月牙铲，一头如月牙一头如铲，便于水战陆战通用。沙僧取经途中多为护卫唐僧之责，较少主攻斗法，但此杖亦是可靠兵器。",
+    "properties": {
+      "材质": "梭罗仙木",
+      "特征": "外镶宝物内灌金汁",
+      "形状": "月牙铲形"
+    },
+    "appears_in": [
+      22,
+      29,
+      47,
+      49,
+      56,
+      61,
+      74,
+      75,
+      85,
+      91
+    ],
+    "first_appears": 22,
+    "acquisition": {
+      "chapter": 22,
+      "method": "随身携带",
+      "description": "沙悟净自天庭被贬下凡时随身携带此杖"
+    },
+    "related_characters": [
+      {
+        "id": "sha-wujing",
+        "relation": "主人"
+      },
+      {
+        "id": "yu-huang-da-di",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "名为降妖真宝杖"
+    ],
+    "tags": [
+      "神兵",
+      "宝杖",
+      "卷帘大将"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ba-jiao-shan",
+    "name": "芭蕉扇",
+    "aliases": [
+      "芭蕉扇子",
+      "扇子"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "tie-shan-gongzhu",
+    "origin": "昆仑山后自混沌开辟以来产成的灵宝",
+    "summary": "铁扇公主所持法宝，一扇熄灭火焰山八百里火焰",
+    "description": "芭蕉扇乃昆仑山后自混沌开辟以来产成的一件灵宝，为太阳之精叶。此扇共有两把：一把至阳之物能生火，太上老君用以扇炼丹炉火，即阳扇；一把至阴之物能灭火，铁扇公主所持有之阴扇。阴扇一扇熄八百里火焰，二扇生风，三扇下雨，扇至七七四十九扇便可断根。此扇至阴，故能克至阳之火焰山火。悟空借扇几经波折：铁扇公主因红孩儿事拒借，悟空先被扇飞五万余里，后得定风丹再来借扇，最终得真扇灭火。",
+    "properties": {
+      "属性": "至阴之物",
+      "产地": "昆仑山后",
+      "功效": "一扇熄火，二扇生风，三扇下雨"
+    },
+    "appears_in": [
+      59,
+      60,
+      61
+    ],
+    "first_appears": 59,
+    "acquisition": {
+      "chapter": 59,
+      "method": "持有",
+      "description": "铁扇公主自混沌开辟以来之灵宝，世代持有"
+    },
+    "related_characters": [
+      {
+        "id": "tie-shan-gongzhu",
+        "relation": "持有者"
+      },
+      {
+        "id": "niu-mowang",
+        "relation": "关联者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "借用者"
+      }
+    ],
+    "quotes": [
+      "一扇熄火，二扇生风，三扇下雨"
+    ],
+    "tags": [
+      "法宝",
+      "芭蕉扇",
+      "火焰山"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zi-jin-hong-hu-lu",
+    "name": "紫金红葫芦",
+    "aliases": [
+      "红葫芦",
+      "紫金葫芦"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "jin-jiao-dawang",
+    "origin": "太上老君盛丹之葫芦，被小童带出下界",
+    "summary": "金角大王所持法宝，叫人名字若应则被吸入化为脓水",
+    "description": "紫金红葫芦原为太上老君盛丹所用之葫芦，被看丹炉的童子带下凡间。此法宝用法极为独特：持葫芦者叫对手名字，若对手应声则立刻被吸入葫芦中，贴上封条后一时三刻化为脓水。金角大王以此葫芦对付孙悟空，悟空被吸入一次，但以其机智在葫芦内诱使妖精打开后逃脱。后又变化假葫芦与妖怪换真葫芦，最终将金角大王收入葫芦中。此葫芦与羊脂玉净瓶为姊妹法宝。",
+    "properties": {
+      "材质": "紫金",
+      "功效": "叫名应声即吸入，一时三刻化脓水",
+      "来源": "太上老君盛丹葫芦"
+    },
+    "appears_in": [
+      33,
+      34,
+      35
+    ],
+    "first_appears": 33,
+    "acquisition": {
+      "chapter": 33,
+      "method": "持有",
+      "description": "金角大王自天庭带下凡间之太上老君法宝"
+    },
+    "related_characters": [
+      {
+        "id": "jin-jiao-dawang",
+        "relation": "持有者"
+      },
+      {
+        "id": "yin-jiao-dawang",
+        "relation": "关联者"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "原主"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "被吸者/夺取者"
+      }
+    ],
+    "quotes": [
+      "叫你名字你若答应，便装在里面，一时三刻化为脓水"
+    ],
+    "tags": [
+      "法宝",
+      "葫芦",
+      "金角大王"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jing-gang-zhuo",
+    "name": "金刚琢",
+    "aliases": [
+      "金刚圈",
+      "圈儿"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "taishang-laojun",
+    "origin": "太上老君炼制之法宝，乃一个圈儿",
+    "summary": "太上老君法宝，青牛精以此套尽诸般兵器法宝",
+    "description": "金刚琢乃太上老君炼制之法宝，原为老君化胡时自防之用。此琢乃一个圈儿，能套诸般兵器法宝刀枪剑戟。青牛精偷下凡间后以此金刚琢套去悟空金箍棒，后又套去哪吒六件兵器、火德星君火具、水德星君水具、十八罗汉金丹砂等诸般兵器法宝。悟空多方求助无果，最终太上老君亲临收青牛精，收回金刚琢。此法宝威力极大，诸般兵器法宝皆不能敌，乃取经路上最棘手之敌之一。",
+    "properties": {
+      "材质": "不详",
+      "功效": "套取诸般兵器法宝",
+      "原用途": "太上老君化胡时自防之用"
+    },
+    "appears_in": [
+      50,
+      51,
+      52
+    ],
+    "first_appears": 50,
+    "acquisition": {
+      "chapter": 50,
+      "method": "青牛精盗取",
+      "description": "青牛精偷太上老君金刚琢下凡为妖"
+    },
+    "related_characters": [
+      {
+        "id": "taishang-laojun",
+        "relation": "原主/收回者"
+      },
+      {
+        "id": "qing-niu-jing",
+        "relation": "盗用者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "受害者"
+      }
+    ],
+    "quotes": [
+      "此琢乃老君化胡时自防之用"
+    ],
+    "tags": [
+      "法宝",
+      "金刚琢",
+      "青牛精"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-gu-zhou",
+    "name": "紧箍咒",
+    "aliases": [
+      "金箍",
+      "紧箍",
+      "定心真言"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "tang-sanzang",
+    "origin": "观音菩萨赐予唐僧，用以约束孙悟空",
+    "summary": "观音赐唐僧之法宝，戴于悟空头上，念咒则箍收紧令其头痛欲裂",
+    "description": "紧箍咒全名定心真言，为观音菩萨赐予唐僧之法宝。观音以五方五帝所赐金箍化为三个箍：紧箍、禁箍、金箍。唐僧将紧箍藏于花帽中诱悟空戴上，此箍一旦戴上即生根入脑，再也摘不下来。唐僧念紧箍咒时箍收紧，令悟空头痛欲裂、满地打滚，不得不听从师父命令。紧箍咒为唐僧控制悟空的重要手段，在白骨精事件、真假美猴王等情节中多次使用，也成为师徒矛盾的导火索。",
+    "properties": {
+      "材质": "金箍",
+      "功效": "念咒收紧令头痛欲裂",
+      "数量": "三箍（紧箍、禁箍、金箍）"
+    },
+    "appears_in": [
+      14,
+      27,
+      28,
+      31,
+      33,
+      39,
+      42,
+      56,
+      57,
+      58
+    ],
+    "first_appears": 14,
+    "acquisition": {
+      "chapter": 14,
+      "method": "观音赐予",
+      "description": "观音赐唐僧紧箍与咒语，唐僧诱悟空戴上"
+    },
+    "related_characters": [
+      {
+        "id": "tang-sanzang",
+        "relation": "持有者/使用者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "佩戴者"
+      },
+      {
+        "id": "guanyin",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "这箍儿戴在头上，生根入脑，再也摘不下来"
+    ],
+    "tags": [
+      "法宝",
+      "紧箍",
+      "定心真言"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jing-ping",
+    "name": "净瓶",
+    "aliases": [
+      "玉净瓶",
+      "净水瓶",
+      "羊脂玉净瓶"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "guanyin",
+    "origin": "观音菩萨随身法器",
+    "summary": "观音菩萨随身净瓶，瓶中甘露能救活人参果树",
+    "description": "净瓶为观音菩萨随身法器，瓶中贮有甘露水，能起死回生、灭火救灾。在五庄观故事中，悟空推倒人参果树，求观音救治。观音以净瓶中甘露水弹在树根上，顷刻间果树复活，果子复生，比先前更加茂盛。此外观音以净瓶杨柳枝蘸甘露水三滴化为三头六臂法相，用以收服红孩儿。净瓶亦曾与金角大王之羊脂玉净瓶为姊妹法宝（此瓶亦名羊脂玉净瓶，叫名应声即吸入）。此处指观音之净瓶。",
+    "properties": {
+      "材质": "羊脂玉",
+      "功效": "甘露水能救活灵根、灭火救灾",
+      "容量": "甘露水常满"
+    },
+    "appears_in": [
+      15,
+      26,
+      42,
+      49
+    ],
+    "first_appears": 15,
+    "acquisition": {
+      "chapter": 15,
+      "method": "随身法器",
+      "description": "观音菩萨随身携带之法器"
+    },
+    "related_characters": [
+      {
+        "id": "guanyin",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "受益者"
+      }
+    ],
+    "quotes": [
+      "净瓶中甘露水能救活仙树灵根"
+    ],
+    "tags": [
+      "法宝",
+      "净瓶",
+      "甘露"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huo-jian-qiang",
+    "name": "火尖枪",
+    "aliases": [
+      "火枪"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "ne-zha",
+    "origin": "哪吒随身兵器",
+    "summary": "哪吒三太子随身兵器，火尖枪",
+    "description": "火尖枪为哪吒三太子随身兵器。哪吒乃托塔天王李靖第三子，生有三头六臂神通，变化多端。他脚踏风火轮，手持火尖枪，又有乾坤圈、混天绫等法宝。哪吒曾奉父命随天兵征讨孙悟空，与悟空大战三十回合不分胜负。后在降伏牛魔王时亦出手相助。哪吒三头六臂时手持六件兵器，火尖枪为其主要攻击兵器之一，威力不小，为天庭重要武将之标志兵器。",
+    "properties": {
+      "特征": "枪尖带火",
+      "使用者": "哪吒三太子"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身兵器",
+      "description": "哪吒随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "ne-zha",
+        "relation": "主人"
+      },
+      {
+        "id": "tota-tianwang",
+        "relation": "哪吒之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "火尖枪",
+      "哪吒"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "san-jian-liang-ren-dao",
+    "name": "三尖两刃刀",
+    "aliases": [
+      "三尖两刃神锋",
+      "二郎神刀"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "erlang-shen",
+    "origin": "二郎神杨戬随身兵器",
+    "summary": "二郎神杨戬随身兵器，三尖两刃神锋",
+    "description": "三尖两刃刀全名三尖两刃神锋，为二郎神杨戬随身兵器。此刀刀头有三尖两刃，形制独特，威力极大。二郎神杨戬乃玉帝外甥，居于灌江口，有七十二变神通与悟空不相上下，又有哮天犬辅助。天庭征讨孙悟空时，观音推荐二郎神出战。悟空与二郎神斗变化斗法术，大战数百回合不分胜负。最终太上老君以金刚琢打中悟空，哮天犬咬住悟空腿，方才擒获。三尖两刃刀为二郎神标志兵器。",
+    "properties": {
+      "形状": "三尖两刃",
+      "特征": "独特刀头形制"
+    },
+    "appears_in": [
+      6,
+      7
+    ],
+    "first_appears": 6,
+    "acquisition": {
+      "chapter": 6,
+      "method": "随身兵器",
+      "description": "二郎神随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "erlang-shen",
+        "relation": "主人"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "三尖两刃",
+      "二郎神"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ling-xu-ta",
+    "name": "玲珑宝塔",
+    "aliases": [
+      "托塔",
+      "玲珑塔",
+      "七级浮屠"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "tota-tianwang",
+    "origin": "如来佛祖赐予，用以镇压哪吒",
+    "summary": "托塔天王李靖随身法宝，七层宝塔，内有佛灯焰火",
+    "description": "玲珑宝塔乃如来佛祖赐予李靖之法宝，为七层宝塔，层层有佛灯焰火。当初哪吒闹海杀龙王三太子，剔骨还父削肉还母，后欲杀李靖报仇。如来以玲珑宝塔赐李靖，塔中有佛灯焰火，哪吒惧火不敢近前，遂归顺。李靖因常托此塔在手中，故称托塔天王。此塔为李靖镇子控子之法宝，亦是重要兵器。天庭征讨悟空时李靖为统帅，此塔亦随行。玲珑宝塔为天庭标志性法宝之一。",
+    "properties": {
+      "层数": "七层",
+      "特征": "内有佛灯焰火",
+      "原用途": "镇压哪吒"
+    },
+    "appears_in": [
+      4,
+      6,
+      7,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "如来赐予",
+      "description": "如来赐李靖玲珑宝塔以镇压哪吒"
+    },
+    "related_characters": [
+      {
+        "id": "tota-tianwang",
+        "relation": "持有者"
+      },
+      {
+        "id": "ne-zha",
+        "relation": "被镇者/归顺者"
+      },
+      {
+        "id": "ru-lai-fo-zu",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "塔中有佛灯焰火，哪吒惧火不敢近前"
+    ],
+    "tags": [
+      "法宝",
+      "玲珑塔",
+      "托塔天王"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ren-zhong-dai",
+    "name": "人种袋",
+    "aliases": [
+      "人种袋",
+      "后天袋"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "huang-mei-tongzi",
+    "origin": "弥勒佛之法宝，黄眉童子盗下凡间",
+    "summary": "黄眉童子法宝，能将人神装入袋中，弥勒佛之后天袋",
+    "description": "人种袋又名后天袋，为弥勒佛之法宝。黄眉童子为弥勒佛殿前司磬童子，盗了弥勒佛的金铙与人种袋逃下凡间，在小西天小雷音寺假佛设斋，欲取代唐僧取经功德。人种袋威力极大，张开袋口便能将人神、兵器法宝尽数装入袋中，不论多少，一袋皆收。悟空多次斗战黄眉童子，请二十八宿、真武大帝等各路援兵，皆被人种袋收入。最终弥勒佛亲来收回黄眉童子与法宝。人种袋乃取经路上最难对付的法宝之一。",
+    "properties": {
+      "功效": "张口即收人神兵器，不论多少一袋皆收",
+      "原主": "弥勒佛"
+    },
+    "appears_in": [
+      65,
+      66
+    ],
+    "first_appears": 65,
+    "acquisition": {
+      "chapter": 65,
+      "method": "盗取",
+      "description": "黄眉童子盗弥勒佛人种袋下凡为妖"
+    },
+    "related_characters": [
+      {
+        "id": "huang-mei-tongzi",
+        "relation": "盗用者"
+      },
+      {
+        "id": "mi-le-fo",
+        "relation": "原主/收回者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "受害者"
+      }
+    ],
+    "quotes": [
+      "张开袋口，不论人神兵器，尽数装入袋中"
+    ],
+    "tags": [
+      "法宝",
+      "人种袋",
+      "黄眉童子",
+      "小雷音寺"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-rao",
+    "name": "金铙",
+    "aliases": [
+      "金铙",
+      "铙钹"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "huang-mei-tongzi",
+    "origin": "弥勒佛之法宝，黄眉童子盗下凡间",
+    "summary": "黄眉童子法宝，合拢则困人于内，坚固无比无法破开",
+    "description": "金铙为弥勒佛之法宝，与人种袋同为黄眉童子盗下凡间之物。此铙为两面金钹，合拢时能将人困在其中，铙内合缝无缝，坚固无比。孙悟空被金铙合拢困于其中，用金箍棒打不得破，以变大变小之法亦不得脱。二十八宿星官以角钻钻透一缝方得脱出，但铙亦随之碎裂。悟空脱出后打碎金铙，黄眉童子随后又以人种袋收去众援兵。弥勒佛亲来收服黄眉童子，但金铙已碎不可复原。",
+    "properties": {
+      "材质": "金",
+      "功效": "合拢困人于内，无缝坚固无法破开",
+      "原主": "弥勒佛"
+    },
+    "appears_in": [
+      65,
+      66
+    ],
+    "first_appears": 65,
+    "acquisition": {
+      "chapter": 65,
+      "method": "盗取",
+      "description": "黄眉童子盗弥勒佛金铙下凡为妖"
+    },
+    "related_characters": [
+      {
+        "id": "huang-mei-tongzi",
+        "relation": "盗用者"
+      },
+      {
+        "id": "mi-le-fo",
+        "relation": "原主/收回者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "被困者"
+      }
+    ],
+    "quotes": [
+      "合拢无缝，金箍棒打不得破"
+    ],
+    "tags": [
+      "法宝",
+      "金铙",
+      "黄眉童子"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zi-jin-ling",
+    "name": "紫金铃",
+    "aliases": [
+      "紫金铃铛"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "sai-tai-sui",
+    "origin": "观音菩萨赐予金毛犼之法宝",
+    "summary": "赛太岁之法宝，三个铃铛各有妙用：烟火黄沙飞沙",
+    "description": "紫金铃为观音菩萨赐予坐骑金毛犼之法宝，共三个铃铛：第一个晃一晃出三百丈火光烧人，第二个晃一晃出三百丈烟熏人，第三个晃一晃出三百丈黄沙迷人。烟火黄沙三者合一极为厉害，人被熏即丧命。金毛犼下凡为赛太岁，霸占朱紫国王后金圣宫。悟空盗铃时变化为有来有去（赛太岁小妖）潜入洞中，后又变化假铃换真铃。最终观音亲来收回金毛犼与紫金铃。悟空曾言此铃为观音莲花池边铃儿。",
+    "properties": {
+      "数量": "三个铃铛",
+      "功效": "一铃出火光，二铃出烟，三铃出黄沙",
+      "原主": "观音菩萨"
+    },
+    "appears_in": [
+      70,
+      71
+    ],
+    "first_appears": 70,
+    "acquisition": {
+      "chapter": 70,
+      "method": "盗取/赐予",
+      "description": "观音赐金毛犼紫金铃，金毛犼下凡为赛太岁持铃"
+    },
+    "related_characters": [
+      {
+        "id": "sai-tai-sui",
+        "relation": "持有者"
+      },
+      {
+        "id": "guanyin",
+        "relation": "原主/赐予者/收回者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "盗取者"
+      }
+    ],
+    "quotes": [
+      "第一个晃出火光烧人，第二个晃出烟熏人，第三个晃出黄沙迷人"
+    ],
+    "tags": [
+      "法宝",
+      "紫金铃",
+      "赛太岁",
+      "金毛犼"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ding-feng-dan",
+    "name": "定风丹",
+    "aliases": [
+      "定风珠"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "lingji-pusa",
+    "origin": "如来佛祖赐予灵吉菩萨，用以镇定风魔",
+    "summary": "灵吉菩萨所持法宝，能定住芭蕉扇之风",
+    "description": "定风丹为如来佛祖赐予灵吉菩萨之法宝，用以镇压风魔。如来因火焰山之火与芭蕉扇之风为同一根源——悟空蹬下八卦炉砖化为火焰山，炉火余气化为风——故赐灵吉菩萨定风丹镇之。孙悟空被铁扇公主芭蕉扇扇飞至五万余里外的小须弥山灵吉菩萨处，灵吉菩萨赐悟空定风丹。悟空含定风丹于口中再来借扇，铁扇公主再扇悟空不动，此丹定住芭蕉扇之风力。定风丹为克制芭蕉扇之关键法宝。",
+    "properties": {
+      "功效": "定住风力，不受芭蕉扇扇动",
+      "赐予者": "如来佛祖"
+    },
+    "appears_in": [
+      59,
+      60
+    ],
+    "first_appears": 59,
+    "acquisition": {
+      "chapter": 59,
+      "method": "灵吉菩萨赐予",
+      "description": "悟空被扇飞至灵吉菩萨处，灵吉赐定风丹"
+    },
+    "related_characters": [
+      {
+        "id": "lingji-pusa",
+        "relation": "持有者/赐予者"
+      },
+      {
+        "id": "ru-lai-fo-zu",
+        "relation": "原赐予者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "使用者"
+      }
+    ],
+    "quotes": [
+      "如来赐灵吉菩萨定风丹，以镇风魔"
+    ],
+    "tags": [
+      "法宝",
+      "定风丹",
+      "芭蕉扇克制"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "fei-long-zhang",
+    "name": "飞龙杖",
+    "aliases": [
+      "飞龙宝杖"
+    ],
+    "category": "weapon",
+    "type": "法宝",
+    "owner": "lingji-pusa",
+    "origin": "如来佛祖赐予灵吉菩萨",
+    "summary": "灵吉菩萨之法宝飞龙杖，用以降伏风魔黄风怪",
+    "description": "飞龙杖为如来佛祖赐予灵吉菩萨之法宝，用以降伏黄风怪。黄风怪乃灵吉菩萨辖区之妖，为偷吃佛前琉璃盏内清油逃下凡间之貂鼠精，擅使三昧神风。悟空斗黄风怪时被三昧神风所伤，眼目酸疼。灵吉菩萨持飞龙杖出手降伏，飞龙杖化一条八爪金龙上前将黄风怪抓住。此杖为如来赐灵吉菩萨镇定辖区风妖之法宝，与定风丹同为灵吉菩萨受如来所赐之物。",
+    "properties": {
+      "功效": "化金龙抓妖降风魔",
+      "赐予者": "如来佛祖"
+    },
+    "appears_in": [
+      21
+    ],
+    "first_appears": 21,
+    "acquisition": {
+      "chapter": 21,
+      "method": "如来赐予",
+      "description": "如来赐灵吉菩萨飞龙杖以降伏黄风怪"
+    },
+    "related_characters": [
+      {
+        "id": "lingji-pusa",
+        "relation": "持有者"
+      },
+      {
+        "id": "ru-lai-fo-zu",
+        "relation": "赐予者"
+      },
+      {
+        "id": "huang-feng-guai",
+        "relation": "被降者"
+      }
+    ],
+    "quotes": [
+      "飞龙杖化一条八爪金龙将黄风怪擒住"
+    ],
+    "tags": [
+      "法宝",
+      "飞龙杖",
+      "黄风怪"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-gou-zhou",
+    "name": "金箍咒",
+    "aliases": [
+      "金箍",
+      "金箍儿"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "guanyin",
+    "origin": "观音菩萨之法宝，用于收服红孩儿",
+    "summary": "观音菩萨用以收服红孩儿之金箍，与紧箍咒为同源三箍之一",
+    "description": "金箍为观音菩萨所持三箍之一（紧箍、禁箍、金箍），观音以金箍收服红孩儿。红孩儿号圣婴大王，擅使三昧真火，掳走唐僧。悟空斗红孩儿不敌，请观音出手。观音以金箍五个——一个戴顶上、两个戴左右手、两个戴左右脚——困住红孩儿。念金箍咒时五箍齐收紧，红孩儿疼痛难当，不得不归顺。观音收红孩儿为善财童子，侍于普陀落伽山左右。金箍与紧箍为同源法宝，但用法与对象不同。",
+    "properties": {
+      "数量": "五个金箍",
+      "功效": "戴顶手足五处，念咒齐收紧",
+      "对象": "红孩儿"
+    },
+    "appears_in": [
+      42,
+      43
+    ],
+    "first_appears": 42,
+    "acquisition": {
+      "chapter": 42,
+      "method": "观音施用",
+      "description": "观音以金箍五枚戴于红孩儿顶手足收服"
+    },
+    "related_characters": [
+      {
+        "id": "guanyin",
+        "relation": "持有者/使用者"
+      },
+      {
+        "id": "hong-hai-er",
+        "relation": "佩戴者"
+      }
+    ],
+    "quotes": [
+      "五个金箍戴顶手足，念咒齐收"
+    ],
+    "tags": [
+      "法宝",
+      "金箍",
+      "红孩儿",
+      "善财童子"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xi-ling-jin-pa",
+    "name": "锦襕袈裟",
+    "aliases": [
+      "锦襕异宝袈裟",
+      "袈裟"
+    ],
+    "category": "treasure",
+    "type": "宝物",
+    "owner": "tang-sanzang",
+    "origin": "观音菩萨化卖时携来，赠予唐僧",
+    "summary": "唐僧所穿袈裟，观音赠予之锦襕异宝袈裟",
+    "description": "锦襕袈裟为观音菩萨携来之异宝袈裟，赠予唐僧玄奘。袈裟上镶嵌有水火不侵、刀枪不入之宝物：龙披一缕鹤挂一缕，织金描银，上有明珠异宝缀饰。观音与木叉变化疥癞游僧入长安卖袈裟锡杖，引唐僧至唐太宗前。太宗以袈裟锡杖赐予唐僧，令其西行取经时穿戴。袈裟曾于观音院被盗，院主金池长老贪此袈裟欲谋取，引火烧院。悟空以辟火罩护唐僧，袈裟终被黑熊精盗走，后观音收黑熊精取回袈裟。",
+    "properties": {
+      "材质": "锦襕织金",
+      "功效": "水火不侵，刀枪不入",
+      "镶嵌": "明珠异宝"
+    },
+    "appears_in": [
+      12,
+      16,
+      17
+    ],
+    "first_appears": 12,
+    "acquisition": {
+      "chapter": 12,
+      "method": "观音赠予",
+      "description": "观音携袈裟至长安，太宗赐予唐僧"
+    },
+    "related_characters": [
+      {
+        "id": "tang-sanzang",
+        "relation": "持有者"
+      },
+      {
+        "id": "guanyin",
+        "relation": "赠予者"
+      },
+      {
+        "id": "tang-taizong",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "水火不侵，刀枪不入"
+    ],
+    "tags": [
+      "宝物",
+      "袈裟",
+      "唐僧"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-huan-xi-zhang",
+    "name": "九环锡杖",
+    "aliases": [
+      "九环杖",
+      "锡杖"
+    ],
+    "category": "weapon",
+    "type": "宝物",
+    "owner": "tang-sanzong",
+    "origin": "观音菩萨化卖时携来，赠予唐僧",
+    "summary": "唐僧所持锡杖，九环嵌银之异宝锡杖",
+    "description": "九环锡杖为观音菩萨携来之异宝锡杖，与锦襕袈裟一同赠予唐僧。杖上嵌有九环锡节，行路时环响叮当，可防毒虫恶物避身。此杖为出家人行路之法器，亦有防身之意。观音与木叉变化疥癞游僧入长安街头卖袈裟与锡杖，遇唐僧引荐至太宗。太宗以袈裟锡杖赐予唐僧，令其西行取经时持杖行路。九环锡杖为唐僧标志性法器，取经途中常持此杖，乃取经队伍识别唐僧身份的重要标志。",
+    "properties": {
+      "特征": "九环锡节",
+      "材质": "锡杖嵌银",
+      "功效": "环响防毒虫恶物"
+    },
+    "appears_in": [
+      12,
+      16,
+      17
+    ],
+    "first_appears": 12,
+    "acquisition": {
+      "chapter": 12,
+      "method": "观音赠予",
+      "description": "观音携锡杖至长安，太宗赐予唐僧"
+    },
+    "related_characters": [
+      {
+        "id": "tang-sanzang",
+        "relation": "持有者"
+      },
+      {
+        "id": "guanyin",
+        "relation": "赠予者"
+      },
+      {
+        "id": "tang-taizong",
+        "relation": "赐予者"
+      }
+    ],
+    "quotes": [
+      "行路时九环叮当作响"
+    ],
+    "tags": [
+      "宝物",
+      "锡杖",
+      "唐僧"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qian-shou-yu",
+    "name": "千手观音法相",
+    "aliases": [
+      "千手千眼观音",
+      "千手观音"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "guanyin",
+    "origin": "观音菩萨显化法相",
+    "summary": "观音菩萨显化千手千眼法相，用以收服红孩儿",
+    "description": "千手观音法相为观音菩萨显化之大法相，用以收服红孩儿。观音以净瓶杨柳枝蘸甘露水弹三滴化为三头六臂法身，又令木叉将净瓶倒倾倾出海水围困红孩儿。观音坐莲台于海水之上，以金箍五枚戴于红孩儿顶手足，念金箍咒收服。千手千眼为观音大慈悲法相之显现，每手各执一件法器或宝物，象征观音救度众生之无量功德。此法相于收红孩儿时显化，为观音最具威严之形象。",
+    "properties": {
+      "特征": "千手千眼",
+      "功效": "收服妖魔",
+      "显化": "收红孩儿时显化"
+    },
+    "appears_in": [
+      42
+    ],
+    "first_appears": 42,
+    "acquisition": {
+      "chapter": 42,
+      "method": "显化法相",
+      "description": "观音显化千手千眼法相收服红孩儿"
+    },
+    "related_characters": [
+      {
+        "id": "guanyin",
+        "relation": "显化者"
+      },
+      {
+        "id": "hong-hai-er",
+        "relation": "被收者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "法宝",
+      "千手观音",
+      "观音法相"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tai-yi-jing-cai",
+    "name": "太乙精怪法宝",
+    "aliases": [
+      "九灵元圣之法",
+      "太乙天尊法力"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "tai-yi-jiuku-tianzun",
+    "origin": "太乙救苦天尊法力与坐骑九灵元圣相关",
+    "summary": "太乙救苦天尊之法力与其坐骑九灵元圣之相关法宝",
+    "description": "太乙救苦天尊为东极妙岩宫之主，其坐骑九灵元圣为九头狮子，神通广大。九灵元圣下凡为妖，号九灵元圣，收黄狮精等七狮为徒孙。九灵元圣不需兵器法宝，仅以头一口即可叼走悟空与八戒，为取经路上唯一不仗法宝而凭自身神通擒悟空之妖。太乙救苦天尊闻悟空来请，即刻出宫以法力收回九灵元圣。天尊之法力可号令诸天、驾驭九灵元圣，虽非传统兵器法宝，但其驾驭坐骑之权与法力本身即为至高法力。",
+    "properties": {
+      "持有者": "太乙救苦天尊",
+      "关联": "九灵元圣",
+      "特征": "驾驭九头狮子之法力"
+    },
+    "appears_in": [
+      89,
+      90
+    ],
+    "first_appears": 89,
+    "acquisition": {
+      "chapter": 89,
+      "method": "天尊法力",
+      "description": "太乙救苦天尊以法力收回九灵元圣"
+    },
+    "related_characters": [
+      {
+        "id": "tai-yi-jiuku-tianzun",
+        "relation": "持有者"
+      },
+      {
+        "id": "jiu-ling-yuan-sheng",
+        "relation": "坐骑/九头狮子"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "求援者"
+      }
+    ],
+    "quotes": [
+      "九灵元圣仅以头一口叼走悟空"
+    ],
+    "tags": [
+      "法宝",
+      "太乙天尊",
+      "九灵元圣"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-tu",
+    "name": "玉兔捣药杵",
+    "aliases": [
+      "捣药杵",
+      "玉兔杵"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "yu-tu-jing",
+    "origin": "广寒宫玉兔之捣药杵",
+    "summary": "玉兔精所持捣药杵，为广寒宫玉兔捣仙药之器",
+    "description": "捣药杵为广寒宫玉兔捣仙药之器，玉兔下凡为妖时携带此杵作为兵器。玉兔精为真公主之替身，假冒天竺国公主欲招唐僧为婿。悟空识破妖怪本相，与玉兔精大战，玉兔精以捣药杵与悟空斗战数回合。此杵虽为捣药之器，但玉兔以此与悟空金箍棒对阵不落下风，可见亦非凡品。最终太阴星君与嫦娥降临收服玉兔，将捣药杵一同收回。捣药杵为月宫之物，仙药之器化为战时兵器。",
+    "properties": {
+      "材质": "不详",
+      "原用途": "广寒宫捣仙药",
+      "战时用途": "对战金箍棒不落下风"
+    },
+    "appears_in": [
+      93,
+      94,
+      95
+    ],
+    "first_appears": 93,
+    "acquisition": {
+      "chapter": 93,
+      "method": "随身携带",
+      "description": "玉兔自广寒宫下凡时随身携带捣药杵"
+    },
+    "related_characters": [
+      {
+        "id": "yu-tu-jing",
+        "relation": "持有者"
+      },
+      {
+        "id": "tai-yin-xing-jun",
+        "relation": "原主/收回者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "捣药杵",
+      "玉兔精"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qi-xing-jian",
+    "name": "七星剑",
+    "aliases": [
+      "七星宝剑"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "jin-jiao-dawang",
+    "origin": "金角大王所持兵器，自太上老君处带下凡间",
+    "summary": "金角大王随身兵器，七星宝剑，剑镶七星之宝",
+    "description": "七星剑为金角大王随身兵器，剑上镶七颗星辰之宝，故称七星剑。金角大王与银角大王原为太上老君看炉童子，下凡为妖时携带太上老君诸般法宝与兵器，七星剑即为其一。在平顶山莲花洞故事中，金角大王持七星剑与孙悟空大战，虽最终不敌悟空，但此剑为天宫所出之宝剑，威力不凡。后太上老君亲来收回诸般法宝与兵器，七星剑亦在其中。此剑为金角大王标志性兵器。",
+    "properties": {
+      "材质": "不详",
+      "特征": "剑镶七星之宝",
+      "使用者": "金角大王"
+    },
+    "appears_in": [
+      33,
+      34,
+      35
+    ],
+    "first_appears": 33,
+    "acquisition": {
+      "chapter": 33,
+      "method": "盗取",
+      "description": "金角大王自太上老君处带下凡间"
+    },
+    "related_characters": [
+      {
+        "id": "jin-jiao-dawang",
+        "relation": "主人"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "原主"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "宝剑",
+      "金角大王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十三至三十五回 平顶山莲花洞"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhan-yao-jian",
+    "name": "斩妖剑",
+    "aliases": [
+      "托塔天王剑"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "ta-li-tianwang",
+    "origin": "托塔天王李靖随身兵器",
+    "summary": "托塔天王李靖随身兵器，斩妖宝剑，天庭统帅之佩剑",
+    "description": "斩妖剑为托塔天王李靖随身兵器。李靖为天庭降魔大元帅，统帅天兵天将征讨妖魔，常持此剑指挥作战。天庭征讨孙悟空时，李靖奉玉帝旨意率天兵围剿花果山，持此剑督战。后收服牛魔王等妖魔时亦随行。斩妖剑为李靖标志性兵器，与玲珑宝塔同为李靖两大法器之一。虽戏份不如宝塔突出，但作为天庭统帅之佩剑，亦是重要神兵。",
+    "properties": {
+      "使用者": "托塔天王李靖",
+      "特征": "斩妖除魔之佩剑",
+      "材质": "不详"
+    },
+    "appears_in": [
+      4,
+      6,
+      7,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身携带",
+      "description": "托塔天王随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "ta-li-tianwang",
+        "relation": "主人"
+      },
+      {
+        "id": "yu-huang-dadi",
+        "relation": "上级"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "征讨对象"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "宝剑",
+      "托塔天王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 天庭征讨花果山"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xiang-yao-chu",
+    "name": "降妖杵",
+    "aliases": [
+      "托塔天王杵"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "ta-li-tianwang",
+    "origin": "托塔天王李靖之法器兵器",
+    "summary": "托塔天王李靖之法器，降妖宝杵，重型击打兵器",
+    "description": "降妖杵为托塔天王李靖之法器兵器。李靖为天庭降魔大元帅，统帅天兵天将征讨妖魔，除玲珑宝塔与斩妖剑外，亦持降妖杵为兵器。此杵用以降伏妖魔，威力不凡。天庭征讨孙悟空、收服牛魔王等多处战事中，李靖率众出战，诸般兵器随行。降妖杵为天庭武将常用之重型兵器，形如短粗之杵，一端粗一端细，便于砸击。虽原著中描写较略，但为李靖重要兵器之一。",
+    "properties": {
+      "使用者": "托塔天王李靖",
+      "形状": "短粗杵形",
+      "用途": "砸击降妖"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身携带",
+      "description": "托塔天王随身携带之法器"
+    },
+    "related_characters": [
+      {
+        "id": "ta-li-tianwang",
+        "relation": "主人"
+      },
+      {
+        "id": "nezha",
+        "relation": "关联者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "宝杵",
+      "托塔天王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 天庭征讨花果山"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "feng-huo-lun",
+    "name": "风火轮",
+    "aliases": [
+      "风火双轮"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "nezha",
+    "origin": "哪吒三太子脚踏之法器",
+    "summary": "哪吒三太子脚踏之法器，风火双轮，瞬行万里",
+    "description": "风火轮为哪吒三太子脚踏之法器。哪吒乃托塔天王李靖第三子，生有三头六臂神通。风火轮乃一双轮子，左轮生风，右轮喷火，踩于足下，能瞬行万里，上天入地无所不至。哪吒曾奉父命随天兵征讨孙悟空，脚踏风火轮与悟空大战三十回合不分胜负。后在降伏牛魔王时亦脚踏风火轮相助。风火轮为哪吒标志法器之一，与火尖枪、乾坤圈、混天绫等并为哪吒随身法宝。",
+    "properties": {
+      "数量": "一双",
+      "功效": "左轮生风右轮喷火，瞬行万里",
+      "使用者": "哪吒三太子"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身法器",
+      "description": "哪吒随身携带之法器"
+    },
+    "related_characters": [
+      {
+        "id": "nezha",
+        "relation": "主人"
+      },
+      {
+        "id": "ta-li-tianwang",
+        "relation": "哪吒之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "风火轮",
+      "哪吒"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 哪吒征讨孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qian-kun-quan",
+    "name": "乾坤圈",
+    "aliases": [
+      "金砖圈"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "nezha",
+    "origin": "哪吒三太子随身法宝",
+    "summary": "哪吒三太子随身法宝，乾坤圈，套取兵器砸击敌人",
+    "description": "乾坤圈为哪吒三太子随身法宝之一。哪吒乃托塔天王李靖第三子，生有三头六臂神通，变化多端。乾坤圈为一个金圈，能套取对手兵器法宝，亦可直接砸击敌人。哪吒曾奉父命随天兵征讨孙悟空，与悟空大战时使出三头六臂，手持六件兵器，乾坤圈为其一。后在降伏牛魔王时亦出手相助，以乾坤圈等法器助战。乾坤圈与风火轮、火尖枪、混天绫、金砖同为哪吒标志法宝。",
+    "properties": {
+      "材质": "金",
+      "功效": "套取兵器、砸击敌人",
+      "使用者": "哪吒三太子"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身法宝",
+      "description": "哪吒随身携带之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "nezha",
+        "relation": "主人"
+      },
+      {
+        "id": "ta-li-tianwang",
+        "relation": "哪吒之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "乾坤圈",
+      "哪吒"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 哪吒征讨孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hun-tian-ling",
+    "name": "混天绫",
+    "aliases": [
+      "混天绫带"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "nezha",
+    "origin": "哪吒三太子随身法宝",
+    "summary": "哪吒三太子随身法宝，混天绫带，缠缚敌人",
+    "description": "混天绫为哪吒三太子随身法宝之一，为一条红色绫带。哪吒乃托塔天王李靖第三子，生有三头六臂神通。混天绫能缠缚敌人，亦可化为火攻敌，变化多端。哪吒曾奉父命随天兵征讨孙悟空，与悟空大战时使出三头六臂，手持六件兵器，混天绫为其一。后在降伏牛魔王时亦出手相助。混天绫与风火轮、火尖枪、乾坤圈、金砖同为哪吒标志法宝，为天庭重要武将之兵器。",
+    "properties": {
+      "材质": "绫带",
+      "功效": "缠缚敌人、化为火攻敌",
+      "使用者": "哪吒三太子"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身法宝",
+      "description": "哪吒随身携带之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "nezha",
+        "relation": "主人"
+      },
+      {
+        "id": "ta-li-tianwang",
+        "relation": "哪吒之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "混天绫",
+      "哪吒"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 哪吒征讨孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-zhuan",
+    "name": "金砖",
+    "aliases": [
+      "哪吒金砖"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "nezha",
+    "origin": "哪吒三太子随身法宝",
+    "summary": "哪吒三太子随身法宝，金砖，掷出砸人威力极大",
+    "description": "金砖为哪吒三太子随身法宝之一。哪吒乃托塔天王李靖第三子，生有三头六臂神通。金砖为一块金质砖形法宝，掷出砸人，威力极大，可变化大小。哪吒曾奉父命随天兵征讨孙悟空，与悟空大战时使出三头六臂，手持六件兵器，金砖为其一。后在降伏牛魔王时亦出手相助，以金砖等法器助战。金砖与风火轮、火尖枪、乾坤圈、混天绫同为哪吒标志法宝。",
+    "properties": {
+      "材质": "金",
+      "形状": "砖形",
+      "功效": "掷出砸人，可变化大小",
+      "使用者": "哪吒三太子"
+    },
+    "appears_in": [
+      4,
+      6,
+      61
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身法宝",
+      "description": "哪吒随身携带之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "nezha",
+        "relation": "主人"
+      },
+      {
+        "id": "ta-li-tianwang",
+        "relation": "哪吒之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "神兵",
+      "金砖",
+      "哪吒"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 哪吒征讨孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-gu-cha",
+    "name": "九股叉",
+    "aliases": [
+      "九股钢叉"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "dong-hai-longwang",
+    "origin": "东海龙宫所藏之兵器",
+    "summary": "东海龙宫兵器，九股钢叉，重三千六百斤",
+    "description": "九股叉为东海龙宫之兵器，叉分九股，形制独特。孙悟空入东海龙宫索兵器时，龙王先取出大杆刀，悟空嫌轻；又取出九股叉，重三千六百斤，悟空仍嫌轻；最终取出如意金箍棒，方才称手。九股叉虽未被悟空选中，但亦是龙宫珍藏之兵器，重达三千六百斤，非寻常兵卒所能使。龙宫珍藏诸多兵器以镇海护宫，九股叉为其中代表之一。此叉体现龙宫兵器之分量。",
+    "properties": {
+      "重量": "三千六百斤",
+      "材质": "钢",
+      "形状": "九股叉"
+    },
+    "appears_in": [
+      3
+    ],
+    "first_appears": 3,
+    "acquisition": {
+      "chapter": 3,
+      "method": "龙宫珍藏",
+      "description": "东海龙宫所藏之兵器，悟空嫌轻未取"
+    },
+    "related_characters": [
+      {
+        "id": "dong-hai-longwang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "未取者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "钢叉",
+      "龙宫"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三回 悟空东海龙宫索兵器"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hua-gan-ji",
+    "name": "画杆戟",
+    "aliases": [
+      "木叉画戟"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "惠岸行者木叉所用之兵器",
+    "summary": "惠岸行者木叉所使兵器，画杆戟，天将之长兵器",
+    "description": "画杆戟为惠岸行者木叉所使兵器。木叉乃托塔天王李靖第二子，拜观音菩萨为师，号惠岸行者，为菩萨护法弟子。观音奉旨寻访取经人、收服妖魔时，木叉多随行护持。木叉曾奉观音法旨往花果山助阵征讨孙悟空，与悟空大战，不敌败回。画杆戟杆身绘饰花纹，戟头锋利，为天将常用之长兵器。此戟为天宫所出之兵器，虽不及金箍棒等神兵，但亦为天庭武将可靠之兵器。",
+    "properties": {
+      "形状": "长戟",
+      "特征": "杆身绘饰花纹",
+      "使用者": "惠岸行者木叉"
+    },
+    "appears_in": [
+      6
+    ],
+    "first_appears": 6,
+    "acquisition": {
+      "chapter": 6,
+      "method": "随身携带",
+      "description": "惠岸行者随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "ta-li-tianwang",
+        "relation": "父亲"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "画戟",
+      "惠岸行者"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六回 惠岸行者助阵花果山"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "pi-pa",
+    "name": "琵琶",
+    "aliases": [
+      "蝎子精琵琶"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "蝎子精所持之琵琶法器",
+    "summary": "蝎子精所持琵琶，弹奏可乱人心神",
+    "description": "琵琶为蝎子精所持之法器兵器。蝎子精居于毒敌山琵琶洞，欲强招唐僧为夫妻。蝎子精武艺高强，曾蜇伤如来佛祖，又蜇伤孙悟空与猪八戒，悟空请来昴日星官方才收服。琵琶为蝎子精以音律惑人之法器，弹奏时可乱敌人心神，令其昏沉。琵琶洞亦因蝎子精持此琵琶而得名。虽为乐器，但蝎子精以此作为兵器法宝，为毒敌山琵琶洞之标志物。",
+    "properties": {
+      "材质": "木",
+      "原用途": "乐器",
+      "功效": "弹奏乱人心神",
+      "使用者": "蝎子精"
+    },
+    "appears_in": [
+      55
+    ],
+    "first_appears": 55,
+    "acquisition": {
+      "chapter": 55,
+      "method": "持有",
+      "description": "蝎子精随身所持之琵琶法器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      },
+      {
+        "id": "tang-seng",
+        "relation": "被掳者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "琵琶",
+      "蝎子精"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十五回 毒敌山琵琶洞"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xuan-hua-fu",
+    "name": "宣花斧",
+    "aliases": [
+      "宣花板斧"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "巨灵神所使之宣花板斧",
+    "summary": "巨灵神所使兵器，宣花板斧，重型劈砍兵器",
+    "description": "宣花斧为巨灵神所使兵器。天庭征讨孙悟空时，巨灵神为先锋，手执宣花板斧与悟空交战。巨灵神虽力大无穷，但武艺不及悟空，被悟空一棒打断斧柄，败阵而回。宣花斧为重形板斧，斧面宽阔，需力大者方能挥舞。此斧虽在花果山之战中败于金箍棒，但亦为天庭武将之标志重型兵器。巨灵神败阵后，哪吒三太子继而出战。宣花斧为天庭先锋武将之兵器。",
+    "properties": {
+      "形状": "板斧",
+      "特征": "斧面宽阔",
+      "使用者": "巨灵神"
+    },
+    "appears_in": [
+      4
+    ],
+    "first_appears": 4,
+    "acquisition": {
+      "chapter": 4,
+      "method": "随身携带",
+      "description": "巨灵神随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      },
+      {
+        "id": "ta-li-tianwang",
+        "relation": "天庭统帅"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "板斧",
+      "巨灵神"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回 巨灵神战孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "lang-ya-bang",
+    "name": "狼牙棒",
+    "aliases": [
+      "狼牙大棒"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "妖魔常用之重型兵器",
+    "summary": "狼牙棒，棒身密布狼牙铁钉，妖魔重型兵器",
+    "description": "狼牙棒为棒身密布尖锐铁钉之重型兵器，因钉如狼牙而得名。此棒重而沉，一击可碎顽石，需力大者方能挥舞。取经路上诸多妖魔以此棒为兵器，与悟空等人斗战。狼牙棒虽非神兵法宝，但因其沉重锋利，寻常兵器难以招架。棒身铁钉亦可增加杀伤，令对手难以近身。此兵器为妖魔中常见之重型武器，体现妖魔武艺之粗犷勇猛，为西游记中常见兵器类型。",
+    "properties": {
+      "形状": "棒身密布铁钉",
+      "特征": "沉重锋利",
+      "材质": "铁"
+    },
+    "appears_in": [
+      89
+    ],
+    "first_appears": 89,
+    "acquisition": {
+      "chapter": 89,
+      "method": "持有",
+      "description": "妖魔随身携带之重型兵器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "狼牙棒",
+      "妖魔"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十九回 玉华州竹节山"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "gu-duo",
+    "name": "骨朵",
+    "aliases": [
+      "金骨朵"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "天将或妖魔所用之击打兵器",
+    "summary": "骨朵，球形锤头之兵器，重型击打兵器",
+    "description": "骨朵为古代击打兵器，形如长棒，一端缀连球形或蒜头形之金属锤头，用以砸击。骨朵与锤相似，但锤头不分开，浑圆一体，故称骨朵。天庭武将及取经路上妖魔中皆有使此兵器者。骨朵重而沉，一击可破甲碎骨，需力大者方能使用。此兵器虽不及神兵法宝变化多端，但凭其重量与硬度，亦是可靠之击打兵器。骨朵为西游记中常见兵器类型之一。",
+    "properties": {
+      "形状": "球形锤头",
+      "特征": "沉重坚硬",
+      "材质": "铁"
+    },
+    "appears_in": [
+      89
+    ],
+    "first_appears": 89,
+    "acquisition": {
+      "chapter": 89,
+      "method": "持有",
+      "description": "妖魔随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "骨朵",
+      "击打兵器"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十九回 玉华州竹节山"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "fang-tian-hua-ji",
+    "name": "方天画戟",
+    "aliases": [
+      "画戟"
+    ],
+    "category": "weapon",
+    "type": "兵器",
+    "owner": "none",
+    "origin": "大鹏金翅雕所使兵器",
+    "summary": "大鹏金翅雕所使兵器，方天画戟，攻守兼备",
+    "description": "方天画戟为大鹏金翅雕所使兵器。大鹏金翅雕乃狮驼岭三魔之一，为如来佛祖之舅，神通广大。方天画戟戟头呈井字形，双刃对称，杆身绘饰花纹，故称画戟。大鹏以此戟与孙悟空大战，武艺高强，悟空难以取胜。此戟为重形长兵器，攻守兼备，刺挑劈砍皆宜。大鹏最终被如来佛祖亲来收服，方天画戟亦随大鹏被收。此戟为狮驼岭大魔王之标志兵器。",
+    "properties": {
+      "形状": "井字双刃戟头",
+      "特征": "杆身绘饰花纹",
+      "使用者": "大鹏金翅雕"
+    },
+    "appears_in": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "first_appears": 74,
+    "acquisition": {
+      "chapter": 74,
+      "method": "持有",
+      "description": "大鹏金翅雕随身携带之兵器"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "对手"
+      },
+      {
+        "id": "ru-lai-fozu",
+        "relation": "收服者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "兵器",
+      "画戟",
+      "大鹏金翅雕"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十四至七十七回 狮驼岭"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yin-yang-er-qi-ping",
+    "name": "阴阳二气瓶",
+    "aliases": [
+      "二气瓶"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "none",
+    "origin": "大鹏金翅雕所持之法宝",
+    "summary": "大鹏金翅雕之法宝，阴阳二气瓶，装人于内一时三刻化脓水",
+    "description": "阴阳二气瓶为大鹏金翅雕所持之法宝。此瓶内藏阴阳二气，若将人装入瓶中，一时三刻即化为脓水。大鹏以此瓶对付孙悟空，将悟空装入瓶中。瓶内有火龙火马、火牛火象等三十六罡风七十二地煞火，悟空在瓶中备受煎熬，腿上毫毛皆被烧净。悟空以金箍棒化为钻子钻破瓶底方得脱身。阴阳二气瓶为狮驼岭大魔王之重要法宝，威力极大，连孙悟空亦险些化为脓水。",
+    "properties": {
+      "功效": "装入人神一时三刻化脓水",
+      "内部": "三十六罡风七十二地煞火",
+      "原主": "大鹏金翅雕"
+    },
+    "appears_in": [
+      75,
+      76,
+      77
+    ],
+    "first_appears": 75,
+    "acquisition": {
+      "chapter": 75,
+      "method": "持有",
+      "description": "大鹏金翅雕随身持有之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "被困者"
+      },
+      {
+        "id": "ru-lai-fozu",
+        "relation": "收服者"
+      }
+    ],
+    "quotes": [
+      "一时三刻化为脓水"
+    ],
+    "tags": [
+      "法宝",
+      "阴阳二气瓶",
+      "大鹏金翅雕"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十五回 狮驼岭"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huang-jin-sheng",
+    "name": "幌金绳",
+    "aliases": [
+      "捆仙绳"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "yin-jiao-dawang",
+    "origin": "太上老君勒袍之腰带，被童子带下凡间",
+    "summary": "银角大王所持法宝，幌金绳，可自动捆缚敌人",
+    "description": "幌金绳又名捆仙绳，原为太上老君勒袍之腰带，被看炉童子带下凡间。此绳祭起后可自动飞去捆缚敌人，不论远近，一缚即紧。银角大王以此绳对付孙悟空，将悟空捆住。悟空虽有金箍棒亦难脱此绳，后变化脱身并盗走幌金绳。幌金绳需以咒语解开，悟空不知咒语，反被捆缚。最终太上老君收回诸般法宝，幌金绳亦在其中。此绳与紫金红葫芦、羊脂玉净瓶等同为金角银角大王之重要法宝。",
+    "properties": {
+      "功效": "自动飞去捆缚敌人",
+      "原主": "太上老君",
+      "别名": "捆仙绳"
+    },
+    "appears_in": [
+      34,
+      35
+    ],
+    "first_appears": 34,
+    "acquisition": {
+      "chapter": 34,
+      "method": "盗取",
+      "description": "银角大王自太上老君处带下凡间之腰带"
+    },
+    "related_characters": [
+      {
+        "id": "yin-jiao-dawang",
+        "relation": "持有者"
+      },
+      {
+        "id": "jin-jiao-dawang",
+        "relation": "关联者"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "原主"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "被缚者"
+      }
+    ],
+    "quotes": [
+      "祭起即飞去捆缚敌人"
+    ],
+    "tags": [
+      "法宝",
+      "幌金绳",
+      "捆仙绳",
+      "银角大王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十四回 平顶山莲花洞"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhao-yao-jing",
+    "name": "照妖镜",
+    "aliases": [
+      "照妖宝镜"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "ta-li-tianwang",
+    "origin": "托塔天王李靖所持之法宝",
+    "summary": "托塔天王李靖之法宝，照妖镜，能照出妖魔本相",
+    "description": "照妖镜为托塔天王李靖所持之法宝，能照出妖魔本相真身。天庭征讨孙悟空时，李靖以此镜照悟空，欲使其现原形。后收服牛魔王等妖魔时亦曾用此镜。照妖镜为天庭辨别妖魔真身之重要法宝，凡妖魔变化多端、难以识破者，以镜照之即现本相。此镜与玲珑宝塔同为李靖标志性法器。照妖镜在天庭征伐妖魔之事中作用重要，为识别妖魔之关键法宝。",
+    "properties": {
+      "功效": "照出妖魔本相真身",
+      "使用者": "托塔天王李靖",
+      "用途": "识别妖魔变化"
+    },
+    "appears_in": [
+      6,
+      61
+    ],
+    "first_appears": 6,
+    "acquisition": {
+      "chapter": 6,
+      "method": "随身法宝",
+      "description": "托塔天王随身携带之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "ta-li-tianwang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "被照者"
+      }
+    ],
+    "quotes": [
+      "能照出妖魔本相真身"
+    ],
+    "tags": [
+      "法宝",
+      "照妖镜",
+      "托塔天王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六回 天庭征讨孙悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "fu-yao-suo",
+    "name": "缚妖索",
+    "aliases": [
+      "捆妖索"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "ta-li-tianwang",
+    "origin": "托塔天王李靖所持之法宝",
+    "summary": "托塔天王李靖之法宝，缚妖索，可捆缚妖魔",
+    "description": "缚妖索为托塔天王李靖所持之法宝，用以捆缚妖魔。李靖为天庭降魔大元帅，统帅天兵天将征讨妖魔，除玲珑宝塔、斩妖剑、照妖镜外，亦持缚妖索为法宝。此索祭起可飞去捆缚妖魔，不论远近，一缚即紧，与幌金绳功效相似。天庭征讨孙悟空、收服牛魔王等多处战事中，李靖率众出战，诸般法宝随行。缚妖索为李靖降妖除魔之重要法宝之一。",
+    "properties": {
+      "功效": "飞去捆缚妖魔",
+      "使用者": "托塔天王李靖",
+      "特征": "与幌金绳功效相似"
+    },
+    "appears_in": [
+      6,
+      61
+    ],
+    "first_appears": 6,
+    "acquisition": {
+      "chapter": 6,
+      "method": "随身法宝",
+      "description": "托塔天王随身携带之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "ta-li-tianwang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "关联者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "法宝",
+      "缚妖索",
+      "托塔天王"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六回 天庭征讨妖魔"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-long-shen-huo-zhao",
+    "name": "九龙神火罩",
+    "aliases": [
+      "神火罩"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "taishang-laojun",
+    "origin": "太上老君炼制之神火法宝",
+    "summary": "太上老君之法宝，九龙神火罩，罩内神火可烧妖魔",
+    "description": "九龙神火罩为太上老君所炼制之神火法宝。此罩祭起可罩住妖魔，罩内九龙吐火，神火炎炎，不可扑灭，妖魔被罩即被神火烧化。太上老君为三清之一，掌管八卦炼丹炉，炼制诸般法宝，九龙神火罩为其火系法宝之一。老君之法宝多赐予童子或坐骑下凡，如金刚琢、芭蕉扇、紫金红葫芦等。九龙神火罩与老君炼丹炉之火同源，威力极大，为天庭火系法宝之代表。",
+    "properties": {
+      "功效": "罩住妖魔，九龙吐神火",
+      "原主": "太上老君",
+      "属性": "火系法宝"
+    },
+    "appears_in": [
+      50,
+      51,
+      52
+    ],
+    "first_appears": 50,
+    "acquisition": {
+      "chapter": 50,
+      "method": "持有",
+      "description": "太上老君所炼制持有之法宝"
+    },
+    "related_characters": [
+      {
+        "id": "taishang-laojun",
+        "relation": "持有者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "法宝",
+      "神火罩",
+      "太上老君"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十至五十二回 金兜山青牛精"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ren-shen-guo",
+    "name": "人参果",
+    "aliases": [
+      "草还丹",
+      "万寿山异宝"
+    ],
+    "category": "treasure",
+    "type": "仙果",
+    "owner": "none",
+    "origin": "万寿山五庄观人参果树所结之仙果",
+    "summary": "万寿山五庄观人参果，三千年一熟，食之长生不老",
+    "description": "人参果又名草还丹，乃万寿山五庄观人参果树所结之仙果。此树乃天地灵根，三千年一开花，三千年一结果，再三千年才得熟，短头一万年方得吃。果形如未满三朝之婴儿，四肢五官俱全。闻一闻能活三百六十岁，吃一个能活四万七千年。孙悟空偷打人参果，果子遇土即入，悟空以金击子敲果，以衣兜接。后悟空推倒人参果树，求观音以净瓶甘露救活，果树复活比先前更茂盛。人参果为西游记中珍贵仙果之一。",
+    "properties": {
+      "成熟期": "一万年",
+      "功效": "吃一个活四万七千年",
+      "形状": "如未满三朝婴儿",
+      "产地": "万寿山五庄观"
+    },
+    "appears_in": [
+      24,
+      25,
+      26
+    ],
+    "first_appears": 24,
+    "acquisition": {
+      "chapter": 24,
+      "method": "成熟采摘",
+      "description": "五庄观人参果树三千年一熟之仙果"
+    },
+    "related_characters": [
+      {
+        "id": "sun-wukong",
+        "relation": "偷摘者"
+      },
+      {
+        "id": "tang-seng",
+        "relation": "受益者"
+      },
+      {
+        "id": "guanyin-pusa",
+        "relation": "救树者"
+      }
+    ],
+    "quotes": [
+      "三千年一开花，三千年一结果，再三千年才得熟"
+    ],
+    "tags": [
+      "仙果",
+      "人参果",
+      "草还丹",
+      "五庄观"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十四至二十六回 五庄观"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "pan-tao",
+    "name": "蟠桃",
+    "aliases": [
+      "仙桃",
+      "王母蟠桃"
+    ],
+    "category": "treasure",
+    "type": "仙果",
+    "owner": "wangmu-niangniang",
+    "origin": "王母娘娘蟠桃园所产之仙桃",
+    "summary": "王母娘娘蟠桃园仙桃，食之长生不老",
+    "description": "蟠桃乃王母娘娘蟠桃园所产之仙桃。蟠桃园有三千六百株桃树：前一千二百株花微果小，三千年一熟，人吃了成仙了道；中一千二百株层花甘实，六千年一熟，人吃了霞举飞升长生不老；后一千二百株紫纹缃核，九千年一熟，人吃了与天地齐寿。孙悟空被授齐天大圣后看管蟠桃园，偷吃仙桃无数。后王母娘娘设蟠桃胜会，因悟空偷吃蟠桃、搅乱盛会，引出大闹天宫之事。蟠桃为天庭珍贵仙果，食之可长生不老。",
+    "properties": {
+      "种类": "三千六百株三等",
+      "功效": "食之长生不老",
+      "产地": "天庭蟠桃园"
+    },
+    "appears_in": [
+      5,
+      7
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "成熟采摘",
+      "description": "王母娘娘蟠桃园所产之仙桃"
+    },
+    "related_characters": [
+      {
+        "id": "wangmu-niangniang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "偷食者"
+      }
+    ],
+    "quotes": [
+      "九千年一熟，人吃了与天地齐寿"
+    ],
+    "tags": [
+      "仙果",
+      "蟠桃",
+      "王母娘娘",
+      "蟠桃园"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 蟠桃园与大闹蟠桃会"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-zhuan-jin-dan",
+    "name": "九转金丹",
+    "aliases": [
+      "金丹",
+      "太上金丹"
+    ],
+    "category": "treasure",
+    "type": "仙丹",
+    "owner": "taishang-laojun",
+    "origin": "太上老君炼制之仙丹",
+    "summary": "太上老君炼制之九转金丹，可起死回生",
+    "description": "九转金丹为太上老君炼制之仙丹，经九转炼制而成，功效极大。此丹能起死回生、长生不老。乌鸡国王被妖道推入井中淹死三年，唐僧师徒至乌鸡国，悟空往天庭向太上老君求九转还魂丹。老君初不情愿，经悟空劝说方赐丹一枚。悟空以丹救活乌鸡国王，使其复活还阳。九转金丹为太上老君珍贵仙丹之一，与蟠桃同为长生不老之物。老君炼丹炉所炼金丹，乃天庭至宝。",
+    "properties": {
+      "功效": "起死回生、长生不老",
+      "炼制": "九转",
+      "持有者": "太上老君"
+    },
+    "appears_in": [
+      5,
+      39
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 39,
+      "method": "老君赐予",
+      "description": "太上老君赐悟空九转还魂丹救乌鸡国王"
+    },
+    "related_characters": [
+      {
+        "id": "taishang-laojun",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "求取者"
+      },
+      {
+        "id": "tang-seng",
+        "relation": "受益者"
+      }
+    ],
+    "quotes": [
+      "九转还魂丹能起死回生"
+    ],
+    "tags": [
+      "仙丹",
+      "九转金丹",
+      "太上老君"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十九回 乌鸡国"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "fu-chen",
+    "name": "拂尘",
+    "aliases": [
+      "太上拂尘",
+      "镇元拂尘"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "taishang-laojun",
+    "origin": "太上老君所持之法器",
+    "summary": "太上老君所持拂尘，道家仙人法器",
+    "description": "拂尘为太上老君所持之法器。拂尘以兽尾或丝缕扎于柄端，形如马尾，道家仙人多持此物，用以拂尘扫垢、驱邪镇魔。太上老君为三清之一，居兜率天宫，炼丹制药，常持拂尘。老君下凡收服青牛精、收服金角银角大王等事中，拂尘为其随身法器。拂尘虽不似金刚琢、芭蕉扇等攻击性法宝，但为道家仙人身份之标志，亦具驱邪净坛之用。拂尘在西游记中为道家仙人常见法器。",
+    "properties": {
+      "材质": "兽尾或丝缕",
+      "功效": "拂尘扫垢、驱邪镇魔",
+      "持有者": "太上老君"
+    },
+    "appears_in": [
+      5,
+      50,
+      52
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "随身法器",
+      "description": "太上老君随身携带之法器"
+    },
+    "related_characters": [
+      {
+        "id": "taishang-laojun",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "关联者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "法宝",
+      "拂尘",
+      "太上老君"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 兜率宫"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qian-kun-ding",
+    "name": "乾坤鼎",
+    "aliases": [
+      "炼丹鼎"
+    ],
+    "category": "treasure",
+    "type": "法宝",
+    "owner": "taishang-laojun",
+    "origin": "太上老君炼丹所用之鼎炉",
+    "summary": "太上老君炼丹之鼎炉，乾坤鼎，内藏乾坤",
+    "description": "乾坤鼎为太上老君炼丹所用之鼎炉。太上老君掌八卦炼丹炉，又以乾坤鼎炼制金丹仙药。乾坤鼎内藏乾坤，能炼化万物，鼎中阴阳之火可炼制诸般金丹。老君炼制九转金丹、诸般仙药皆用此鼎。八卦炉为老君以文武火炼物之所，乾坤鼎则为炼丹之鼎，二者同为老君炼丹之重器。悟空曾被投入八卦炉中，蹬翻炉砖化为火焰山。乾坤鼎为天庭炼丹之至宝。",
+    "properties": {
+      "功效": "炼丹制药、炼化万物",
+      "持有者": "太上老君",
+      "别名": "炼丹鼎"
+    },
+    "appears_in": [
+      5,
+      7
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "持有",
+      "description": "太上老君随身炼丹之鼎炉"
+    },
+    "related_characters": [
+      {
+        "id": "taishang-laojun",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "关联者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "法宝",
+      "乾坤鼎",
+      "太上老君",
+      "炼丹"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七回 八卦炉炼悟空"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiao-li",
+    "name": "交梨",
+    "aliases": [
+      "仙梨"
+    ],
+    "category": "treasure",
+    "type": "仙果",
+    "owner": "wangmu-niangniang",
+    "origin": "天庭所产之仙果",
+    "summary": "天庭仙果交梨，王母蟠桃胜会之珍果",
+    "description": "交梨乃天庭所产之仙果。王母娘娘设蟠桃胜会，宴请各路神仙，席间供奉交梨火枣、碧藕交梨等诸般仙果珍馐。交梨为仙梨，食之可延年益寿、滋养仙体。蟠桃胜会上诸仙共享仙果，悟空偷吃蟠桃、御酒、仙丹，搅乱盛会。交梨火枣为天庭仙果之代表，与蟠桃同为王母所掌之珍果。此果为天庭仙宴常见之物。",
+    "properties": {
+      "功效": "延年益寿、滋养仙体",
+      "产地": "天庭",
+      "用途": "蟠桃胜会供奉"
+    },
+    "appears_in": [
+      5,
+      7
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "成熟采摘",
+      "description": "天庭所产之仙果"
+    },
+    "related_characters": [
+      {
+        "id": "wangmu-niangniang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "偷食者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "仙果",
+      "交梨",
+      "王母娘娘",
+      "蟠桃会"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 蟠桃胜会"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huo-zao",
+    "name": "火枣",
+    "aliases": [
+      "仙枣"
+    ],
+    "category": "treasure",
+    "type": "仙果",
+    "owner": "wangmu-niangniang",
+    "origin": "天庭所产之仙果",
+    "summary": "天庭仙果火枣，王母蟠桃胜会之珍果",
+    "description": "火枣乃天庭所产之仙果。王母娘娘设蟠桃胜会，宴请各路神仙，席间供奉交梨火枣等诸般仙果珍馐。火枣色赤如火，味甘如蜜，食之可延年益寿。交梨火枣常并称，为天庭仙宴之珍果。蟠桃胜会上诸仙共享仙果，悟空偷吃蟠桃搅乱盛会。火枣为天庭仙果之代表，与交梨同为蟠桃胜会供奉之物。此果为天庭仙宴常见之物。",
+    "properties": {
+      "功效": "延年益寿",
+      "特征": "色赤如火",
+      "产地": "天庭"
+    },
+    "appears_in": [
+      5,
+      7
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "成熟采摘",
+      "description": "天庭所产之仙果"
+    },
+    "related_characters": [
+      {
+        "id": "wangmu-niangniang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "偷食者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "仙果",
+      "火枣",
+      "王母娘娘",
+      "蟠桃会"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 蟠桃胜会"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-ye-ling-zhi",
+    "name": "九叶灵芝",
+    "aliases": [
+      "灵芝草"
+    ],
+    "category": "treasure",
+    "type": "仙草",
+    "owner": "wangmu-niangniang",
+    "origin": "天地灵根所生之仙草",
+    "summary": "九叶灵芝草，天地灵根所生之仙草",
+    "description": "九叶灵芝乃天地灵根所生之仙草，叶分九片，故称九叶灵芝。灵芝为仙草之冠，九叶者尤为珍贵，服之可延年益寿、固本培元。王母娘娘蟠桃园及天庭仙苑中种有诸般仙草灵芝。灵芝草亦为炼丹之辅材，太上老君炼制金丹时或用灵芝入药。九叶灵芝与交梨火枣同为天庭仙苑珍品。天地间灵芝难得，九叶灵芝更为稀世之仙草。",
+    "properties": {
+      "特征": "叶分九片",
+      "功效": "延年益寿、固本培元",
+      "用途": "炼丹辅材"
+    },
+    "appears_in": [
+      5,
+      26
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "灵根自生",
+      "description": "天地灵根所生之仙草"
+    },
+    "related_characters": [
+      {
+        "id": "wangmu-niangniang",
+        "relation": "持有者"
+      },
+      {
+        "id": "taishang-laojun",
+        "relation": "炼丹辅材"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "仙草",
+      "灵芝",
+      "九叶灵芝",
+      "王母娘娘"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 天庭仙苑"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-lu-qiong-jiang",
+    "name": "玉露琼浆",
+    "aliases": [
+      "琼浆玉液"
+    ],
+    "category": "treasure",
+    "type": "仙浆",
+    "owner": "wangmu-niangniang",
+    "origin": "天庭所酿之仙酒",
+    "summary": "天庭仙酒玉露琼浆，蟠桃胜会供奉之物",
+    "description": "玉露琼浆乃天庭所酿之仙酒，又名琼浆玉液。王母娘娘设蟠桃胜会，宴请各路神仙，席间供奉玉露琼浆、蟠桃仙果等珍馐。此酒以仙苑玉露、灵芝等酿制，色如凝脂，味甘如蜜，饮之可延年益寿、滋养仙体。悟空偷喝御酒、偷吃蟠桃仙丹，搅乱蟠桃胜会。玉露琼浆为天庭仙宴之珍饮，与蟠桃同为王母所掌之珍品。此酒为天庭仙宴常见之物。",
+    "properties": {
+      "功效": "延年益寿、滋养仙体",
+      "产地": "天庭",
+      "用途": "蟠桃胜会供奉"
+    },
+    "appears_in": [
+      5,
+      7
+    ],
+    "first_appears": 5,
+    "acquisition": {
+      "chapter": 5,
+      "method": "天庭酿造",
+      "description": "天庭所酿之仙酒"
+    },
+    "related_characters": [
+      {
+        "id": "wangmu-niangniang",
+        "relation": "持有者"
+      },
+      {
+        "id": "sun-wukong",
+        "relation": "偷饮者"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "仙浆",
+      "琼浆玉液",
+      "玉露琼浆",
+      "王母娘娘"
+    ],
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回 蟠桃胜会"
+      }
+    ],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  }
+]

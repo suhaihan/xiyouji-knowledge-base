@@ -1,0 +1,9105 @@
+[
+  {
+    "id": "sun-wukong",
+    "name": "孙悟空",
+    "pinyin": "sun wu kong",
+    "aliases": [
+      "美猴王",
+      "齐天大圣",
+      "行者",
+      "弼马温",
+      "孙行者",
+      "斗战胜佛"
+    ],
+    "category": "main-character",
+    "type": "妖仙",
+    "species": "灵明石猴",
+    "gender": "男",
+    "master": "菩提祖师",
+    "weapon": "ruyi-jingu-bang",
+    "dwelling": "huaguo-shan",
+    "summary": "花果山灵明石猴，大闹天宫后被佛祖压于五行山下，后随唐僧西天取经，一路降妖伏魔，终成斗战胜佛。",
+    "description": "孙悟空乃花果山一块仙石孕育而生，为灵明石猴。他先拜菩提祖师学艺，习得七十二变、筋斗云等神通，又在龙宫取得如意金箍棒，在太上老君八卦炉中炼成火眼金睛。他曾大闹天宫，十万天兵无法降服，最终被如来佛祖压在五行山下五百年。观音菩萨点化后，他保护唐僧西天取经，历经九九八十一难，一路降妖伏魔、荡平劫难，虽多次遭师父误解驱逐，仍忠心不改。取经功成之后，被封为斗战胜佛，位列佛门。",
+    "abilities": [
+      {
+        "name": "七十二变",
+        "description": "可变化为七十二种形态，变身万物"
+      },
+      {
+        "name": "筋斗云",
+        "description": "一跃十万八千里，极速飞行之法"
+      },
+      {
+        "name": "火眼金睛",
+        "description": "能识别一切妖魔鬼怪的伪装变化"
+      },
+      {
+        "name": "身外身法",
+        "description": "拔毫毛可变出千百个分身"
+      },
+      {
+        "name": "定身法",
+        "description": "指念咒语可令对手定住不动"
+      }
+    ],
+    "attributes": {
+      "法号": "悟空",
+      "兵器": "如意金箍棒",
+      "出身": "花果山仙石",
+      "师承": "菩提祖师"
+    },
+    "appears_in": {
+      "first_chapter": 1,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 1,
+        "event": "石猴出世",
+        "summary": "花果山仙石迸裂，化生石猴"
+      },
+      {
+        "chapter": 1,
+        "event": "称美猴王",
+        "summary": "探水帘洞被众猴推为王"
+      },
+      {
+        "chapter": 2,
+        "event": "拜师学艺",
+        "summary": "漂洋过海拜菩提祖师，学得七十二变与筋斗云"
+      },
+      {
+        "chapter": 3,
+        "event": "龙宫取宝",
+        "summary": "入东海龙宫取得如意金箍棒"
+      },
+      {
+        "chapter": 3,
+        "event": "勾销生死簿",
+        "summary": "大闹地府，勾销猴属名字"
+      },
+      {
+        "chapter": 4,
+        "event": "受封弼马温",
+        "summary": "天庭招安，初封弼马温"
+      },
+      {
+        "chapter": 5,
+        "event": "偷桃盗丹",
+        "summary": "偷蟠桃、盗仙丹、搅乱蟠桃会"
+      },
+      {
+        "chapter": 6,
+        "event": "大闹天宫",
+        "summary": "十万天兵围剿花果山，悟空力战诸天神将"
+      },
+      {
+        "chapter": 7,
+        "event": "被压五行山",
+        "summary": "如来佛祖将其压于五行山下五百年"
+      },
+      {
+        "chapter": 14,
+        "event": "出山保唐僧",
+        "summary": "观音点化，唐僧揭帖，悟空脱困随师西行"
+      },
+      {
+        "chapter": 27,
+        "event": "三打白骨精",
+        "summary": "识破白骨精三次变化，却被唐僧逐走"
+      },
+      {
+        "chapter": 100,
+        "event": "成斗战胜佛",
+        "summary": "取经功成，封为斗战胜佛"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "师徒",
+        "description": "拜唐僧为师，保护其西天取经"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "师兄弟",
+        "description": "与猪八戒同为唐僧弟子，常拌嘴争闹"
+      },
+      {
+        "target": "sha-wujing",
+        "type": "师兄弟",
+        "description": "与沙悟净同为唐僧弟子"
+      },
+      {
+        "target": "puti-zushi",
+        "type": "师徒",
+        "description": "拜菩提祖师学艺七年"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "恩人",
+        "description": "观音点化出山，引其入取经之路"
+      },
+      {
+        "target": "ru-lai-fozu",
+        "type": "仇敌转恩",
+        "description": "曾被如来镇压五行山，后取经成佛"
+      },
+      {
+        "target": "niuwang-mo",
+        "type": "旧友转敌",
+        "description": "原为花果山七兄弟之一，后因红孩儿事反目"
+      },
+      {
+        "target": "erlang-shen",
+        "type": "对手",
+        "description": "大闹天宫时与之大战"
+      }
+    ],
+    "quotes": [
+      "俺老孙来也",
+      "皇帝轮流做，明年到我家",
+      "吃俺老孙一棒",
+      "山高自有客行路，水深自有渡船人"
+    ],
+    "tags": [
+      "主角",
+      "妖族",
+      "大闹天宫",
+      "取经",
+      "斗战胜佛"
+    ],
+    "power_level": 98,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "全书贯穿，第一回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tang-seng",
+    "name": "唐僧",
+    "pinyin": "tang seng",
+    "aliases": [
+      "玄奘",
+      "三藏",
+      "金蝉子",
+      "旃檀功德佛",
+      "唐三藏",
+      "御弟"
+    ],
+    "category": "main-character",
+    "type": "高僧",
+    "species": "人",
+    "gender": "男",
+    "master": "如来佛祖（前世师）",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "前世为如来弟子金蝉子，转世为大唐高僧玄奘，奉旨西行取经，历经八十一难，终成旃檀功德佛。",
+    "description": "唐僧前世为如来佛祖二弟子金蝉子，因不听说法轻慢佛法被贬下凡间。转世为陈光蕊之子，自幼出家，法名玄奘。他受唐太宗委托，奉旨西行求取大乘真经。一路上收孙悟空、猪八戒、沙悟净为徒，骑白龙马，历经九九八十一难，遭遇无数妖魔劫难。他心地善良、信仰坚定，但肉眼凡胎不识妖魔，常误解孙悟空，数次将其驱逐。取经功成后，被封为旃檀功德佛。",
+    "abilities": [
+      {
+        "name": "紧箍咒",
+        "description": "可念咒令悟空头箍收紧，约束其行为"
+      },
+      {
+        "name": "佛法修持",
+        "description": "深谙佛法，持戒精严"
+      }
+    ],
+    "attributes": {
+      "法号": "三藏",
+      "前世": "金蝉子",
+      "身份": "大唐御弟"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 9,
+        "event": "出世",
+        "summary": "陈光蕊之子出生，自幼出家"
+      },
+      {
+        "chapter": 12,
+        "event": "奉旨取经",
+        "summary": "受唐太宗委派西行取经"
+      },
+      {
+        "chapter": 14,
+        "event": "收悟空",
+        "summary": "揭五行山帖，收孙悟空为徒"
+      },
+      {
+        "chapter": 100,
+        "event": "成旃檀功德佛",
+        "summary": "取经功成，封旃檀功德佛"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "师徒",
+        "description": "收悟空为徒，取经途中屡次误解驱逐"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "师徒",
+        "description": "收八戒为二徒弟"
+      },
+      {
+        "target": "sha-wujing",
+        "type": "师徒",
+        "description": "收沙僧为三徒弟"
+      },
+      {
+        "target": "bai-long-ma",
+        "type": "坐骑",
+        "description": "白龙马化身坐骑驮唐僧西行"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "指引者",
+        "description": "观音指引其取经之路并赐袈裟锡杖"
+      },
+      {
+        "target": "tang-taizong",
+        "type": "君臣",
+        "description": "受太宗委派取经，结为御弟"
+      }
+    ],
+    "quotes": [
+      "贫僧从东土大唐而来，去往西天拜佛求经",
+      "悟空，莫要杀生"
+    ],
+    "tags": [
+      "主角",
+      "取经",
+      "高僧",
+      "旃檀功德佛"
+    ],
+    "power_level": 20,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhu-bajie",
+    "name": "猪八戒",
+    "pinyin": "zhu ba jie",
+    "aliases": [
+      "猪悟能",
+      "天蓬元帅",
+      "净坛使者",
+      "八戒",
+      "猪刚鬣"
+    ],
+    "category": "main-character",
+    "type": "妖仙",
+    "species": "猪妖",
+    "gender": "男",
+    "master": "唐僧",
+    "weapon": "jiu-ding-pa-zhang",
+    "dwelling": "gao-cun",
+    "summary": "原天蓬元帅因罪贬下凡间，错投猪胎，后随唐僧取经，贪吃好色但亦忠勇，终成净坛使者。",
+    "description": "猪八戒原为天庭天蓬元帅，掌管天河水兵。因醉酒调戏嫦娥被玉帝贬下凡间，错投猪胎生于福陵山云栈洞，自号猪刚鬣。观音菩萨点化后，在高老庄等候取经人，被唐僧收为二徒弟，法名悟能，别号八戒。他手持九齿钉耙，力大无穷，然贪吃好色、意志不坚，常生退心欲回高老庄。但关键时刻亦能勇猛作战。取经功成后，被封为净坛使者。",
+    "abilities": [
+      {
+        "name": "三十六变",
+        "description": "可变化为三十六种形态"
+      },
+      {
+        "name": "腾云驾雾",
+        "description": "可飞行但速度不及筋斗云"
+      }
+    ],
+    "attributes": {
+      "法号": "悟能",
+      "兵器": "九齿钉耙",
+      "前世": "天蓬元帅"
+    },
+    "appears_in": {
+      "first_chapter": 18,
+      "chapters": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 18,
+        "event": "收归取经",
+        "summary": "在高老庄被悟空降服，拜唐僧为师"
+      },
+      {
+        "chapter": 100,
+        "event": "成净坛使者",
+        "summary": "取经功成，封为净坛使者"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "师徒",
+        "description": "拜唐僧为师随行取经"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "师兄弟",
+        "description": "常与悟空拌嘴争闹，亦协力作战"
+      },
+      {
+        "target": "sha-wujing",
+        "type": "师兄弟",
+        "description": "与沙僧同为师弟"
+      }
+    ],
+    "quotes": [
+      "师父被妖怪吃了",
+      "散伙回高老庄"
+    ],
+    "tags": [
+      "主角",
+      "取经",
+      "天蓬元帅",
+      "净坛使者"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十八回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "sha-wujing",
+    "name": "沙悟净",
+    "pinyin": "sha wu jing",
+    "aliases": [
+      "沙僧",
+      "卷帘大将",
+      "金身罗汉",
+      "沙和尚"
+    ],
+    "category": "main-character",
+    "type": "妖仙",
+    "species": "流沙精",
+    "gender": "男",
+    "master": "唐僧",
+    "weapon": "jiang-mo-zhang",
+    "dwelling": "liu-sha-he",
+    "summary": "原卷帘大将因罪贬下流沙河，经观音点化后随唐僧取经，忠厚勤恳，终成金身罗汉。",
+    "description": "沙悟净原为天庭卷帘大将，侍奉玉帝车驾。因在蟠桃会上失手打碎琉璃盏，被贬下流沙河为妖。他在流沙河中吃人为生，颈挂九个取经人骷髅。观音菩萨点化后，取法名悟净，在流沙河等候取经人。唐僧路过时被悟空八戒降服，拜为三徒弟。他性格忠厚稳重、任劳任怨，一路挑担牵马，少有争言。取经功成后，被封为金身罗汉。",
+    "abilities": [
+      {
+        "name": "十八变",
+        "description": "可变化为十八种形态"
+      },
+      {
+        "name": "流沙河本领",
+        "description": "深谙水战之法"
+      }
+    ],
+    "attributes": {
+      "法号": "悟净",
+      "兵器": "降妖宝杖",
+      "前世": "卷帘大将"
+    },
+    "appears_in": {
+      "first_chapter": 22,
+      "chapters": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 22,
+        "event": "收归取经",
+        "summary": "在流沙河被降服，拜唐僧为师"
+      },
+      {
+        "chapter": 100,
+        "event": "成金身罗汉",
+        "summary": "取经功成，封为金身罗汉"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "师徒",
+        "description": "拜唐僧为师，忠心侍奉"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "师兄弟",
+        "description": "服从悟空安排"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "师兄弟",
+        "description": "与八戒同为师弟"
+      }
+    ],
+    "quotes": [
+      "大师兄，师父被妖怪抓走了"
+    ],
+    "tags": [
+      "主角",
+      "取经",
+      "卷帘大将",
+      "金身罗汉"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十二回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bai-long-ma",
+    "name": "白龙马",
+    "pinyin": "bai long ma",
+    "aliases": [
+      "敖烈",
+      "小白龙",
+      "八部天龙",
+      "白龙"
+    ],
+    "category": "main-character",
+    "type": "龙族",
+    "species": "龙",
+    "gender": "男",
+    "master": "唐僧",
+    "weapon": "none",
+    "dwelling": "xi-hai-longgong",
+    "summary": "西海龙王三太子敖烈，因纵火烧殿明珠被判死罪，后化身白马驮唐僧取经，终成八部天龙。",
+    "description": "白龙马即西海龙王敖闰之三太子敖烈，因纵火烧毁殿上明珠，其父表奏天庭欲杀之。观音菩萨出面求情救下，命其在蛇盘山鹰愁涧等候取经人。唐僧路过时他吞了唐僧原本坐骑白马，后经观音点化，化身白马为唐僧坐骑。一路默默驮载，少言寡语，但在危急时亦能化回龙形助战。取经功成后，被封为八部天龙广力菩萨。",
+    "abilities": [
+      {
+        "name": "化龙",
+        "description": "可化身为龙或白马"
+      },
+      {
+        "name": "水战",
+        "description": "龙族天然水性本领"
+      }
+    ],
+    "attributes": {
+      "身份": "西海龙王三太子",
+      "法名": "敖烈",
+      "封号": "八部天龙"
+    },
+    "appears_in": {
+      "first_chapter": 15,
+      "chapters": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 15,
+        "event": "化身白马",
+        "summary": "在鹰愁涧吞唐僧坐骑，后化身白马随行"
+      },
+      {
+        "chapter": 30,
+        "event": "化龙救师",
+        "summary": "黄袍怪一回中化回龙形刺杀妖怪救师父"
+      },
+      {
+        "chapter": 100,
+        "event": "成八部天龙",
+        "summary": "取经功成，封八部天龙广力菩萨"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "坐骑",
+        "description": "化身白马驮唐僧西行"
+      },
+      {
+        "target": "xi-hai-longwang",
+        "type": "父子",
+        "description": "西海龙王敖闰之子"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "恩人",
+        "description": "观音救其死罪并点化随行取经"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "主角",
+      "取经",
+      "龙族",
+      "八部天龙"
+    ],
+    "power_level": 55,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十五回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-huang-dadi",
+    "name": "玉皇大帝",
+    "pinyin": "yu huang da di",
+    "aliases": [
+      "玉帝",
+      "昊天金阙至尊"
+    ],
+    "category": "immortal",
+    "type": "天帝",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "ling-xiao-bao-dian",
+    "summary": "三界至尊，统辖天庭万神，历经一千七百五十劫方登帝位，为天界最高统治者。",
+    "description": "玉皇大帝为天庭最高统治者，统辖三界十方万灵。据如来佛祖所言，他自幼修持，苦历一千七百五十劫，每劫该十二万九千六百年，方享此无极大道。他管辖天庭众神，但面对孙悟空大闹天宫时束手无策，最终请如来佛祖降服。他在取经途中亦多次调遣天庭兵力助取经团队。",
+    "abilities": [
+      {
+        "name": "统御三界",
+        "description": "管辖天界、人间、冥府万物万灵"
+      }
+    ],
+    "attributes": {
+      "尊号": "高天上圣大慈仁者玉皇大天尊玄穹高上帝",
+      "居所": "灵霄宝殿"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        6,
+        7,
+        33,
+        51,
+        52,
+        87
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "招安悟空",
+        "summary": "听从太白金星建议招安孙悟空"
+      },
+      {
+        "chapter": 6,
+        "event": "调兵围剿",
+        "summary": "调遣十万天兵围剿花果山"
+      },
+      {
+        "chapter": 7,
+        "event": "请佛降妖",
+        "summary": "请如来佛祖降服孙悟空"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "君臣对立",
+        "description": "悟空大闹天宫挑战其权威"
+      },
+      {
+        "target": "tai-bai-jinxing",
+        "type": "臣属",
+        "description": "太白金星为天庭谋臣"
+      },
+      {
+        "target": "ru-lai-fozu",
+        "type": "求助",
+        "description": "无法降服悟空时求助如来"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "三界至尊"
+    ],
+    "power_level": 90,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回至第七回等多处"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tai-bai-jinxing",
+    "name": "太白金星",
+    "pinyin": "tai bai jin xing",
+    "aliases": [
+      "金星",
+      "李长庚"
+    ],
+    "category": "immortal",
+    "type": "星君",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭文臣星君，多次主张招安抚定，为悟空入天庭之引路人。",
+    "description": "太白金星为天庭重要文臣，性格温和主张怀柔。他多次向玉帝建言招安而非围剿，先后两次下凡招引孙悟空上天，又在取经途中暗中护佑指引。他是天庭中少有的对取经团队友善的神仙。",
+    "abilities": [
+      {
+        "name": "星君法力",
+        "description": "天庭星君自有神通"
+      }
+    ],
+    "attributes": {
+      "星宿": "太白金星",
+      "角色": "天庭文臣"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        7,
+        14,
+        74
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "招安悟空",
+        "summary": "首次下凡招引孙悟空上天入仕"
+      },
+      {
+        "chapter": 7,
+        "event": "二次招安",
+        "summary": "再次招安封悟空为齐天大圣"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "侍奉玉帝为谋臣"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "恩人",
+        "description": "两次招安引悟空入天庭"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "招安",
+      "星君"
+    ],
+    "power_level": 60,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回、第七回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "taishang-laojun",
+    "name": "太上老君",
+    "pinyin": "tai shang lao jun",
+    "aliases": [
+      "老君",
+      "道德天尊",
+      "李老君"
+    ],
+    "category": "immortal",
+    "type": "道教至尊",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "dou-shuai-gong",
+    "summary": "道教三清之一，炼丹铸器之祖，如意金箍棒与九齿钉耙皆出自其手。",
+    "description": "太上老君为道教至尊，居兜率宫炼丹修道。他锻造了如意金箍棒、九齿钉耙等神兵利器，又炼有各类仙丹法宝。悟空大闹天宫时他将悟空放入八卦炉中炼烧，反助其炼成火眼金睛。取经途中他多次出手收回被妖怪盗走的法宝，如金角银角大王所盗的五件宝贝。",
+    "abilities": [
+      {
+        "name": "炼丹",
+        "description": "可炼制各类仙丹妙药"
+      },
+      {
+        "name": "铸器",
+        "description": "锻造神兵法宝，金箍棒、钉耙皆出其手"
+      },
+      {
+        "name": "八卦炉",
+        "description": "兜率宫八卦炉可炼化万物"
+      }
+    ],
+    "attributes": {
+      "尊号": "太上老君",
+      "居所": "兜率宫",
+      "弟子": "兜率宫众仙童"
+    },
+    "appears_in": {
+      "first_chapter": 5,
+      "chapters": [
+        5,
+        7,
+        33,
+        35,
+        52,
+        71
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 7,
+        "event": "炼悟空",
+        "summary": "将悟空放入八卦炉炼烧四十九日"
+      },
+      {
+        "chapter": 35,
+        "event": "收回法宝",
+        "summary": "收回金角银角盗走的五件法宝"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "炼烧对象",
+        "description": "将悟空投入八卦炉"
+      },
+      {
+        "target": "erlang-shen",
+        "type": "助战",
+        "description": "大闹天宫时助二郎神擒悟空"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "道教",
+      "炼丹"
+    ],
+    "power_level": 95,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七回、第三十五回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "erlang-shen",
+    "name": "二郎神",
+    "pinyin": "er lang shen",
+    "aliases": [
+      "杨戬",
+      "清源妙道真君",
+      "二郎"
+    ],
+    "category": "immortal",
+    "type": "天将",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "san-jian-liang-ren-dao",
+    "dwelling": "guan-jiang-kou",
+    "summary": "玉帝外甥杨戬，天庭第一战将，大闹天宫时与悟空大战三百回合擒之。",
+    "description": "二郎神杨戬为玉帝外甥，号清源妙道真君，居灌江口。他听调不听宣，与悟空大战三百回合不分胜负，后凭借细犬咬住悟空、太上老君金钢琢击中悟空方将其擒获。他有第三只眼可洞察妖邪变化，神通广大。取经途中亦曾助悟空降服九头虫。",
+    "abilities": [
+      {
+        "name": "第三只眼",
+        "description": "天眼可识别妖魔变化"
+      },
+      {
+        "name": "七十二变",
+        "description": "与悟空一样精通七十二变"
+      },
+      {
+        "name": "细犬",
+        "description": "随身哮天犬可助战擒敌"
+      }
+    ],
+    "attributes": {
+      "尊号": "清源妙道真君",
+      "兵器": "三尖两刃刀",
+      "身份": "玉帝外甥"
+    },
+    "appears_in": {
+      "first_chapter": 6,
+      "chapters": [
+        6,
+        7,
+        63
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 6,
+        "event": "大战悟空",
+        "summary": "奉旨围剿花果山，与悟空大战三百回合"
+      },
+      {
+        "chapter": 63,
+        "event": "助降九头虫",
+        "summary": "助悟空降服九头虫"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手转友",
+        "description": "大闹天宫时大战，后助降九头虫"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "外甥",
+        "description": "玉帝外甥，但听调不听宣"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "战将",
+      "杨戬"
+    ],
+    "power_level": 92,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六回、第六十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "nezha",
+    "name": "哪吒",
+    "pinyin": "ne zha",
+    "aliases": [
+      "哪吒三太子",
+      "三坛海会大神"
+    ],
+    "category": "immortal",
+    "type": "天将",
+    "species": "神",
+    "gender": "男",
+    "master": "ta-li-tianwang",
+    "weapon": "huo-jian-qiang",
+    "dwelling": "tian-ting",
+    "summary": "托塔天王之三太子，三坛海会大神，随父征讨花果山。",
+    "description": "哪吒为托塔李天王之三太子，被封为三坛海会大神。他手持火尖枪、脚踏风火轮，神通广大。大闹天宫时随父征讨花果山，与悟空交战被伤臂退走。取经途中亦曾受命助取经团队降妖。",
+    "abilities": [
+      {
+        "name": "风火轮",
+        "description": "脚踏风火轮可高速飞行"
+      },
+      {
+        "name": "三头六臂",
+        "description": "可显现三头六臂法相"
+      }
+    ],
+    "attributes": {
+      "封号": "三坛海会大神",
+      "兵器": "火尖枪",
+      "法宝": "风火轮、乾坤圈"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        6,
+        51,
+        83
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "征讨悟空",
+        "summary": "随父征讨花果山"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ta-li-tianwang",
+        "type": "父子",
+        "description": "托塔天王之三太子"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时交战不敌"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "天将",
+      "哪吒"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回、第六回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ta-li-tianwang",
+    "name": "托塔李天王",
+    "pinyin": "ta li tian wang",
+    "aliases": [
+      "李靖",
+      "托塔天王"
+    ],
+    "category": "immortal",
+    "type": "天将",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "tuo-ta",
+    "dwelling": "tian-ting",
+    "summary": "天庭降魔大元帅李靖，手持玲珑宝塔，统领天兵征讨妖魔。",
+    "description": "托塔李天王即李靖，为天庭降魔大元帅，手持玲珑舍利子如意黄金宝塔。他统率天兵征讨花果山，为天庭主要军事统帅。取经途中亦多次奉旨率兵助取经团队降妖，如助降牛魔王等。",
+    "abilities": [
+      {
+        "name": "玲珑宝塔",
+        "description": "手持宝塔可镇压妖魔"
+      },
+      {
+        "name": "统兵",
+        "description": "统领天庭兵马"
+      }
+    ],
+    "attributes": {
+      "封号": "降魔大元帅",
+      "法宝": "玲珑宝塔"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        6,
+        51,
+        61
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 6,
+        "event": "围剿花果山",
+        "summary": "率十万天兵围剿孙悟空"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "nezha",
+        "type": "父子",
+        "description": "哪吒之父"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "天庭降魔大元帅"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "多次率兵征讨悟空"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "元帅",
+      "降魔"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回、第六回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wangmu-niangniang",
+    "name": "王母娘娘",
+    "pinyin": "wang mu niang niang",
+    "aliases": [
+      "西王母",
+      "王母"
+    ],
+    "category": "immortal",
+    "type": "女神",
+    "species": "神",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "kun-lun-shan",
+    "summary": "西王母掌管蟠桃仙园，蟠桃会因悟空搅乱而闻名。",
+    "description": "王母娘娘为天庭女仙之首，掌管昆仑山蟠桃仙园。蟠桃三千年一熟，六千年一熟，九千年一熟各有功效。她每年举办蟠桃大会宴请群仙，孙悟空未获邀请遂偷吃蟠桃盗仙丹，搅乱蟠桃会。",
+    "abilities": [
+      {
+        "name": "掌蟠桃园",
+        "description": "掌管天庭蟠桃仙园"
+      }
+    ],
+    "attributes": {
+      "尊号": "王母娘娘",
+      "仙园": "蟠桃园"
+    },
+    "appears_in": {
+      "first_chapter": 5,
+      "chapters": [
+        5
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 5,
+        "event": "蟠桃会",
+        "summary": "举办蟠桃大会被悟空搅乱"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "受害",
+        "description": "蟠桃会被悟空搅乱偷桃"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "配偶",
+        "description": "天庭帝后"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "蟠桃",
+      "女神"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "puti-zushi",
+    "name": "菩提祖师",
+    "pinyin": "puti zu shi",
+    "aliases": [
+      "祖师",
+      "须菩提"
+    ],
+    "category": "immortal",
+    "type": "隐仙",
+    "species": "神",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "ling-tai-fang-cun-shan",
+    "summary": "灵台方寸山斜月三星洞之隐仙，悟空之授业恩师，传授其七十二变与筋斗云。",
+    "description": "菩提祖师居于灵台方寸山斜月三星洞，为悟空授业恩师。他精通佛道两家之法，道行深不可测。悟空拜其门下七年，先学言语礼貌、洒扫应对，后得传大品天仙诀、七十二变、筋斗云等神通。因悟空变松树炫耀本领，被祖师逐出门下，嘱其不可言及师门。",
+    "abilities": [
+      {
+        "name": "传授神通",
+        "description": "精通各类仙法道术，传授悟空大品天仙诀、七十二变、筋斗云"
+      }
+    ],
+    "attributes": {
+      "居所": "灵台方寸山斜月三星洞",
+      "弟子": "孙悟空"
+    },
+    "appears_in": {
+      "first_chapter": 1,
+      "chapters": [
+        1,
+        2
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 1,
+        "event": "收悟空",
+        "summary": "收石猴为徒，赐名悟空"
+      },
+      {
+        "chapter": 2,
+        "event": "传道授业",
+        "summary": "传授七十二变、筋斗云等神通"
+      },
+      {
+        "chapter": 2,
+        "event": "逐徒",
+        "summary": "因悟空炫耀逐出门下，禁言师门"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "师徒",
+        "description": "悟空之授业恩师"
+      }
+    ],
+    "quotes": [
+      "你这猢狲，这般卖弄精神，自取罪戊"
+    ],
+    "tags": [
+      "隐仙",
+      "师徒",
+      "道教"
+    ],
+    "power_level": 99,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第一回、第二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "dong-hai-longwang",
+    "name": "东海龙王敖广",
+    "pinyin": "dong hai long wang ao guang",
+    "aliases": [
+      "敖广",
+      "东海龙王"
+    ],
+    "category": "immortal",
+    "type": "龙王",
+    "species": "龙",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "dong-hai-longgong",
+    "summary": "四海龙王之首，主管东海，悟空龙宫取宝借得如意金箍棒。",
+    "description": "东海龙王敖广为四海龙王之首，主管东海水族。孙悟空闯入龙宫索取兵器，敖广先献大刀、九股叉皆不合用，最后指引悟空取走定海神针铁如意金箍棒，又被强索一身披挂。事后敖广表奏天庭控告悟空。",
+    "abilities": [
+      {
+        "name": "行云布雨",
+        "description": "掌管东海风雨水候"
+      }
+    ],
+    "attributes": {
+      "辖域": "东海",
+      "身份": "四海龙王之首"
+    },
+    "appears_in": {
+      "first_chapter": 3,
+      "chapters": [
+        3,
+        10,
+        41
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 3,
+        "event": "龙宫取宝",
+        "summary": "悟空强取金箍棒与披挂"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "受害",
+        "description": "被悟空强取金箍棒披挂"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "龙王",
+      "龙族"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xi-hai-longwang",
+    "name": "西海龙王敖闰",
+    "pinyin": "xi hai long wang ao run",
+    "aliases": [
+      "敖闰",
+      "西海龙王"
+    ],
+    "category": "immortal",
+    "type": "龙王",
+    "species": "龙",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "xi-hai-longgong",
+    "summary": "主管西海，其三太子敖烈即白龙马，因纵火烧殿明珠曾表奏天庭。",
+    "description": "西海龙王敖闰主管西海水族，为白龙马敖烈之父。其三太子纵火烧毁殿上明珠，敖闰表奏天庭欲以死罪处置，观音出面求情方免。取经途中敖闰也曾助悟空水战降妖。",
+    "abilities": [
+      {
+        "name": "行云布雨",
+        "description": "掌管西海风雨水候"
+      }
+    ],
+    "attributes": {
+      "辖域": "西海",
+      "亲子": "敖烈（白龙马）"
+    },
+    "appears_in": {
+      "first_chapter": 3,
+      "chapters": [
+        3,
+        15,
+        43
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 15,
+        "event": "子从取经",
+        "summary": "三太子化身白马随唐僧取经"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "bai-long-ma",
+        "type": "父子",
+        "description": "白龙马即其三太子敖烈"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "龙王",
+      "龙族"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三回、第十五回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ru-lai-fozu",
+    "name": "如来佛祖",
+    "pinyin": "ru lai fo zu",
+    "aliases": [
+      "释迦牟尼",
+      "如来",
+      "佛祖"
+    ],
+    "category": "buddha",
+    "type": "佛",
+    "species": "佛",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "ling-shan",
+    "summary": "西天灵山佛祖，法力无边，以五行山镇压悟空，主持取经大局。",
+    "description": "如来佛祖即释迦牟尼，居西天灵山大雷音寺，为佛教最高领袖。他法力无边，以五行山镇压大闹天宫的孙悟空，后又安排取经之事，命观音菩萨东土寻找取经人。取经功成后亲自授封，是整个取经事件的最高策划者与终裁者。",
+    "abilities": [
+      {
+        "name": "无边佛法",
+        "description": "法力无边，可镇压一切"
+      },
+      {
+        "name": "五行山",
+        "description": "以五指化山镇压妖魔"
+      }
+    ],
+    "attributes": {
+      "尊号": "如来佛祖",
+      "居所": "灵山大雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 7,
+      "chapters": [
+        7,
+        77,
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 7,
+        "event": "镇压悟空",
+        "summary": "以五行山镇压孙悟空五百年"
+      },
+      {
+        "chapter": 100,
+        "event": "授封",
+        "summary": "取经功成，授封诸人佛号"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "镇压转封",
+        "description": "镇压悟空后又封其为斗战胜佛"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "委派",
+        "description": "命观音寻找取经人"
+      },
+      {
+        "target": "tang-seng",
+        "type": "前世师",
+        "description": "金蝉子为其二弟子"
+      }
+    ],
+    "quotes": [
+      "你那厮乃是个猴子成精，焉敢欺心，要夺玉皇上帝尊位"
+    ],
+    "tags": [
+      "佛门",
+      "佛祖",
+      "灵山"
+    ],
+    "power_level": 100,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七回、第一百回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "guanyin-pusa",
+    "name": "观音菩萨",
+    "pinyin": "guanyin pu sa",
+    "aliases": [
+      "观世音",
+      "观音",
+      "大慈大悲救苦救难观世音菩萨"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "菩萨",
+    "gender": "女",
+    "master": "ru-lai-fozu",
+    "weapon": "none",
+    "dwelling": "pu-tuo-shan",
+    "summary": "大慈大悲菩萨，奉如来旨意寻找取经人，为取经团队的核心庇护者与指引者。",
+    "description": "观音菩萨居南海普陀落迦山，奉如来佛祖旨意前往东土寻找取经人。她一路点化孙悟空、猪八戒、沙悟净、白龙马随唐僧取经，赐唐僧袈裟锡杖，又在取经途中多次出手救护。当取经团队陷入绝境时往往向观音求助，她为取经事业最核心的庇护者与指引者。",
+    "abilities": [
+      {
+        "name": "大慈大悲",
+        "description": "救苦救难，法力广大"
+      },
+      {
+        "name": "净瓶甘露",
+        "description": "净瓶中甘露可救死扶伤"
+      }
+    ],
+    "attributes": {
+      "尊号": "大慈大悲救苦救难观世音菩萨",
+      "居所": "普陀落迦山"
+    },
+    "appears_in": {
+      "first_chapter": 8,
+      "chapters": [
+        8,
+        10,
+        12,
+        14,
+        15,
+        17,
+        18,
+        22,
+        26,
+        42,
+        49,
+        55,
+        57,
+        71,
+        82,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 8,
+        "event": "奉旨寻僧",
+        "summary": "奉如来旨意东土寻找取经人"
+      },
+      {
+        "chapter": 12,
+        "event": "赐袈裟锡杖",
+        "summary": "赐唐僧锦襕袈裟与九环锡杖"
+      },
+      {
+        "chapter": 14,
+        "event": "点化悟空",
+        "summary": "点化孙悟空出山随唐僧取经"
+      },
+      {
+        "chapter": 42,
+        "event": "收红孩儿",
+        "summary": "降服红孩儿收为善财童子"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "奉命",
+        "description": "奉如来旨意寻找取经人"
+      },
+      {
+        "target": "tang-seng",
+        "type": "指引者",
+        "description": "指引并庇护唐僧取经"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "恩人",
+        "description": "点化悟空出山取经"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "恩人",
+        "description": "点化八戒等候取经人"
+      },
+      {
+        "target": "sha-wujing",
+        "type": "恩人",
+        "description": "点化沙僧等候取经人"
+      },
+      {
+        "target": "bai-long-ma",
+        "type": "恩人",
+        "description": "救敖烈死罪并点化随行"
+      },
+      {
+        "target": "hong-hai-er",
+        "type": "收服",
+        "description": "降服红孩儿收为善财童子"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨",
+      "庇护者"
+    ],
+    "power_level": 95,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八回等多处贯穿全书"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wen-shu-pusa",
+    "name": "文殊菩萨",
+    "pinyin": "wen shu pu sa",
+    "aliases": [
+      "文殊"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "菩萨",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "wu-tai-shan",
+    "summary": "佛教四大菩萨之一，在取经途中曾坐骑青毛狮子下界为妖两次。",
+    "description": "文殊菩萨为佛教四大菩萨之一，居五台山。其坐骑青毛狮子两次下界为妖：一为乌鸡国假冒国王三年，二为狮驼岭狮驼王。文殊菩萨两次均亲自下界收服坐骑归位。",
+    "abilities": [
+      {
+        "name": "菩萨法力",
+        "description": "法力广大可收服妖魔"
+      }
+    ],
+    "attributes": {
+      "居所": "五台山",
+      "坐骑": "青毛狮子"
+    },
+    "appears_in": {
+      "first_chapter": 39,
+      "chapters": [
+        39,
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 39,
+        "event": "收青狮",
+        "summary": "收服坐骑青狮归位（乌鸡国）"
+      },
+      {
+        "chapter": 78,
+        "event": "收狮驼王",
+        "summary": "收服狮驼岭狮驼王归位"
+      }
+    ],
+    "relationships": [],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨"
+    ],
+    "power_level": 90,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十九回、第七十七回等"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "pu-xian-pusa",
+    "name": "普贤菩萨",
+    "pinyin": "pu xian pu sa",
+    "aliases": [
+      "普贤"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "菩萨",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "e-mei-shan",
+    "summary": "佛教四大菩萨之一，其坐骑白象下界为狮驼岭二大王。",
+    "description": "普贤菩萨为佛教四大菩萨之一，居峨眉山。其坐骑六牙白象下界为妖，在狮驼岭为二大王白象精，与狮驼王、大鹏金翅雕共同阻挡取经路。普贤菩萨亲自下界收服归位。",
+    "abilities": [
+      {
+        "name": "菩萨法力",
+        "description": "法力广大可收服妖魔"
+      }
+    ],
+    "attributes": {
+      "居所": "峨眉山",
+      "坐骑": "六牙白象"
+    },
+    "appears_in": {
+      "first_chapter": 77,
+      "chapters": [
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 78,
+        "event": "收白象",
+        "summary": "收服坐骑白象归位"
+      }
+    ],
+    "relationships": [],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨"
+    ],
+    "power_level": 90,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十七回、第七十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "mi-le-fo",
+    "name": "弥勒佛",
+    "pinyin": "mi le fo",
+    "aliases": [
+      "弥勒",
+      "东来佛祖"
+    ],
+    "category": "buddha",
+    "type": "佛",
+    "species": "佛",
+    "gender": "男",
+    "master": "none",
+    "weapon": "ren-bei-ren-zhang",
+    "dwelling": "xi-tian",
+    "summary": "东来佛祖弥勒，其童子黄眉下界为妖设小雷音寺困悟空。",
+    "description": "弥勒佛号东来佛祖，为佛教未来佛。其司磬童子趁佛祖赴元始会时盗取法宝下界，在小雷音寺冒充佛祖困住悟空与诸天神将。弥勒佛亲自下界收回童子与法宝，助取经团队脱困。",
+    "abilities": [
+      {
+        "name": "人种袋",
+        "description": "可收万物的法宝"
+      },
+      {
+        "name": "金铙",
+        "description": "将人困于金铙之中的法宝"
+      }
+    ],
+    "attributes": {
+      "尊号": "东来佛祖",
+      "法宝": "人种袋、金铙"
+    },
+    "appears_in": {
+      "first_chapter": 65,
+      "chapters": [
+        65,
+        66
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 66,
+        "event": "收黄眉",
+        "summary": "亲自下界收服童子黄眉归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "救助",
+        "description": "助悟空脱困小雷音寺"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "佛祖",
+      "未来佛"
+    ],
+    "power_level": 95,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十五回、第六十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ling-ji-pusa",
+    "name": "灵吉菩萨",
+    "pinyin": "ling ji pu sa",
+    "aliases": [
+      "灵吉"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "菩萨",
+    "gender": "男",
+    "master": "none",
+    "weapon": "ding-feng-dan",
+    "dwelling": "xiao-xu-mi-shan",
+    "summary": "小须弥山菩萨，如来赐其定风丹，专克黄风怪之风。",
+    "description": "灵吉菩萨居小须弥山，如来佛祖赐其定风丹与飞龙杖，专制黄风怪之三昧神风。悟空不敌黄风怪时往求灵吉菩萨，灵吉以飞龙杖降服黄风怪，后又赠定风丹助悟空对付铁扇公主芭蕉扇。",
+    "abilities": [
+      {
+        "name": "定风丹",
+        "description": "可克制三昧神风与芭蕉扇之风"
+      },
+      {
+        "name": "飞龙杖",
+        "description": "如来赐杖可降服风妖"
+      }
+    ],
+    "attributes": {
+      "居所": "小须弥山",
+      "法宝": "定风丹、飞龙杖"
+    },
+    "appears_in": {
+      "first_chapter": 21,
+      "chapters": [
+        21,
+        59
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 21,
+        "event": "降黄风怪",
+        "summary": "以飞龙杖降服黄风怪"
+      },
+      {
+        "chapter": 59,
+        "event": "赠定风丹",
+        "summary": "赠悟空定风丹以克铁扇芭蕉扇"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "huang-feng-guai",
+        "type": "降服",
+        "description": "降服黄风怪"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "赠定风丹助悟空对付铁扇公主"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十一回、第五十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "niuwang-mo",
+    "name": "牛魔王",
+    "pinyin": "niu wang mo",
+    "aliases": [
+      "牛魔王",
+      "大力王",
+      "平天大圣"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "牛妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "ji-lei-shan",
+    "summary": "花果山七大圣之平天大圣，悟空旧友，后因红孩儿事反目，三调芭蕉扇时大战。",
+    "description": "牛魔王号平天大圣，为花果山七兄弟之首。他与悟空原为结拜兄弟，后因悟空请观音收其子红孩儿而反目成仇。三调芭蕉扇一回中，他与悟空多次变化斗法，七十二变与悟空不相上下。最终被哪吒、众天兵合力降服，归顺佛门。",
+    "abilities": [
+      {
+        "name": "七十二变",
+        "description": "精通七十二变与悟空不相上下"
+      },
+      {
+        "name": "现本相",
+        "description": "可现大白牛本相，头如峻岭眼如闪光"
+      }
+    ],
+    "attributes": {
+      "称号": "平天大圣",
+      "身份": "花果山七兄弟老大"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        60,
+        61
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "结拜七圣",
+        "summary": "与悟空等花果山七兄弟结拜"
+      },
+      {
+        "chapter": 60,
+        "event": "大战悟空",
+        "summary": "三调芭蕉扇时与悟空变化斗法"
+      },
+      {
+        "chapter": 61,
+        "event": "被降服",
+        "summary": "被哪吒众天兵合力降服"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "旧友转敌",
+        "description": "原为结拜兄弟后反目"
+      },
+      {
+        "target": "tie-shan-gongzhu",
+        "type": "夫妻",
+        "description": "铁扇公主之夫"
+      },
+      {
+        "target": "hong-hai-er",
+        "type": "父子",
+        "description": "红孩儿之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "牛妖",
+      "七大圣"
+    ],
+    "power_level": 88,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回、第六十回、第六十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tie-shan-gongzhu",
+    "name": "铁扇公主",
+    "pinyin": "tie shan gong zhu",
+    "aliases": [
+      "罗刹女",
+      "铁扇仙"
+    ],
+    "category": "demon",
+    "type": "妖仙",
+    "species": "仙人",
+    "gender": "女",
+    "master": "none",
+    "weapon": "ba-jiao-shan",
+    "dwelling": "cui-yun-shan",
+    "summary": "罗刹女居翠云山芭蕉洞，持芭蕉扇可扇灭火焰山八百里火焰。",
+    "description": "铁扇公主即罗刹女，居翠云山芭蕉洞。她持有芭蕉扇，一扇能扇灭火焰山八百里火焰。因悟空请观音收其子红孩儿为善财童子，对悟空恨之入骨，三调芭蕉扇中多次拒绝借扇并扇走悟空。最终悟空得其真扇扇灭火焰，铁扇公主隐修归真。",
+    "abilities": [
+      {
+        "name": "芭蕉扇",
+        "description": "一扇熄八百里火焰，扇人十万八千里"
+      }
+    ],
+    "attributes": {
+      "法宝": "芭蕉扇",
+      "居所": "翠云山芭蕉洞"
+    },
+    "appears_in": {
+      "first_chapter": 59,
+      "chapters": [
+        59,
+        60,
+        61
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 59,
+        "event": "拒借芭蕉扇",
+        "summary": "因恨悟空收其子拒借芭蕉扇"
+      },
+      {
+        "chapter": 61,
+        "event": "交扇灭火",
+        "summary": "最终交出真扇扇灭火焰山"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "仇敌转和",
+        "description": "恨悟空收其子后交扇和解"
+      },
+      {
+        "target": "niuwang-mo",
+        "type": "夫妻",
+        "description": "牛魔王之妻"
+      },
+      {
+        "target": "hong-hai-er",
+        "type": "母子",
+        "description": "红孩儿之母"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "芭蕉扇",
+      "火焰山"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十九回至第六十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hong-hai-er",
+    "name": "红孩儿",
+    "pinyin": "hong hai er",
+    "aliases": [
+      "圣婴大王",
+      "红孩"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "牛妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "huo-yun-qiang",
+    "dwelling": "huo-yun-dong",
+    "summary": "牛魔王与铁扇公主之子，号圣婴大王，吐三昧真火几乎烧死悟空。",
+    "description": "红孩儿为牛魔王与铁扇公主之子，号圣婴大王。他在火云洞修炼三百年，练成三昧真火之法。他假扮孩童劫走唐僧，悟空与之交战被三昧真火几乎烧死。悟空请来观音菩萨，观音以莲花宝台与金箍咒降服红孩儿，收为善财童子永侍观音。",
+    "abilities": [
+      {
+        "name": "三昧真火",
+        "description": "口吐三昧真火可烧万物"
+      },
+      {
+        "name": "变化",
+        "description": "可变化为孩童迷惑行人"
+      }
+    ],
+    "attributes": {
+      "称号": "圣婴大王",
+      "居所": "火云洞"
+    },
+    "appears_in": {
+      "first_chapter": 40,
+      "chapters": [
+        40,
+        41,
+        42,
+        43
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 40,
+        "event": "劫唐僧",
+        "summary": "假扮孩童劫走唐僧"
+      },
+      {
+        "chapter": 41,
+        "event": "烧悟空",
+        "summary": "以三昧真火几乎烧死悟空"
+      },
+      {
+        "chapter": 42,
+        "event": "被收服",
+        "summary": "观音以莲花台金箍咒收服为善财童子"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "以三昧真火几乎烧死悟空"
+      },
+      {
+        "target": "niuwang-mo",
+        "type": "父子",
+        "description": "牛魔王之子"
+      },
+      {
+        "target": "tie-shan-gongzhu",
+        "type": "母子",
+        "description": "铁扇公主之子"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "收服",
+        "description": "被观音收为善财童子"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "三昧真火",
+      "善财童子"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十回至第四十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "baigujing",
+    "name": "白骨精",
+    "pinyin": "bai gu jing",
+    "aliases": [
+      "白骨夫人",
+      "尸魔"
+    ],
+    "category": "demon",
+    "type": "妖精",
+    "species": "尸魔",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "bai-gu-shan",
+    "summary": "白虎岭尸魔，三次变化骗唐僧，终被悟空打死却被逐走。",
+    "description": "白骨精为白虎岭上一尸魔，号白骨夫人。她三次变化——先变少妇、再变老妇、后变老翁——企图骗食唐僧肉。悟空火眼金睛每次识破皆打死其变化之身，然唐僧肉眼凡胎不识妖魔，以为悟空滥杀无辜，念紧箍咒并逐走悟空。",
+    "abilities": [
+      {
+        "name": "变化伪装",
+        "description": "可变化为少妇、老妇、老翁等形态"
+      },
+      {
+        "name": "解尸法",
+        "description": "被打后留下假尸迷惑对手"
+      }
+    ],
+    "attributes": {
+      "号": "白骨夫人",
+      "居所": "白虎岭"
+    },
+    "appears_in": {
+      "first_chapter": 27,
+      "chapters": [
+        27
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 27,
+        "event": "三打白骨精",
+        "summary": "三次变化骗唐僧均被悟空识破打死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "被杀",
+        "description": "被悟空三打打死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "企图骗食唐僧肉"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "尸魔",
+      "三打白骨精"
+    ],
+    "power_level": 35,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huangpao-guai",
+    "name": "黄袍怪",
+    "pinyin": "huang pao guai",
+    "aliases": [
+      "黄袍怪",
+      "奎木狼"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "星宿妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "bo-yue-shan",
+    "summary": "天庭二十八宿奎木狼下界为妖，掳宝象国公主为妻十三年。",
+    "description": "黄袍怪实为天庭二十八宿之奎木狼，因与披香殿侍女有前缘私通下界。他在碗子山波月洞为妖，掳宝象国百花公主为妻十三年。他将唐僧变为老虎，白龙马化龙刺杀不敌。后悟空回归，二十七星宿召回奎木狼归天，罚为太上老君烧火。",
+    "abilities": [
+      {
+        "name": "变化",
+        "description": "可变人形或怪貌"
+      }
+    ],
+    "attributes": {
+      "本相": "奎木狼",
+      "身份": "二十八宿之一"
+    },
+    "appears_in": {
+      "first_chapter": 28,
+      "chapters": [
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 29,
+        "event": "掳公主",
+        "summary": "掳宝象国百花公主为妻十三年"
+      },
+      {
+        "chapter": 30,
+        "event": "变唐僧为虎",
+        "summary": "将唐僧变为老虎"
+      },
+      {
+        "chapter": 31,
+        "event": "被召回天庭",
+        "summary": "二十七星宿召回奎木狼"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "被降",
+        "description": "被悟空与星宿合力降服"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "将唐僧变为老虎"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "星宿",
+      "奎木狼"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十八回至第三十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-jiao-dawang",
+    "name": "金角大王",
+    "pinyin": "jin jiao da wang",
+    "aliases": [
+      "金角大王",
+      "金角"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "妖仙",
+    "gender": "男",
+    "master": "taishang-laojun",
+    "weapon": "none",
+    "dwelling": "ping-ding-shan",
+    "summary": "太上老君看炉童子下界为妖，持五件法宝困悟空于平顶山莲花洞。",
+    "description": "金角大王为太上老君看金炉之童子下界，与银角大王在平顶山莲花洞为妖。他们盗走老君五件法宝——紫金红葫芦、羊脂玉净瓶、七星剑、芭蕉扇、幌金绳——以此困悟空。悟空智夺法宝反困二妖，老君亲自下界收回童子与法宝。",
+    "abilities": [
+      {
+        "name": "法宝运用",
+        "description": "熟练运用紫金红葫芦等五件法宝"
+      }
+    ],
+    "attributes": {
+      "本相": "老君看金炉童子",
+      "居所": "平顶山莲花洞"
+    },
+    "appears_in": {
+      "first_chapter": 32,
+      "chapters": [
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 33,
+        "event": "困悟空",
+        "summary": "以法宝困悟空于葫芦瓶中"
+      },
+      {
+        "chapter": 35,
+        "event": "被收回",
+        "summary": "老君亲自收回童子归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yin-jiao-dawang",
+        "type": "兄弟",
+        "description": "银角大王之兄"
+      },
+      {
+        "target": "taishang-laojun",
+        "type": "原属",
+        "description": "老君看炉童子下界"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "与悟空斗法宝被智夺"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "法宝",
+      "老君童子"
+    ],
+    "power_level": 72,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十二回至第三十五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yin-jiao-dawang",
+    "name": "银角大王",
+    "pinyin": "yin jiao da wang",
+    "aliases": [
+      "银角大王",
+      "银角"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "妖仙",
+    "gender": "男",
+    "master": "taishang-laojun",
+    "weapon": "none",
+    "dwelling": "ping-ding-shan",
+    "summary": "太上老君看银炉童子下界为妖，与金角大王同据平顶山莲花洞。",
+    "description": "银角大王为太上老君看银炉之童子下界，与金角大王同为平顶山莲花洞妖王。他以移山倒海之法压住悟空，又持紫金红葫芦等法宝困敌。悟空智夺法宝将其收入葫芦中，老君下界收回归位。",
+    "abilities": [
+      {
+        "name": "移山倒海",
+        "description": "可移三座大山压住对手"
+      },
+      {
+        "name": "法宝运用",
+        "description": "熟练运用紫金红葫芦等法宝"
+      }
+    ],
+    "attributes": {
+      "本相": "老君看银炉童子",
+      "居所": "平顶山莲花洞"
+    },
+    "appears_in": {
+      "first_chapter": 32,
+      "chapters": [
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 33,
+        "event": "移山压悟空",
+        "summary": "以移山之法压住悟空"
+      },
+      {
+        "chapter": 35,
+        "event": "被收回",
+        "summary": "老君收回归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "jin-jiao-dawang",
+        "type": "兄弟",
+        "description": "金角大王之弟"
+      },
+      {
+        "target": "taishang-laojun",
+        "type": "原属",
+        "description": "老君看炉童子下界"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "与悟空斗法宝被智夺"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "法宝",
+      "老君童子"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十二回至第三十五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "daqin-jinchi-diao",
+    "name": "大鹏金翅雕",
+    "pinyin": "da qin jin chi diao",
+    "aliases": [
+      "大鹏",
+      "云程万里鹏",
+      "狮驼岭三大王"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "大鹏鸟",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "shi-tuo-ling",
+    "summary": "如来佛祖之舅，狮驼岭三大王，一翅九万里，法力极高几无人能降。",
+    "description": "大鹏金翅雕号云程万里鹏，为狮驼岭三大王。他是如来佛祖之舅——凤凰所生孔雀之弟，一翅九万里速度远超筋斗云。他与狮驼王、白象王共据狮驼岭，将悟空师徒尽数擒获。悟空无法降服，如来佛祖亲自出面方将其收伏归佛。",
+    "abilities": [
+      {
+        "name": "一翅九万里",
+        "description": "飞行速度远超筋斗云"
+      },
+      {
+        "name": "阴阳二气瓶",
+        "description": "可将人收入瓶中化为浆水"
+      }
+    ],
+    "attributes": {
+      "称号": "云程万里鹏",
+      "身份": "如来之舅",
+      "居所": "狮驼城"
+    },
+    "appears_in": {
+      "first_chapter": 74,
+      "chapters": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 74,
+        "event": "据狮驼岭",
+        "summary": "与狮驼王、白象王共据狮驼岭阻取经路"
+      },
+      {
+        "chapter": 77,
+        "event": "擒师徒",
+        "summary": "将唐僧师徒尽数擒获"
+      },
+      {
+        "chapter": 78,
+        "event": "被如来收伏",
+        "summary": "如来佛祖亲自出面收伏归佛"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "甥舅",
+        "description": "如来佛祖之舅"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "擒获悟空师徒"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "大鹏",
+      "狮驼岭"
+    ],
+    "power_level": 96,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十四回至第七十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiutou-chong",
+    "name": "九头虫",
+    "pinyin": "jiu tou chong",
+    "aliases": [
+      "九头虫",
+      "九头驸马"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "九头鸟",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "bi-bo-tan",
+    "summary": "碧波潭九头驸马盗佛塔宝贝，被悟空与二郎神合力击败逃走。",
+    "description": "九头虫为碧波潭万圣龙王之驸马，九头十八眼。他与万圣龙王盗取祭赛国金光寺佛塔宝贝，悟空与八戒前往索宝不敌九头虫水性本领。二郎神相助，哮天犬咬断九头虫一颗头，九头虫逃往北海不知所踪。",
+    "abilities": [
+      {
+        "name": "九头十八眼",
+        "description": "九头可四面环视难以偷袭"
+      },
+      {
+        "name": "水战",
+        "description": "水战本领极强"
+      }
+    ],
+    "attributes": {
+      "身份": "碧波潭驸马",
+      "居所": "碧波潭"
+    },
+    "appears_in": {
+      "first_chapter": 62,
+      "chapters": [
+        62,
+        63
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 62,
+        "event": "盗佛塔宝贝",
+        "summary": "盗取祭赛国金光寺佛塔宝贝"
+      },
+      {
+        "chapter": 63,
+        "event": "被击败逃走",
+        "summary": "被二郎神哮天犬咬断一头逃走"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "盗佛塔宝贝与悟空交战"
+      },
+      {
+        "target": "erlang-shen",
+        "type": "敌",
+        "description": "被二郎神合力击败"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "九头虫"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十二回、第六十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhi-zhu-jing",
+    "name": "蜘蛛精",
+    "pinyin": "zhi zhu jing",
+    "aliases": [
+      "蜘蛛精",
+      "盘丝洞七女妖"
+    ],
+    "category": "demon",
+    "type": "妖精",
+    "species": "蜘蛛妖",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "pan-si-dong",
+    "summary": "盘丝洞七个蜘蛛女妖，吐丝困人，为黄花观百眼魔君之师妹。",
+    "description": "蜘蛛精为盘丝洞七个女妖，分别为红、橙、黄、绿、青、蓝、紫七色蛛丝。她们在濯垢泉沐浴时遇唐僧，将其掳入盘丝洞欲食之。悟空灭烧盘丝洞，但七个蜘蛛精逃往黄花观投奔百眼魔君蜈蚣精，最终被悟空打死。",
+    "abilities": [
+      {
+        "name": "吐丝困人",
+        "description": "可吐蛛丝网困住对手"
+      }
+    ],
+    "attributes": {
+      "数量": "七个",
+      "居所": "盘丝洞"
+    },
+    "appears_in": {
+      "first_chapter": 72,
+      "chapters": [
+        72,
+        73
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 72,
+        "event": "掳唐僧",
+        "summary": "在濯垢泉遇唐僧掳入盘丝洞"
+      },
+      {
+        "chapter": 73,
+        "event": "被打死",
+        "summary": "逃往黄花观后被悟空打死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "被悟空打死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "企图食唐僧肉"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "蜘蛛精",
+      "盘丝洞"
+    ],
+    "power_level": 45,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十二回、第七十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huang-feng-guai",
+    "name": "黄风怪",
+    "pinyin": "huang feng guai",
+    "aliases": [
+      "黄风怪",
+      "黄风大王"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "黄毛貂鼠",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "huang-feng-ling",
+    "summary": "灵吉菩萨座下黄毛貂鼠偷油下界为妖，吹三昧神风伤悟空眼目。",
+    "description": "黄风怪原为灵吉菩萨座下黄毛貂鼠，因偷食琉璃盏内清油下界为妖，在黄风岭黄风洞称大王。他吹三昧神风吹伤悟空火眼金睛，悟空无法取胜。灵吉菩萨以飞龙杖降服，交悟空处置后放归。",
+    "abilities": [
+      {
+        "name": "三昧神风",
+        "description": "吹出三昧神风可伤人眼目毁万物"
+      }
+    ],
+    "attributes": {
+      "本相": "黄毛貂鼠",
+      "居所": "黄风岭黄风洞"
+    },
+    "appears_in": {
+      "first_chapter": 20,
+      "chapters": [
+        20,
+        21
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 20,
+        "event": "掳唐僧",
+        "summary": "在黄风岭掳走唐僧"
+      },
+      {
+        "chapter": 21,
+        "event": "被降服",
+        "summary": "灵吉菩萨以飞龙杖降服"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "吹三昧神风伤悟空眼目"
+      },
+      {
+        "target": "ling-ji-pusa",
+        "type": "原属",
+        "description": "灵吉菩萨座下貂鼠下界"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "三昧神风",
+      "黄风岭"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十回、第二十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tang-taizong",
+    "name": "唐太宗李世民",
+    "pinyin": "tang tai zong li shi min",
+    "aliases": [
+      "李世民",
+      "太宗",
+      "唐王"
+    ],
+    "category": "mortal",
+    "type": "帝王",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "chang-an",
+    "summary": "大唐皇帝，遣唐僧西行取经，与玄奘结为御弟。",
+    "description": "唐太宗李世民为大唐皇帝。他因泾河龙王案魂游地府，还魂后举办水陆大会，遇玄奘主持法会。观音显化指明大乘真经所在，太宗遂遣玄奘西行取经，与玄奘结为御弟，赐号三藏。太宗亲送至长安城外，为取经事业之缘起。",
+    "abilities": [],
+    "attributes": {
+      "身份": "大唐皇帝",
+      "年号": "贞观"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 10,
+        "event": "游地府",
+        "summary": "因泾河龙王案魂游地府后还魂"
+      },
+      {
+        "chapter": 12,
+        "event": "遣僧取经",
+        "summary": "举办水陆大会后遣玄奘西行取经"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "君臣",
+        "description": "与玄奘结为御弟遣其取经"
+      },
+      {
+        "target": "wei-zheng",
+        "type": "臣属",
+        "description": "魏征为相斩泾河龙王"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "帝王",
+      "大唐"
+    ],
+    "power_level": 10,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回至第十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wei-zheng",
+    "name": "魏征",
+    "pinyin": "wei zheng",
+    "aliases": [
+      "魏征",
+      "魏丞相"
+    ],
+    "category": "mortal",
+    "type": "丞相",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "chang-an",
+    "summary": "大唐丞相，梦斩泾河龙王，致太宗魂游地府引发取经缘起。",
+    "description": "魏征为大唐丞相，刚直忠正。他在棋局中梦斩违旨的泾河龙王，致太宗受惊魂游地府。太宗还魂后举水陆大会，引出玄奘取经之事。魏征为取经缘起之关键人物。",
+    "abilities": [
+      {
+        "name": "梦斩龙王",
+        "description": "梦中奉天旨斩泾河龙王"
+      }
+    ],
+    "attributes": {
+      "身份": "大唐丞相",
+      "特点": "刚直忠正"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9,
+        10,
+        11
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 10,
+        "event": "梦斩龙王",
+        "summary": "棋局中梦斩泾河龙王"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-taizong",
+        "type": "臣属",
+        "description": "大唐丞相侍奉太宗"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "丞相",
+      "梦斩龙王"
+    ],
+    "power_level": 5,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回至第十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "liu-boqin",
+    "name": "刘伯钦",
+    "pinyin": "liu bo qin",
+    "aliases": [
+      "刘伯钦",
+      "镇山太保"
+    ],
+    "category": "mortal",
+    "type": "猎户",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "shuang-cha-ling",
+    "summary": "双叉岭镇山太保，护送唐僧过岭遇虎狼，引至五行山揭帖救悟空。",
+    "description": "刘伯钦为双叉岭镇山太保，一介猎户。唐僧初出长安过双叉岭时遇虎狼群妖，伯钦出手救之，护送过岭。他将唐僧引至五行山下，唐僧方揭帖救出孙悟空。为取经途中凡间第一助唐僧之人。",
+    "abilities": [
+      {
+        "name": "猎虎搏狼",
+        "description": "双叉岭猎虎搏狼本领出众"
+      }
+    ],
+    "attributes": {
+      "身份": "镇山太保",
+      "居所": "双叉岭"
+    },
+    "appears_in": {
+      "first_chapter": 13,
+      "chapters": [
+        13
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 13,
+        "event": "护送唐僧",
+        "summary": "护送唐僧过双叉岭遇虎狼"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "相助",
+        "description": "护送唐僧过岭"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "猎户",
+      "镇山太保"
+    ],
+    "power_level": 15,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zeng-zhang-tianwang",
+    "name": "增长天王",
+    "pinyin": "zeng zhang tian wang",
+    "aliases": [
+      "南方增长天王"
+    ],
+    "category": "immortal",
+    "type": "天王",
+    "species": "神将",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "南方增长天王，四大天王之一，曾奉玉帝之命把守南天门，于孙悟空大闹天宫时率天兵迎战。",
+    "description": "增长天王为佛教四大天王之南方天王，在《西游记》中奉玉帝之命把守天庭南天门。孙悟空大闹天宫时，他与众天将一同布防迎敌，是天庭护卫体系的重要一环。他手持青锋宝剑，司风，与东方持国、西方广目、北方多闻三位天王合称四大天王，共镇天门，护持三界秩序。",
+    "abilities": [
+      {
+        "name": "把守天门",
+        "description": "奉玉帝之命镇守天庭南天门"
+      },
+      {
+        "name": "率天兵迎战",
+        "description": "大闹天宫时统率麾下天兵抵御悟空"
+      }
+    ],
+    "attributes": {
+      "身份": "四大天王之南方天王",
+      "法宝": "青锋宝剑",
+      "职守": "南天门"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "镇守南天门",
+        "summary": "奉玉帝命把守天门"
+      },
+      {
+        "chapter": 6,
+        "event": "迎战悟空",
+        "summary": "大闹天宫时率天兵迎战孙悟空"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命镇守天门"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时与悟空交战"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "四大天王",
+      "南天门"
+    ],
+    "power_level": 78,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回至第七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "guang-mu-tianwang",
+    "name": "广目天王",
+    "pinyin": "guang mu tian wang",
+    "aliases": [
+      "西方广目天王"
+    ],
+    "category": "immortal",
+    "type": "天王",
+    "species": "神将",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "西方广目天王，四大天王之一，手缠赤龙，奉玉帝之命把守天门，大闹天宫时迎战悟空。",
+    "description": "广目天王为佛教四大天王之西方天王，在《西游记》中奉玉帝之命镇守天庭天门。他手中缠绕赤龙，司顺，与增长、持国、多闻三位天王合称四大天王。孙悟空大闹天宫时，他与众天将一同布防迎敌，是天庭常设护卫神将之一，职守天门护持三界秩序。",
+    "abilities": [
+      {
+        "name": "把守天门",
+        "description": "奉玉帝之命镇守天庭天门"
+      },
+      {
+        "name": "赤龙缠手",
+        "description": "手缠赤龙为兵器护持天门"
+      }
+    ],
+    "attributes": {
+      "身份": "四大天王之西方天王",
+      "法宝": "赤龙",
+      "职守": "天门"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "镇守天门",
+        "summary": "奉玉帝命把守天门"
+      },
+      {
+        "chapter": 6,
+        "event": "迎战悟空",
+        "summary": "大闹天宫时与众天将迎战"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命镇守天门"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时与悟空交战"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "四大天王",
+      "天门"
+    ],
+    "power_level": 78,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回至第七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "duo-wen-tianwang",
+    "name": "多闻天王",
+    "pinyin": "duo wen tian wang",
+    "aliases": [
+      "北方多闻天王",
+      "毗沙门"
+    ],
+    "category": "immortal",
+    "type": "天王",
+    "species": "神将",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "北方多闻天王，又名毗沙门，四大天王之一，手持宝伞，奉玉帝之命把守天门，大闹天宫时迎战。",
+    "description": "多闻天王为佛教四大天王之北方天王，又名毗沙门天王。在《西游记》中他奉玉帝之命把守天庭天门，手持宝伞（宝幢），司雨，与东方持国、南方增长、西方广目三位天王合称四大天王。孙悟空大闹天宫时，他与众天将一同布防迎敌，为天庭常设护卫神将，职守天门护持三界安宁。",
+    "abilities": [
+      {
+        "name": "把守天门",
+        "description": "奉玉帝之命镇守天庭天门"
+      },
+      {
+        "name": "宝伞护持",
+        "description": "手持宝伞护持天门抵御外敌"
+      }
+    ],
+    "attributes": {
+      "身份": "四大天王之北方天王",
+      "别名": "毗沙门",
+      "法宝": "宝伞"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "镇守天门",
+        "summary": "奉玉帝命把守天门"
+      },
+      {
+        "chapter": 6,
+        "event": "迎战悟空",
+        "summary": "大闹天宫时与众天将迎战"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命镇守天门"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时与悟空交战"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "四大天王",
+      "毗沙门"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回至第七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "chi-guo-tianwang",
+    "name": "持国天王",
+    "pinyin": "chi guo tian wang",
+    "aliases": [
+      "东方持国天王"
+    ],
+    "category": "immortal",
+    "type": "天王",
+    "species": "神将",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "东方持国天王，四大天王之一，怀抱琵琶，奉玉帝之命把守天门，大闹天宫时迎战。",
+    "description": "持国天王为佛教四大天王之东方天王，在《西游记》中奉玉帝之命把守天庭天门。他怀抱琵琶，司调，与南方增长、西方广目、北方多闻三位天王合称四大天王。孙悟空大闹天宫时，他与众天将一同布防迎敌，是天庭常设护卫神将之一，职守天门以护持三界秩序。",
+    "abilities": [
+      {
+        "name": "把守天门",
+        "description": "奉玉帝之命镇守天庭天门"
+      },
+      {
+        "name": "琵琶护法",
+        "description": "怀抱琵琶护持天门"
+      }
+    ],
+    "attributes": {
+      "身份": "四大天王之东方天王",
+      "法宝": "琵琶",
+      "职守": "天门"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "镇守天门",
+        "summary": "奉玉帝命把守天门"
+      },
+      {
+        "chapter": 6,
+        "event": "迎战悟空",
+        "summary": "大闹天宫时与众天将迎战"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命镇守天门"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时与悟空交战"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "四大天王",
+      "天门"
+    ],
+    "power_level": 78,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回至第七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ju-ling-shen",
+    "name": "巨灵神",
+    "pinyin": "ju ling shen",
+    "aliases": [
+      "巨灵高擎"
+    ],
+    "category": "immortal",
+    "type": "天将",
+    "species": "神将",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭巨灵神将，大闹天宫时奉旨为先锋，抡宣花斧与孙悟空交战不敌败走。",
+    "description": "巨灵神为天庭一员神将，身高力猛，奉玉帝之命在大闹天宫时充任先锋，下界至花果山水帘洞前挑战孙悟空。他抡起宣花斧与悟空交战，却被悟空一棒打伤臂膊败阵而回，为天庭首次正面迎战悟空之天将。此后他仍列天庭护卫之列，随诸天神将听调。",
+    "abilities": [
+      {
+        "name": "宣花斧",
+        "description": "手持宣花斧力战对手"
+      },
+      {
+        "name": "神力",
+        "description": "天生神力可充天庭先锋"
+      }
+    ],
+    "attributes": {
+      "身份": "天庭神将",
+      "兵器": "宣花斧"
+    },
+    "appears_in": {
+      "first_chapter": 4,
+      "chapters": [
+        4,
+        6,
+        7
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 4,
+        "event": "充当先锋",
+        "summary": "奉旨为先锋下界挑战悟空"
+      },
+      {
+        "chapter": 6,
+        "event": "败于悟空",
+        "summary": "抡宣花斧战悟空不敌败走"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命为天庭先锋"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "大闹天宫时首战悟空不敌"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "神将",
+      "先锋"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四回、第六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tai-yin-xingjun",
+    "name": "太阴星君",
+    "pinyin": "tai yin xing jun",
+    "aliases": [
+      "月神",
+      "太阴"
+    ],
+    "category": "immortal",
+    "type": "星君",
+    "species": "神",
+    "gender": "女",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "月宫太阴星君，掌月府嫦娥众仙，曾于天竺国收回下界作乱的玉兔精。",
+    "description": "太阴星君为月宫之主，统辖月府诸仙，嫦娥众仙女皆归其治。天竺国金平府一回中，其座下玉兔精私逃下界，假扮天竺公主欲害唐僧，被孙悟空识破。太阴星君亲临收伏玉兔归月宫，了结此难。其为天庭尊神，主月之晦明，位望清贵。",
+    "abilities": [
+      {
+        "name": "统月府",
+        "description": "统辖月宫嫦娥诸仙"
+      },
+      {
+        "name": "收伏玉兔",
+        "description": "亲临收回下界作乱的玉兔精"
+      }
+    ],
+    "attributes": {
+      "身份": "月宫之主",
+      "辖域": "月府"
+    },
+    "appears_in": {
+      "first_chapter": 95,
+      "chapters": [
+        95
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 95,
+        "event": "收玉兔",
+        "summary": "亲临天竺国收伏玉兔精归月宫"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "悟空识破玉兔后助其收伏"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "天庭尊神位望清贵"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "月神",
+      "星君"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huo-de-xingjun",
+    "name": "火德星君",
+    "pinyin": "huo de xing jun",
+    "aliases": [
+      "火神"
+    ],
+    "category": "immortal",
+    "type": "星君",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭火德星君，统火部众神，曾奉调助孙悟空降服金兜洞青牛精。",
+    "description": "火德星君为天庭火部之主，统辖火神众将，主司火政。孙悟空大闹金兜洞遇青牛精，以其金刚琢收尽兵器，遂上天庭告状。玉帝遣火德星君率火部众神助战，以真火攻魔，虽未能破金刚琢，亦显天庭火部之威。其为天庭常设神职，遇灾厄火患听调遣。",
+    "abilities": [
+      {
+        "name": "统火部",
+        "description": "统辖天庭火部众神"
+      },
+      {
+        "name": "真火攻敌",
+        "description": "率火部以真火攻伐妖魔"
+      }
+    ],
+    "attributes": {
+      "身份": "火部之主",
+      "职守": "火政"
+    },
+    "appears_in": {
+      "first_chapter": 51,
+      "chapters": [
+        51,
+        52
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 51,
+        "event": "助战青牛",
+        "summary": "奉调率火部助悟空攻青牛精"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝调遣率火部出战"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "助悟空降服青牛精"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "火神",
+      "星君"
+    ],
+    "power_level": 72,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十一回、第五十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shui-de-xingjun",
+    "name": "水德星君",
+    "pinyin": "shui de xing jun",
+    "aliases": [
+      "水神"
+    ],
+    "category": "immortal",
+    "type": "星君",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭水德星君，统水部众神，曾奉调助孙悟空降服金兜洞青牛精。",
+    "description": "水德星君为天庭水部之主，统辖水神众将，主司水政。孙悟空大闹金兜洞遇青牛精，金箍棒等兵器尽被金刚琢收去，遂上天告状。玉帝遣水德星君率水部众神助战，引水攻魔，虽未破金刚琢，亦显天庭水部之能。其为天庭常设神职，遇水旱听调遣。",
+    "abilities": [
+      {
+        "name": "统水部",
+        "description": "统辖天庭水部众神"
+      },
+      {
+        "name": "引水攻敌",
+        "description": "率水部引水攻伐妖魔"
+      }
+    ],
+    "attributes": {
+      "身份": "水部之主",
+      "职守": "水政"
+    },
+    "appears_in": {
+      "first_chapter": 51,
+      "chapters": [
+        51,
+        52
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 51,
+        "event": "助战青牛",
+        "summary": "奉调率水部助悟空攻青牛精"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝调遣率水部出战"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "助悟空降服青牛精"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "水神",
+      "星君"
+    ],
+    "power_level": 72,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十一回、第五十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "feng-bo",
+    "name": "风伯",
+    "pinyin": "feng bo",
+    "aliases": [
+      "飞廉"
+    ],
+    "category": "immortal",
+    "type": "风神",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭风伯飞廉，掌行风之职，曾奉玉帝之命与雨师往凤仙郡为悟空布雨。",
+    "description": "风伯名飞廉，为天庭司风之神，与雨师同掌风雨行布。凤仙郡一回中，郡侯得罪上天，玉帝降灾三年不雨。孙悟空查知缘由，上天求情，玉帝遂命风伯、雨师往凤仙郡布雨济民。风伯听调于天庭，行风助雨，解一方旱厄，亦曾应悟空之请行风助阵。",
+    "abilities": [
+      {
+        "name": "行风",
+        "description": "掌天庭行风之职"
+      },
+      {
+        "name": "助雨布泽",
+        "description": "奉命与雨师行风布雨济民"
+      }
+    ],
+    "attributes": {
+      "身份": "司风之神",
+      "别名": "飞廉"
+    },
+    "appears_in": {
+      "first_chapter": 87,
+      "chapters": [
+        87
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 87,
+        "event": "凤仙郡布雨",
+        "summary": "奉玉帝命与雨师往凤仙郡布雨济民"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命行风布雨"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "应悟空之请往凤仙郡布雨"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "风神",
+      "风雨"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-shi",
+    "name": "雨师",
+    "pinyin": "yu shi",
+    "aliases": [
+      "萍翳"
+    ],
+    "category": "immortal",
+    "type": "雨神",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭雨师萍翳，掌降雨之职，曾奉玉帝之命与风伯往凤仙郡为悟空布雨。",
+    "description": "雨师名萍翳，为天庭司雨之神，与风伯同掌风雨行布。凤仙郡一回中，郡侯冒犯上天，玉帝降灾三年不雨，禾稼尽枯。孙悟空上天求情查明因果，玉帝命雨师与风伯往凤仙郡降雨济民。雨师听调于天庭，降雨解旱，亦常应悟空之请行雨助阵降妖。",
+    "abilities": [
+      {
+        "name": "行雨",
+        "description": "掌天庭降雨之职"
+      },
+      {
+        "name": "助风布泽",
+        "description": "奉命与风伯行雨布泽济民"
+      }
+    ],
+    "attributes": {
+      "身份": "司雨之神",
+      "别名": "萍翳"
+    },
+    "appears_in": {
+      "first_chapter": 87,
+      "chapters": [
+        87
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 87,
+        "event": "凤仙郡布雨",
+        "summary": "奉玉帝命与风伯往凤仙郡降雨济民"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝之命行雨布泽"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "应悟空之请往凤仙郡布雨"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "雨神",
+      "风雨"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "lei-gong",
+    "name": "雷公",
+    "pinyin": "lei gong",
+    "aliases": [
+      "雷神"
+    ],
+    "category": "immortal",
+    "type": "雷神",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭雷公，掌雷部霹雳，常奉调与电母同行雷法，助孙悟空布雨降妖。",
+    "description": "雷公为天庭雷部之神，主司雷霆霹雳，与电母相辅相成。凤仙郡一回中，玉帝命雷公电母随风雨之神往凤仙郡行雷布雨，以解三年旱厄。雷公亦常应天庭调遣，随取经团队之请行雷助战，震慑妖魔。其为天庭常设神职，位列雷部听令于玉帝。",
+    "abilities": [
+      {
+        "name": "雷霆霹雳",
+        "description": "主司天庭雷霆霹雳"
+      },
+      {
+        "name": "助战行雷",
+        "description": "奉调随悟空行雷助战"
+      }
+    ],
+    "attributes": {
+      "身份": "雷部之神",
+      "搭档": "电母"
+    },
+    "appears_in": {
+      "first_chapter": 87,
+      "chapters": [
+        87
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 87,
+        "event": "凤仙郡行雷",
+        "summary": "奉玉帝命随风雨之神往凤仙郡行雷布雨"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝调遣掌雷部"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "应请行雷助阵降妖"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "雷神",
+      "雷部"
+    ],
+    "power_level": 68,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "dian-mu",
+    "name": "电母",
+    "pinyin": "dian mu",
+    "aliases": [
+      "闪电娘娘"
+    ],
+    "category": "immortal",
+    "type": "电神",
+    "species": "神",
+    "gender": "女",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭电母闪电娘娘，掌闪电之职，常奉调与雷公同行雷法，助孙悟空布雨降妖。",
+    "description": "电母号闪电娘娘，为天庭电部之神，主司闪电，与雷公相辅相成。凤仙郡一回中，玉帝命电母随雷公、风雨之神往凤仙郡行雷闪电布雨，解三年旱厄。电母亦常应天庭调遣，随取经团队之请引电助战，照亮妖氛。其为天庭常设神职，位列电部听令于玉帝。",
+    "abilities": [
+      {
+        "name": "闪电",
+        "description": "主司天庭闪电"
+      },
+      {
+        "name": "助战引电",
+        "description": "奉调随悟空引电助战"
+      }
+    ],
+    "attributes": {
+      "身份": "电部之神",
+      "尊号": "闪电娘娘",
+      "搭档": "雷公"
+    },
+    "appears_in": {
+      "first_chapter": 87,
+      "chapters": [
+        87
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 87,
+        "event": "凤仙郡引电",
+        "summary": "奉玉帝命随雷公往凤仙郡引电布雨"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "奉玉帝调遣掌电部"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "应请引电助阵降妖"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "电神",
+      "电部"
+    ],
+    "power_level": 68,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "chi-jiao-da-xian",
+    "name": "赤脚大仙",
+    "pinyin": "chi jiao da xian",
+    "aliases": [
+      "赤脚仙"
+    ],
+    "category": "immortal",
+    "type": "神仙",
+    "species": "仙",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "tian-ting",
+    "summary": "天庭散仙赤脚大仙，跣足蓬头，蟠桃会上被孙悟空变作自身诓骗，性情憨直。",
+    "description": "赤脚大仙为天庭一位散仙，常跣足蓬头、逍遥自在。蟠桃大会一回中，孙悟空变作赤脚大仙的模样，假说通明殿演礼，将真赤脚大仙诓去通明殿，自己却变作大仙赴蟠桃会搅乱。真赤脚大仙后又至会场，方知被悟空戏弄。其性情憨直，为天庭中颇受喜爱的老仙。",
+    "abilities": [
+      {
+        "name": "仙法自在",
+        "description": "逍遥散仙自有神通"
+      },
+      {
+        "name": "赴蟠桃会",
+        "description": "常受邀赴王母蟠桃大会"
+      }
+    ],
+    "attributes": {
+      "身份": "天庭散仙",
+      "形象": "跣足蓬头"
+    },
+    "appears_in": {
+      "first_chapter": 5,
+      "chapters": [
+        5
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 5,
+        "event": "被悟空戏弄",
+        "summary": "蟠桃会上被悟空变作自身诓去通明殿"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "被戏弄",
+        "description": "蟠桃会上被悟空变身诓骗"
+      },
+      {
+        "target": "wangmu-niangniang",
+        "type": "受邀",
+        "description": "常受邀赴王母蟠桃大会"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "天庭散仙听调于玉帝"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "散仙",
+      "蟠桃会"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhen-yuan-da-xian",
+    "name": "镇元大仙",
+    "pinyin": "zhen yuan da xian",
+    "aliases": [
+      "镇元子",
+      "地仙之祖"
+    ],
+    "category": "immortal",
+    "type": "地仙",
+    "species": "仙",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "地仙之祖镇元子，居万寿山五庄观，因人参果事件与孙悟空由敌转友结为兄弟。",
+    "description": "镇元大仙号镇元子，人称地仙之祖，居万寿山五庄观，种有人参果，三千年一开花、三千年一结果、再三千年方成熟，闻一闻可活三百六十岁，吃一枚可活四万七千年。唐僧取经路过，悟空窃果毁树，镇元大仙怒而擒拿师徒。后经观音菩萨甘露救活宝树，二人解怨，结为兄弟。",
+    "abilities": [
+      {
+        "name": "袖里乾坤",
+        "description": "一袖拂出可笼尽取经师徒"
+      },
+      {
+        "name": "地仙之祖",
+        "description": "道行深湛为地仙之首"
+      },
+      {
+        "name": "人参果",
+        "description": "五庄观种有人参果可延寿"
+      }
+    ],
+    "attributes": {
+      "身份": "地仙之祖",
+      "别号": "镇元子",
+      "居所": "万寿山五庄观"
+    },
+    "appears_in": {
+      "first_chapter": 24,
+      "chapters": [
+        24,
+        25,
+        26
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 24,
+        "event": "人参果会",
+        "summary": "唐僧师徒至五庄观，悟空窃人参果"
+      },
+      {
+        "chapter": 25,
+        "event": "擒拿师徒",
+        "summary": "镇元怒以袖里乾坤擒拿取经师徒"
+      },
+      {
+        "chapter": 26,
+        "event": "结为兄弟",
+        "summary": "观音救活宝树，二人解怨结为兄弟"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手转友",
+        "description": "因人参果事件由敌转友结为兄弟"
+      },
+      {
+        "target": "tang-seng",
+        "type": "款待",
+        "description": "敬唐僧为故人故交款待"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "相助",
+        "description": "观音以甘露救活人参果树"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "地仙",
+      "五庄观",
+      "人参果"
+    ],
+    "power_level": 90,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第二十四回至第二十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shou-xing",
+    "name": "寿星",
+    "pinyin": "shou xing",
+    "aliases": [
+      "南极老人星",
+      "老寿星"
+    ],
+    "category": "immortal",
+    "type": "星君",
+    "species": "仙",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "南极老人星寿星，掌寿算，曾于比丘国收回下界为妖的白鹿，与福禄二星同游。",
+    "description": "寿星即南极老人星，主掌人间寿算，为天庭尊神。比丘国一回中，其座下白鹿精私逃下界，哄惑国王以小儿心肝为药引，被孙悟空识破。寿星亲临收回白鹿，又与福星、禄星一同戏谑悟空，了结此难。其形象为额秃长须、拄曲木拐，常为天庭祥瑞之仙。",
+    "abilities": [
+      {
+        "name": "掌寿算",
+        "description": "主掌人间寿夭祸福"
+      },
+      {
+        "name": "收伏白鹿",
+        "description": "亲临收回下界为妖的白鹿"
+      }
+    ],
+    "attributes": {
+      "身份": "南极老人星",
+      "别名": "老寿星",
+      "同游": "福星、禄星"
+    },
+    "appears_in": {
+      "first_chapter": 79,
+      "chapters": [
+        79
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 79,
+        "event": "收白鹿",
+        "summary": "亲临比丘国收回下界白鹿精"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "悟空识破白鹿后助其收伏"
+      },
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "天庭尊神掌寿算"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "寿星",
+      "星君"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "nan-hai-longwang",
+    "name": "南海龙王",
+    "pinyin": "nan hai long wang",
+    "aliases": [
+      "敖钦"
+    ],
+    "category": "immortal",
+    "type": "龙王",
+    "species": "龙族",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "四海龙王之南海龙王敖钦，主南海风雨，常奉调与诸龙王助孙悟空布雨降妖。",
+    "description": "南海龙王敖钦为四海龙王之一，主南海风雨水族。孙悟空保唐僧取经途中，屡上天庭请龙王助阵：火云洞红孩儿三昧真火难灭，敖钦与东海、西海、北海三龙王同往布雨；通天河一回亦奉调降雨。其为天庭所统之水神，与东海敖广、西海敖闰、北海敖顺为兄弟。",
+    "abilities": [
+      {
+        "name": "行云布雨",
+        "description": "主掌南海风雨水候"
+      },
+      {
+        "name": "水战",
+        "description": "龙族天然水性本领"
+      }
+    ],
+    "attributes": {
+      "辖域": "南海",
+      "姓名": "敖钦",
+      "兄弟": "敖广、敖闰、敖顺"
+    },
+    "appears_in": {
+      "first_chapter": 43,
+      "chapters": [
+        43,
+        48
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 43,
+        "event": "火云洞布雨",
+        "summary": "与三龙王同往助悟空灭红孩儿真火"
+      },
+      {
+        "chapter": 48,
+        "event": "通天河助阵",
+        "summary": "奉调往通天河助取经团队"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "dong-hai-longwang",
+        "type": "兄弟",
+        "description": "与东海龙王敖广为兄弟"
+      },
+      {
+        "target": "xi-hai-longwang",
+        "type": "兄弟",
+        "description": "与西海龙王敖闰为兄弟"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "奉调助悟空布雨降妖"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "龙王",
+      "龙族"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十三回、第四十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bei-hai-longwang",
+    "name": "北海龙王",
+    "pinyin": "bei hai long wang",
+    "aliases": [
+      "敖顺"
+    ],
+    "category": "immortal",
+    "type": "龙王",
+    "species": "龙族",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "四海龙王之北海龙王敖顺，主北海风雨，常奉调与诸龙王助孙悟空布雨降妖。",
+    "description": "北海龙王敖顺为四海龙王之一，主北海风雨水族。孙悟空保唐僧取经途中，屡请龙王助阵：火云洞红孩儿三昧真火难灭，敖顺与东海、西海、南海三龙王同往布雨；通天河一回亦奉调降雨。其为天庭所统之水神，与东海敖广、西海敖闰、南海敖钦为兄弟，听令于天庭。",
+    "abilities": [
+      {
+        "name": "行云布雨",
+        "description": "主掌北海风雨水候"
+      },
+      {
+        "name": "水战",
+        "description": "龙族天然水性本领"
+      }
+    ],
+    "attributes": {
+      "辖域": "北海",
+      "姓名": "敖顺",
+      "兄弟": "敖广、敖闰、敖钦"
+    },
+    "appears_in": {
+      "first_chapter": 43,
+      "chapters": [
+        43,
+        48
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 43,
+        "event": "火云洞布雨",
+        "summary": "与三龙王同往助悟空灭红孩儿真火"
+      },
+      {
+        "chapter": 48,
+        "event": "通天河助阵",
+        "summary": "奉调往通天河助取经团队"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "dong-hai-longwang",
+        "type": "兄弟",
+        "description": "与东海龙王敖广为兄弟"
+      },
+      {
+        "target": "xi-hai-longwang",
+        "type": "兄弟",
+        "description": "与西海龙王敖闰为兄弟"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "奉调助悟空布雨降妖"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "龙王",
+      "龙族"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十三回、第四十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhen-wu-da-di",
+    "name": "真武大帝",
+    "pinyin": "zhen wu da di",
+    "aliases": [
+      "北极真武大帝",
+      "荡魔天尊"
+    ],
+    "category": "immortal",
+    "type": "大帝",
+    "species": "神",
+    "gender": "男",
+    "master": "玉帝",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "北极真武大帝荡魔天尊，居武当山，曾遣龟蛇二将助孙悟空收伏玄英洞犀牛精。",
+    "description": "真武大帝号北极真武大帝，又称荡魔天尊，居武当山，统北极之神，专司伏魔。玄英洞一回中，三个犀牛精盗金平府香油、擒唐僧，孙悟空难以降服，遂上九天请真武大帝相助。大帝遣龟蛇二将并五大神龙下界，合力收伏三犀牛，了结此难。其威镇北方，为天庭伏魔之尊神。",
+    "abilities": [
+      {
+        "name": "荡魔伏妖",
+        "description": "专司伏魔镇守北方"
+      },
+      {
+        "name": "龟蛇二将",
+        "description": "麾下龟蛇二将与五大神龙听用"
+      }
+    ],
+    "attributes": {
+      "尊号": "北极真武大帝",
+      "别名": "荡魔天尊",
+      "居所": "武当山"
+    },
+    "appears_in": {
+      "first_chapter": 92,
+      "chapters": [
+        92
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 92,
+        "event": "收犀牛精",
+        "summary": "遣龟蛇二将助悟空收伏玄英洞三犀牛"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "yu-huang-dadi",
+        "type": "臣属",
+        "description": "天庭伏魔尊神听调于玉帝"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "相助",
+        "description": "遣部将助悟空收伏犀牛精"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "天庭",
+      "大帝",
+      "伏魔"
+    ],
+    "power_level": 92,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "a-nan",
+    "name": "阿难陀",
+    "pinyin": "a nan tuo",
+    "aliases": [
+      "阿难",
+      "阿难尊者"
+    ],
+    "category": "buddha",
+    "type": "尊者",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "如来佛祖",
+    "weapon": "none",
+    "dwelling": "lei-yin-si",
+    "summary": "佛陀十大弟子之一，多闻第一，常随如来左右，于灵山法会上掌持经藏，取经功成时奉佛命向唐僧传经。",
+    "description": "阿难陀为佛陀十大弟子之一，号称多闻第一，记忆超群，常随释迦牟尼佛左右，亲闻佛法最多。取经功成之际，他与迦叶尊者奉如来法旨于灵山藏经阁检取真经授予唐僧。因索人事未得而先付无字真经，后补授有字真经，为佛教经典传承之关键人物。",
+    "abilities": [
+      {
+        "name": "多闻强记",
+        "description": "记忆超群，能一字不漏记诵佛陀所说诸经"
+      },
+      {
+        "name": "持经传法",
+        "description": "于灵山掌持经藏，奉佛命向取经人传授真经"
+      }
+    ],
+    "attributes": {
+      "称号": "多闻第一",
+      "身份": "佛陀十大弟子",
+      "居所": "灵山大雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 98,
+      "chapters": [
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 98,
+        "event": "灵山传经",
+        "summary": "奉如来法旨与迦叶检经授予唐僧"
+      },
+      {
+        "chapter": 99,
+        "event": "索人事",
+        "summary": "因唐僧未备人事先付无字真经"
+      },
+      {
+        "chapter": 100,
+        "event": "补授真经",
+        "summary": "后补授有字真经助取经功成"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "弟子",
+        "description": "佛陀十大弟子之一，常随如来左右"
+      },
+      {
+        "target": "tang-seng",
+        "type": "传经",
+        "description": "于灵山奉佛命向唐僧传授真经"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "尊者",
+      "多闻第一",
+      "传经"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十八回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jia-ye",
+    "name": "迦叶尊者",
+    "pinyin": "mo he jia ye",
+    "aliases": [
+      "摩诃迦叶",
+      "迦叶"
+    ],
+    "category": "buddha",
+    "type": "尊者",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "如来佛祖",
+    "weapon": "none",
+    "dwelling": "lei-yin-si",
+    "summary": "佛陀十大弟子之一，头陀第一，灵山会上受正法眼藏，取经功成时与阿难同掌传经之事。",
+    "description": "摩诃迦叶为佛陀十大弟子之一，号称头陀第一，修苦行严持戒律。灵山会上世尊拈花，迦叶破颜微笑，遂受正法眼藏，为禅宗初祖。取经功成之时，他与阿难陀奉如来法旨于藏经阁掌取真经授予唐僧，因索人事未得先付无字真经，后补授有字真经，于佛门传灯意义重大。",
+    "abilities": [
+      {
+        "name": "头陀苦行",
+        "description": "修头陀行严持戒律，为僧团苦行之范"
+      },
+      {
+        "name": "拈花传灯",
+        "description": "灵山会上受世尊正法眼藏，开禅宗一脉"
+      }
+    ],
+    "attributes": {
+      "称号": "头陀第一",
+      "身份": "佛陀十大弟子",
+      "居所": "灵山大雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 98,
+      "chapters": [
+        98,
+        99,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 98,
+        "event": "灵山传经",
+        "summary": "奉如来法旨与阿难检经授予唐僧"
+      },
+      {
+        "chapter": 99,
+        "event": "索人事",
+        "summary": "因唐僧未备人事先付无字真经"
+      },
+      {
+        "chapter": 100,
+        "event": "补授真经",
+        "summary": "后补授有字真经助取经功成"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "弟子",
+        "description": "佛陀十大弟子之一，受正法眼藏"
+      },
+      {
+        "target": "tang-seng",
+        "type": "传经",
+        "description": "于灵山奉佛命向唐僧传授真经"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "尊者",
+      "头陀第一",
+      "传经"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十八回至第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "mu-lian",
+    "name": "目犍连",
+    "pinyin": "mu jian lian",
+    "aliases": [
+      "目连",
+      "神通第一"
+    ],
+    "category": "buddha",
+    "type": "罗汉",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "如来佛祖",
+    "weapon": "none",
+    "dwelling": "lei-yin-si",
+    "summary": "佛陀十大弟子之一，神通第一，以盂兰盆救母之孝行闻名，于灵山法会中列罗汉之首辅佐传法。",
+    "description": "目犍连为佛陀十大弟子之一，号称神通第一，能飞行自在、出入幽冥。其救度亡母之盂兰盆故事广为流传，为佛门孝道典范。取经功成之际，他于灵山法会中列众罗汉之首，随如来迎接唐僧师徒，辅佐阿难迦叶传经授法，是佛教神通与孝行并重之高足。",
+    "abilities": [
+      {
+        "name": "神通自在",
+        "description": "号称神通第一，能飞行变化出入幽冥"
+      },
+      {
+        "name": "盂兰救母",
+        "description": "以盂兰盆供救度亡母，为佛门孝道典范"
+      }
+    ],
+    "attributes": {
+      "称号": "神通第一",
+      "身份": "佛陀十大弟子",
+      "居所": "灵山大雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 98,
+      "chapters": [
+        98,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 98,
+        "event": "灵山迎经",
+        "summary": "于灵山法会列罗汉之首迎接唐僧师徒"
+      },
+      {
+        "chapter": 100,
+        "event": "助传经法",
+        "summary": "随如来辅佐传经授法成就取经"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "弟子",
+        "description": "佛陀十大弟子之一，神通第一"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "罗汉",
+      "神通第一",
+      "盂兰盆"
+    ],
+    "power_level": 82,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十八回、第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "she-li-fu",
+    "name": "舍利弗",
+    "pinyin": "she li fu",
+    "aliases": [
+      "舍利子",
+      "智慧第一"
+    ],
+    "category": "buddha",
+    "type": "罗汉",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "如来佛祖",
+    "weapon": "none",
+    "dwelling": "lei-yin-si",
+    "summary": "佛陀十大弟子之一，智慧第一，誉为佛门长老，于灵山法会中佐如来印证取经之功。",
+    "description": "舍利弗为佛陀十大弟子之一，号称智慧第一，自幼聪颖过人，七日即通经论，常随如来左右，被誉为佛门长老与说法第一人。取经功成之时，他于灵山法会中随如来迎接唐僧师徒，佐佛印证取经之功，于众罗汉中位望崇隆，为佛教智慧与辩才之象征。",
+    "abilities": [
+      {
+        "name": "智慧第一",
+        "description": "号称智慧第一，通达经论辩才无碍"
+      },
+      {
+        "name": "说法度众",
+        "description": "常随如来说法，善巧开示导引众生"
+      }
+    ],
+    "attributes": {
+      "称号": "智慧第一",
+      "身份": "佛陀十大弟子",
+      "居所": "灵山大雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 98,
+      "chapters": [
+        98,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 98,
+        "event": "灵山迎经",
+        "summary": "于灵山法会随如来迎接唐僧师徒"
+      },
+      {
+        "chapter": 100,
+        "event": "印证取经",
+        "summary": "佐如来印证唐僧取经之功"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "弟子",
+        "description": "佛陀十大弟子之一，智慧第一"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "罗汉",
+      "智慧第一",
+      "说法"
+    ],
+    "power_level": 82,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十八回、第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "di-zang-pusa",
+    "name": "地藏菩萨",
+    "pinyin": "di zang pu sa",
+    "aliases": [
+      "地藏王",
+      "幽冥教主"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "佛",
+    "gender": "男",
+    "master": "如来佛祖",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "幽冥教主地藏菩萨，发愿地狱不空誓不成佛，于冥界主持善恶勘辨，曾助悟空识破六耳猕猴。",
+    "description": "地藏菩萨为幽冥教主，发下地狱未空誓不成佛之大愿，于冥界度脱罪苦众生。他坐骑谛听善辨万物真伪，真假美猴王搅至幽冥时，地藏命谛听勘辨，谛听识破六耳猕猴本相却虑其闹冥府而未言明，指点悟空往如来处分辨。地藏以慈悲深宏、誓愿坚固为佛门四大菩萨之一。",
+    "abilities": [
+      {
+        "name": "幽冥度脱",
+        "description": "主持冥界度脱罪苦众生，誓空地狱"
+      },
+      {
+        "name": "谛听辨伪",
+        "description": "坐骑谛听能辨万物真伪，勘破变化之源"
+      }
+    ],
+    "attributes": {
+      "尊号": "幽冥教主",
+      "本愿": "地狱不空誓不成佛",
+      "坐骑": "谛听"
+    },
+    "appears_in": {
+      "first_chapter": 58,
+      "chapters": [
+        58
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 58,
+        "event": "幽冥勘辨",
+        "summary": "真假美猴王至冥界，命谛听勘破六耳猕猴"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "隶属",
+        "description": "受佛嘱托主持幽冥度脱之事"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "勘辨",
+        "description": "命谛听助悟空辨明六耳猕猴真伪"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨",
+      "幽冥教主",
+      "地狱不空"
+    ],
+    "power_level": 95,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yue-liang-pusa",
+    "name": "月光菩萨",
+    "pinyin": "yue liang pu sa",
+    "aliases": [
+      "月光遍照"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "佛",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "药师佛胁侍月光遍照菩萨，与日光菩萨并立，于佛前护持净琉璃世界，誓护持正法度众。",
+    "description": "月光菩萨名月光遍照，为东方净琉璃世界药师佛之左胁侍，与日光菩萨并立于佛前，合称药师三尊。他身放清凉月光，象征寂静智慧，常以誓愿护持正法、疗救众生疾苦。于灵山法会中随诸佛菩萨同参法席，护持取经功德，为佛门中慈光遍照之菩萨。",
+    "abilities": [
+      {
+        "name": "月光遍照",
+        "description": "身放清凉月光，象征寂静智慧普照众生"
+      },
+      {
+        "name": "护法疗苦",
+        "description": "发愿护持正法疗救众生疾苦"
+      }
+    ],
+    "attributes": {
+      "尊号": "月光遍照",
+      "身份": "药师佛左胁侍",
+      "象征": "寂静智慧"
+    },
+    "appears_in": {
+      "first_chapter": 91,
+      "chapters": [
+        91,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 91,
+        "event": "金平法会",
+        "summary": "唐僧取经途经天竺，佛门菩萨并参法席"
+      },
+      {
+        "chapter": 100,
+        "event": "灵山证功",
+        "summary": "随诸佛菩萨于灵山证取经之功"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "胁侍",
+        "description": "为佛前胁侍菩萨，同参灵山法席"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨",
+      "月光遍照",
+      "药师胁侍"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十一回、第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ri-zhao-pusa",
+    "name": "日光菩萨",
+    "pinyin": "ri zhao pu sa",
+    "aliases": [
+      "日光遍照"
+    ],
+    "category": "buddha",
+    "type": "菩萨",
+    "species": "佛",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "药师佛胁侍日光遍照菩萨，与月光菩萨并立，身放光明破除暗冥，誓护持正法度众。",
+    "description": "日光菩萨名日光遍照，为东方净琉璃世界药师佛之右胁侍，与月光菩萨并立于佛前，合称药师三尊。他身放赫奕光明，象征慈悲智慧破除众生痴暗。于灵山法会中随诸佛菩萨同参法席，护持取经功德，为佛门中光明普照之菩萨。",
+    "abilities": [
+      {
+        "name": "日光遍照",
+        "description": "身放赫奕光明，象征破除众生痴暗"
+      },
+      {
+        "name": "护法度众",
+        "description": "发愿护持正法导引众生离苦"
+      }
+    ],
+    "attributes": {
+      "尊号": "日光遍照",
+      "身份": "药师佛右胁侍",
+      "象征": "慈悲光明"
+    },
+    "appears_in": {
+      "first_chapter": 91,
+      "chapters": [
+        91,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 91,
+        "event": "金平法会",
+        "summary": "唐僧取经途经天竺，佛门菩萨并参法席"
+      },
+      {
+        "chapter": 100,
+        "event": "灵山证功",
+        "summary": "随诸佛菩萨于灵山证取经之功"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "胁侍",
+        "description": "为佛前胁侍菩萨，同参灵山法席"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "菩萨",
+      "日光遍照",
+      "药师胁侍"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十一回、第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hui-an-xing-zhe",
+    "name": "惠岸行者",
+    "pinyin": "hui an xing zhe",
+    "aliases": [
+      "木叉",
+      "木吒"
+    ],
+    "category": "buddha",
+    "type": "行者",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "观音菩萨",
+    "weapon": "none",
+    "dwelling": "nan-hai-pu-tuo",
+    "summary": "观音菩萨大徒弟木吒，号惠岸行者，曾多次奉师命助天兵与悟空，后随观音护持取经。",
+    "description": "惠岸行者即木吒，为观音菩萨座下大徒弟，托塔李天王之子、哪吒之兄。大闹天宫时他奉观音之命下山助战，与孙悟空交手不分胜负，后回禀师命。取经途中观音收红孩儿为善财童子，木吒常随师左右护持法驾，于佛门中忠勇精进，为观音得力臂助。",
+    "abilities": [
+      {
+        "name": "棍法",
+        "description": "持浑铁棍，武艺精熟可敌天将"
+      },
+      {
+        "name": "随师护法",
+        "description": "常随观音左右，奉命下山助战护法"
+      }
+    ],
+    "attributes": {
+      "法号": "惠岸行者",
+      "身份": "观音大徒弟",
+      "亲眷": "李天王之子、哪吒之兄"
+    },
+    "appears_in": {
+      "first_chapter": 6,
+      "chapters": [
+        6,
+        8,
+        42
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 6,
+        "event": "助战天兵",
+        "summary": "奉观音命下山与悟空交手"
+      },
+      {
+        "chapter": 8,
+        "event": "随师东寻",
+        "summary": "随观音往东土寻取经人"
+      },
+      {
+        "chapter": 42,
+        "event": "护法收童",
+        "summary": "随观音收红孩儿为善财童子"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "师徒",
+        "description": "观音菩萨座下大徒弟"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "助战",
+        "description": "大闹天宫时奉命与悟空交手"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "行者",
+      "观音弟子",
+      "木吒"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六回、第八回、第四十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shan-cai-tong-zi",
+    "name": "善财童子",
+    "pinyin": "shan cai tong zi",
+    "aliases": [
+      "红孩儿",
+      "善财"
+    ],
+    "category": "buddha",
+    "type": "童子",
+    "species": "佛门弟子",
+    "gender": "男",
+    "master": "观音菩萨",
+    "weapon": "none",
+    "dwelling": "nan-hai-pu-tuo",
+    "summary": "红孩儿被观音收服后封为善财童子，永侍莲台左右，于南海普陀助师护持取经。",
+    "description": "善财童子即昔日号圣婴大王之红孩儿。他于火云洞修成三昧真火，擒唐僧欲食，孙悟空不敌，请来观音。观音以金箍咒与莲花宝台降服，收归座下永侍莲台，封为善财童子，常侍南海普陀。取经途中他随观音护法，由顽妖化为佛前侍童，地位尊崇。",
+    "abilities": [
+      {
+        "name": "侍立莲台",
+        "description": "永侍观音莲台左右，护持法驾"
+      },
+      {
+        "name": "三昧真火",
+        "description": "昔修成三昧真火，今已归正护法"
+      }
+    ],
+    "attributes": {
+      "前身": "红孩儿（圣婴大王）",
+      "身份": "观音善财童子",
+      "居所": "南海普陀"
+    },
+    "appears_in": {
+      "first_chapter": 42,
+      "chapters": [
+        42,
+        100
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 42,
+        "event": "被收为童子",
+        "summary": "观音降服红孩儿，封为善财童子"
+      },
+      {
+        "chapter": 100,
+        "event": "灵山证功",
+        "summary": "随观音于灵山证取经之功"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "收服",
+        "description": "被观音收归座下封为善财童子"
+      },
+      {
+        "target": "hong-hai-er",
+        "type": "前身",
+        "description": "善财童子即昔日红孩儿之归正身"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "童子",
+      "善财",
+      "红孩儿"
+    ],
+    "power_level": 68,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十二回、第一百回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "long-nu",
+    "name": "龙女",
+    "pinyin": "long nv",
+    "aliases": [
+      "小龙女"
+    ],
+    "category": "buddha",
+    "type": "女童",
+    "species": "佛门弟子",
+    "gender": "女",
+    "master": "观音菩萨",
+    "weapon": "none",
+    "dwelling": "nan-hai-pu-tuo",
+    "summary": "观音座下龙女，于南海普陀侍奉莲台，以龙宫献珠之缘归依佛门，常随菩萨护法。",
+    "description": "龙女为观音菩萨座下侍女，本为龙王之女，以龙宫献珠、闻法顿悟之缘归依佛门，常与善财童子分立观音莲台左右。于南海普陀侍奉菩萨，随师救苦救难，于取经途中暗助法驾。她虽为女童，却以宿慧深种、不离慈悲，为佛门龙族护法之代表。",
+    "abilities": [
+      {
+        "name": "侍奉莲台",
+        "description": "常侍观音莲台左右，随师救苦救难"
+      },
+      {
+        "name": "龙族神通",
+        "description": "承龙族禀赋，善水能变护法自在"
+      }
+    ],
+    "attributes": {
+      "身份": "观音座下龙女",
+      "同伴": "善财童子",
+      "居所": "南海普陀"
+    },
+    "appears_in": {
+      "first_chapter": 8,
+      "chapters": [
+        8,
+        42
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 8,
+        "event": "归依佛门",
+        "summary": "以龙宫献珠之缘归依观音座下"
+      },
+      {
+        "chapter": 42,
+        "event": "随师护法",
+        "summary": "随观音收红孩儿，协理善财童子"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "侍奉",
+        "description": "观音座下龙女，常侍莲台护法"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "佛门",
+      "女童",
+      "龙女",
+      "观音侍者"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八回、第四十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "gao-tai-gong",
+    "name": "高太公",
+    "pinyin": "gao tai gong",
+    "aliases": [
+      "高老"
+    ],
+    "category": "mortal",
+    "type": "员外",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "gao-lao-zhuang",
+    "summary": "高老庄员外高太公，因三女翠兰被猪八戒强招为婿而愁苦，后得悟空降妖解困。",
+    "description": "高太公为高老庄富户员外，家资殷实，生有三女。其小女翠兰被云栈洞妖怪猪八戒强娶为妻，八戒食量惊人又现猪形，搅得家宅不宁，太公愁苦难当，遣人寻法师捉妖。唐僧师徒过庄，孙悟空降服八戒，太公方得安宁，并将八戒荐与唐僧为徒，成就一段奇缘。",
+    "abilities": [
+      {
+        "name": "治家经营",
+        "description": "为高老庄富户员外，善于治家营生"
+      },
+      {
+        "name": "延师捉妖",
+        "description": "家遭妖扰时遣人延请法师捉妖"
+      }
+    ],
+    "attributes": {
+      "身份": "高老庄员外",
+      "亲眷": "三女，幼女翠兰"
+    },
+    "appears_in": {
+      "first_chapter": 18,
+      "chapters": [
+        18,
+        19
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 18,
+        "event": "妖招赘",
+        "summary": "猪八戒强招翠兰为婿，家宅不宁"
+      },
+      {
+        "chapter": 19,
+        "event": "悟空解困",
+        "summary": "孙悟空降服八戒，太公得安"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "zhu-bajie",
+        "type": "翁婿",
+        "description": "八戒强招其女翠兰为婿，后归唐僧"
+      },
+      {
+        "target": "tang-seng",
+        "type": "款待",
+        "description": "款待唐僧师徒并荐八戒为徒"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "员外",
+      "高老庄",
+      "招赘"
+    ],
+    "power_level": 15,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十八回、第十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "chen-guang-rui",
+    "name": "陈光蕊",
+    "pinyin": "chen guang rui",
+    "aliases": [
+      "陈状元"
+    ],
+    "category": "mortal",
+    "type": "状元",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "chang-an",
+    "summary": "新科状元陈光蕊，奉旨赴任遇害，妻殷温娇遗子即唐僧，幸得龙王相救沉冤得雪。",
+    "description": "陈光蕊为贞观年间新科状元，娶丞相殷开山之女殷温娇。赴任江州途中遭水贼刘洪杀害，妻被霸占，遗腹子由温娇置匣浮江，为金山寺僧人救起，即日后之唐僧。后龙王救光蕊还魂，冤案得雪，父子团圆。其为唐僧生身之父，取经缘起之关键人物。",
+    "abilities": [
+      {
+        "name": "科举及第",
+        "description": "高中新科状元，才学出众"
+      },
+      {
+        "name": "为官赴任",
+        "description": "奉旨赴江州任官，清正勤勉"
+      }
+    ],
+    "attributes": {
+      "身份": "新科状元",
+      "亲眷": "妻殷温娇、子唐僧",
+      "结局": "冤雪还魂团圆"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 9,
+        "event": "及第遇害",
+        "summary": "中状元赴任，途中被刘洪所害"
+      },
+      {
+        "chapter": 9,
+        "event": "沉冤得雪",
+        "summary": "龙王救还魂，父子团圆"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "父子",
+        "description": "为唐僧生身之父"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "状元",
+      "唐僧之父",
+      "江州"
+    ],
+    "power_level": 18,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yin-wen-jiao",
+    "name": "殷温娇",
+    "pinyin": "yin wen jiao",
+    "aliases": [
+      "满堂娇"
+    ],
+    "category": "mortal",
+    "type": "夫人",
+    "species": "人",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "chang-an",
+    "summary": "丞相之女殷温娇，嫁状元陈光蕊，遭难遣子浮江，幸儿即唐僧，终得团圆。",
+    "description": "殷温娇小字满堂娇，为当朝丞相殷开山之女，嫁新科状元陈光蕊。赴任江州途中丈夫被水贼刘洪所害，她被霸占，身怀有孕。为保陈门骨血，她将遗腹子置木匣浮江，幸为金山寺僧所救，即日后之唐僧。后冤案得雪，夫妻父子团圆，为唐僧生身之母。",
+    "abilities": [
+      {
+        "name": "持家守节",
+        "description": "遇难中保全骨血，守节待雪"
+      },
+      {
+        "name": "托孤浮江",
+        "description": "以木匣置子浮江，保全陈门血脉"
+      }
+    ],
+    "attributes": {
+      "身份": "丞相之女、陈光蕊妻",
+      "亲眷": "夫陈光蕊、子唐僧",
+      "小字": "满堂娇"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 9,
+        "event": "遇难托孤",
+        "summary": "夫被害，置子浮江保全骨血"
+      },
+      {
+        "chapter": 9,
+        "event": "团圆雪冤",
+        "summary": "冤案得雪，夫妻父子团圆"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "母子",
+        "description": "为唐僧生身之母"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "夫人",
+      "唐僧之母",
+      "殷温娇"
+    ],
+    "power_level": 15,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "liu-hong",
+    "name": "刘洪",
+    "pinyin": "liu hong",
+    "aliases": [
+      "水贼"
+    ],
+    "category": "mortal",
+    "type": "贼人",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "江州水贼刘洪，劫杀新科状元陈光蕊并霸其妻，终被擒正法，为唐僧生父仇人。",
+    "description": "刘洪为江州一带水贼，趁陈光蕊携妻赴任途经此处，将其推入江中害死，霸占其妻殷温娇，冒名顶替赴江州为官十八年。温娇所生之子即唐僧，长大后得知身世，赴京陈情，殷丞相发兵擒刘洪，剖腹取心祭奠光蕊。其为唐僧不共戴天之仇人。",
+    "abilities": [
+      {
+        "name": "行劫为盗",
+        "description": "江上行劫，谋财害命"
+      },
+      {
+        "name": "冒名顶替",
+        "description": "冒陈光蕊名赴任为官多年"
+      }
+    ],
+    "attributes": {
+      "身份": "江州水贼",
+      "恶行": "害陈光蕊霸其妻",
+      "结局": "被擒正法"
+    },
+    "appears_in": {
+      "first_chapter": 9,
+      "chapters": [
+        9
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 9,
+        "event": "劫杀夺妻",
+        "summary": "害死陈光蕊，霸占殷温娇冒名赴任"
+      },
+      {
+        "chapter": 9,
+        "event": "伏法偿命",
+        "summary": "唐僧陈情发兵，刘洪被擒剖腹正法"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "仇敌",
+        "description": "害唐僧生父，为其不共戴天之仇"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "贼人",
+      "水贼",
+      "陈光蕊之仇"
+    ],
+    "power_level": 12,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "kou-yuan-wai",
+    "name": "寇员外",
+    "pinyin": "kou yuan wai",
+    "aliases": [
+      "寇洪",
+      "寇大宽"
+    ],
+    "category": "mortal",
+    "type": "员外",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "铜台府寇员外寇洪，敬僧好善，盛待取经四众，后遭盗劫杀，幸得悟空延寿还阳。",
+    "description": "寇员外名洪字大宽，铜台府地灵县富户，平生敬僧好善，许下万僧之愿。唐僧师徒过府，他盛情款待，倾尽诚心，送行时被盗贼觊觎家财，夜入寇宅杀员外夺财，却嫁祸取经僧。悟空入冥索回员外魂魄，延寿十二年还阳，洗清师徒冤屈，传为善人得报之佳话。",
+    "abilities": [
+      {
+        "name": "敬僧好善",
+        "description": "平生礼佛好善，许万僧之愿"
+      },
+      {
+        "name": "慷慨待客",
+        "description": "倾诚款待取经四众，倾尽家财"
+      }
+    ],
+    "attributes": {
+      "身份": "铜台府员外",
+      "本名": "寇洪字大宽",
+      "结局": "被盗杀，悟空延寿还阳"
+    },
+    "appears_in": {
+      "first_chapter": 96,
+      "chapters": [
+        96,
+        97
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 96,
+        "event": "款待取经",
+        "summary": "盛情款待唐僧师徒，许万僧愿"
+      },
+      {
+        "chapter": 97,
+        "event": "遇盗还阳",
+        "summary": "被盗杀，悟空索魂延寿十二年"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "施主",
+        "description": "敬僧好善，倾诚款待取经四众"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "员外",
+      "敬僧",
+      "铜台府"
+    ],
+    "power_level": 20,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十六回、第九十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "liu-quan",
+    "name": "刘全",
+    "pinyin": "liu quan",
+    "aliases": [
+      "刘全进瓜"
+    ],
+    "category": "mortal",
+    "type": "百姓",
+    "species": "人",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "chang-an",
+    "summary": "长安百姓刘全，妻死进瓜入冥，借尸还魂娶李翠莲，成太宗还魂之助缘。",
+    "description": "刘全为长安百姓，其妻李翠莲因舍金钗斋僧触怒翁姑自缢。太宗魂游地府还阳，欲以瓜果酬冥，榜招赴死之人，刘全揭榜，以南瓜入冥进献，得见妻魂。冥王念其诚，令李翠莲借太宗妹玉英公主之尸还魂，夫妻团圆。刘全进瓜遂成太宗还魂、引出取经之助缘。",
+    "abilities": [
+      {
+        "name": "舍身进瓜",
+        "description": "揭榜以南瓜入冥进献，酬太宗之愿"
+      },
+      {
+        "name": "借尸还魂",
+        "description": "夫妻借尸还魂团圆，了却前缘"
+      }
+    ],
+    "attributes": {
+      "身份": "长安百姓",
+      "典故": "刘全进瓜",
+      "亲眷": "妻李翠莲"
+    },
+    "appears_in": {
+      "first_chapter": 11,
+      "chapters": [
+        11
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 11,
+        "event": "进瓜入冥",
+        "summary": "揭榜以南瓜入冥，进献太宗酬愿"
+      },
+      {
+        "chapter": 11,
+        "event": "借尸还阳",
+        "summary": "妻借尸还魂，夫妻团圆"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-taizong",
+        "type": "君臣",
+        "description": "揭榜进瓜，助太宗还魂酬冥"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "百姓",
+      "刘全进瓜",
+      "长安"
+    ],
+    "power_level": 15,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "gao-cui-lan",
+    "name": "高翠兰",
+    "pinyin": "gao cui lan",
+    "aliases": [
+      "翠兰"
+    ],
+    "category": "mortal",
+    "type": "民女",
+    "species": "人",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "gao-lao-zhuang",
+    "summary": "高太公幼女翠兰，被猪八戒强招为婿幽禁，得孙悟空降妖得脱，后归家团圆。",
+    "description": "高翠兰为高太公幼女，生得端正。云栈洞妖怪猪八戒入赘高家，强娶翠兰为妻，因食量惊人又现猪形，太公嫌恶将其幽闭后宅。唐僧师徒过庄，孙悟空变化入洞，戏弄并降服八戒，救出翠兰，太公一家团圆。翠兰虽蒙妖扰，终得安然归家。",
+    "abilities": [
+      {
+        "name": "女红持家",
+        "description": "为高家幼女，善女红理家事"
+      },
+      {
+        "name": "忍困待救",
+        "description": "被妖幽禁忍苦，终得悟空救出"
+      }
+    ],
+    "attributes": {
+      "身份": "高太公幼女",
+      "亲眷": "父高太公",
+      "遭遇": "被八戒强招幽禁"
+    },
+    "appears_in": {
+      "first_chapter": 18,
+      "chapters": [
+        18,
+        19
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 18,
+        "event": "被妖强娶",
+        "summary": "八戒强招翠兰为妻，幽闭后宅"
+      },
+      {
+        "chapter": 19,
+        "event": "得救团圆",
+        "summary": "悟空降妖救出翠兰，一家团圆"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "zhu-bajie",
+        "type": "夫妻",
+        "description": "被八戒强招为妻，后八戒归唐僧"
+      },
+      {
+        "target": "tang-seng",
+        "type": "款待",
+        "description": "家遭妖扰，得唐僧师徒解救"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "凡间",
+      "民女",
+      "高翠兰",
+      "高老庄"
+    ],
+    "power_level": 15,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十八回、第十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hei-xiong-jing",
+    "name": "黑熊精",
+    "pinyin": "hei xiong jing",
+    "aliases": [
+      "黑风大王",
+      "黑熊怪"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "熊妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "黑风山黑风洞熊妖，趁火盗唐僧锦襕袈裟，悟空难胜，终被观音收为守山大神。",
+    "description": "黑熊精居于黑风山黑风洞，乃一修炼成精的黑熊。他趁观音禅院金池长老失火之机盗走了唐僧的锦襕袈裟，藏于洞中欲办佛衣会。孙悟空寻袈裟与之大战，黑熊精武艺高强且能化风遁走，悟空一时难胜。悟空请观音菩萨相助，观音以禁箍咒将其收服，带回顾守落伽山后山。",
+    "abilities": [
+      {
+        "name": "化风遁走",
+        "description": "可化黑风遁走，难以追捕"
+      },
+      {
+        "name": "武艺高强",
+        "description": "与悟空交战数十合不分胜负"
+      }
+    ],
+    "attributes": {
+      "居所": "黑风山黑风洞",
+      "封号": "守山大神"
+    },
+    "appears_in": {
+      "first_chapter": 16,
+      "chapters": [
+        16,
+        17
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 16,
+        "event": "盗袈裟",
+        "summary": "趁观音禅院失火盗走唐僧锦襕袈裟"
+      },
+      {
+        "chapter": 17,
+        "event": "被收服",
+        "summary": "观音以禁箍咒收为落伽山守山大神"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "盗袈裟与悟空交战"
+      },
+      {
+        "target": "guanyin-pusa",
+        "type": "收服",
+        "description": "被观音以禁箍咒收为守山大神"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "盗其锦襕袈裟"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "熊妖",
+      "黑风山"
+    ],
+    "power_level": 82,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第十六回至第十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hu-li-da-xian",
+    "name": "虎力大仙",
+    "pinyin": "hu li da xian",
+    "aliases": [
+      "虎力"
+    ],
+    "category": "demon",
+    "type": "妖道",
+    "species": "虎妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "车迟国虎力大仙，与鹿力羊力结义充国师，与悟空赌斗法术终被砍头而死。",
+    "description": "虎力大仙乃车迟国虎妖修炼成精，与鹿力大仙、羊力大仙结为兄弟，在三清观冒充国师，怂恿国王灭佛崇道。唐僧师徒至车迟国，悟空与其斗法：祈雨、坐禅、隔板猜物、砍头再生、剖腹、下油锅。虎力大仙与悟空赌砍头，被悟空使神通令其头无法复生而亡，现出黄毛虎本相。",
+    "abilities": [
+      {
+        "name": "呼风唤雨",
+        "description": "可登坛祈雨召来风雷电雨"
+      },
+      {
+        "name": "砍头再生",
+        "description": "被斩首可令头复生，后为悟空所破"
+      }
+    ],
+    "attributes": {
+      "身份": "车迟国国师",
+      "居所": "三清观"
+    },
+    "appears_in": {
+      "first_chapter": 44,
+      "chapters": [
+        44,
+        45,
+        46
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 44,
+        "event": "国师乱政",
+        "summary": "与鹿力羊力在车迟国灭佛崇道"
+      },
+      {
+        "chapter": 46,
+        "event": "斗法身死",
+        "summary": "与悟空赌砍头不敌现出虎相而死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "斗法被悟空击败身死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "纵容灭佛陷害取经僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "妖道",
+      "车迟国"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十四回至第四十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "lu-li-da-xian",
+    "name": "鹿力大仙",
+    "pinyin": "lu li da xian",
+    "aliases": [
+      "鹿力"
+    ],
+    "category": "demon",
+    "type": "妖道",
+    "species": "鹿妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "车迟国鹿力大仙，与虎力羊力结义充国师，赌剖腹被悟空破而现白鹿。",
+    "description": "鹿力大仙乃车迟国鹿妖修炼成精，与虎力大仙、羊力大仙结为兄弟，在三清观冒充国师，助国王灭佛崇道。唐僧师徒至车迟国，悟空与之赌斗法术。鹿力大仙与悟空赌剖腹挖心，悟空化饿鹰叼走其五脏六腑，鹿力大仙当场现出白鹿本相而死。",
+    "abilities": [
+      {
+        "name": "剖腹还原",
+        "description": "剖腹可令脏腑复位，后为悟空所破"
+      },
+      {
+        "name": "祈雨法术",
+        "description": "可助国师登坛行法"
+      }
+    ],
+    "attributes": {
+      "身份": "车迟国国师",
+      "居所": "三清观"
+    },
+    "appears_in": {
+      "first_chapter": 44,
+      "chapters": [
+        44,
+        45,
+        46
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 44,
+        "event": "国师乱政",
+        "summary": "与虎力羊力在车迟国灭佛崇道"
+      },
+      {
+        "chapter": 46,
+        "event": "斗法身死",
+        "summary": "与悟空赌剖腹被破现白鹿而死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "斗法被悟空击败身死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "纵容灭佛陷害取经僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "妖道",
+      "车迟国"
+    ],
+    "power_level": 68,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十四回至第四十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yang-li-da-xian",
+    "name": "羊力大仙",
+    "pinyin": "yang li da xian",
+    "aliases": [
+      "羊力"
+    ],
+    "category": "demon",
+    "type": "妖道",
+    "species": "羊妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "车迟国羊力大仙，与虎力鹿力结义充国师，赌下油锅被悟空破而现羚羊。",
+    "description": "羊力大仙乃车迟国羊妖修炼成精，与虎力大仙、鹿力大仙结为兄弟，在三清观冒充国师，助国王灭佛崇道。唐僧师徒至车迟国，悟空与之赌斗法术。羊力大仙与悟空赌下油锅，倚仗冷龙保身，被悟空请北海龙王收去冷龙，羊力大仙在滚油中现出羚羊本相而死。",
+    "abilities": [
+      {
+        "name": "冷龙护身",
+        "description": "凭冷龙保身在油锅不伤，后为悟空所破"
+      },
+      {
+        "name": "祈雨法术",
+        "description": "可助国师登坛行法"
+      }
+    ],
+    "attributes": {
+      "身份": "车迟国国师",
+      "居所": "三清观"
+    },
+    "appears_in": {
+      "first_chapter": 44,
+      "chapters": [
+        44,
+        45,
+        46
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 44,
+        "event": "国师乱政",
+        "summary": "与虎力鹿力在车迟国灭佛崇道"
+      },
+      {
+        "chapter": 46,
+        "event": "斗法身死",
+        "summary": "赌油锅被破现羚羊而死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "斗法被悟空击败身死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "纵容灭佛陷害取经僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "妖道",
+      "车迟国"
+    ],
+    "power_level": 66,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十四回至第四十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qing-niu-jing",
+    "name": "青牛精",
+    "pinyin": "qing niu jing",
+    "aliases": [
+      "独角兕大王",
+      "青牛怪"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "牛妖",
+    "gender": "男",
+    "master": "taishang-laojun",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "太上老君坐骑青牛下界，持金刚琢套尽众神兵器，悟空请老君收回。",
+    "description": "青牛精本为太上老君坐下青牛，趁牧童瞌睡偷了金刚琢下界，在金兜洞为妖，自称独角兕大王。他用金刚琢套走悟空金箍棒及天兵诸般兵器，神通广大，悟空屡屡败北。悟空先后请来托塔天王、哪吒、火德星君、水德星君皆不敌。最终查出其来历，请太上老君亲自下界，以芭蕉扇收伏青牛归位。",
+    "abilities": [
+      {
+        "name": "金刚琢",
+        "description": "金刚琢能套尽诸般兵器与宝物"
+      },
+      {
+        "name": "武艺高强",
+        "description": "与悟空交战难分高下"
+      }
+    ],
+    "attributes": {
+      "本相": "太上老君坐骑青牛",
+      "居所": "金兜洞"
+    },
+    "appears_in": {
+      "first_chapter": 50,
+      "chapters": [
+        50,
+        51,
+        52
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 50,
+        "event": "金兜洞为妖",
+        "summary": "偷金刚琢下界自称独角兕大王"
+      },
+      {
+        "chapter": 52,
+        "event": "被老君收回",
+        "summary": "悟空请太上老君收伏青牛归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "taishang-laojun",
+        "type": "坐骑",
+        "description": "老君坐下青牛下界为妖"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "以金刚琢套走金箍棒屡胜悟空"
+      }
+    ],
+    "quotes": [
+      "泼猴，看你那宝贝可保得住"
+    ],
+    "tags": [
+      "妖怪",
+      "牛妖",
+      "金刚琢"
+    ],
+    "power_level": 90,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十回至第五十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-ling-yuan-sheng",
+    "name": "九灵元圣",
+    "pinyin": "jiu ling yuan sheng",
+    "aliases": [
+      "九头狮子",
+      "祖翁"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "狮妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "竹节山九曲盘桓洞九头狮妖，一声吼擒师徒，终被天尊收回。",
+    "description": "九灵元圣乃竹节山九曲盘桓洞之九头狮子，号祖翁。他本是天尊坐骑，下界后收黄狮精等为徒。悟空为玉华州兵器被盗事寻至其洞，九灵元圣不战而以九口叼擒唐僧师徒众人，神通远超寻常妖魔。悟空无法可制，最终天尊亲临，以铃铛收伏九灵元圣归山。",
+    "abilities": [
+      {
+        "name": "九口擒拿",
+        "description": "九个头可同时叼擒多人"
+      },
+      {
+        "name": "不战而胜",
+        "description": "不必法宝，一声吼便擒敌"
+      }
+    ],
+    "attributes": {
+      "称号": "祖翁",
+      "居所": "竹节山九曲盘桓洞"
+    },
+    "appears_in": {
+      "first_chapter": 89,
+      "chapters": [
+        89,
+        90
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 89,
+        "event": "收徒占洞",
+        "summary": "在竹节山收黄狮精等为徒"
+      },
+      {
+        "chapter": 90,
+        "event": "被天尊收回",
+        "summary": "天尊亲临收伏九灵元圣归山"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "九口擒拿悟空师徒"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "一声吼擒获唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "狮妖",
+      "竹节山"
+    ],
+    "power_level": 94,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十九回至第九十回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "liu-er-mihou",
+    "name": "六耳猕猴",
+    "pinyin": "liu er mi hou",
+    "aliases": [
+      "假悟空",
+      "二心"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "猕猴",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "与悟空一般无二的假猴王，打死强盗冒充当悟空，真假难辨终被如来识破。",
+    "description": "六耳猕猴是混世四猴之一的灵猴，神通与孙悟空一般无二，能知千里外之事、聆听阴阳。他打死拦路强盗，变作悟空模样打晕唐僧、夺走行李，欲往西天冒名取经。真假悟空从观音到天庭、地府皆难分辨，最终到灵山，如来佛祖以金钵盂罩住六耳猕猴，悟空一棒将其打死。",
+    "abilities": [
+      {
+        "name": "与悟空齐能",
+        "description": "神通变化与悟空一般无二"
+      },
+      {
+        "name": "聆音察理",
+        "description": "善聆音、能察理，知千里外事"
+      }
+    ],
+    "attributes": {
+      "族类": "混世四猴之一",
+      "别名": "假悟空"
+    },
+    "appears_in": {
+      "first_chapter": 57,
+      "chapters": [
+        57,
+        58
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 57,
+        "event": "假悟空作案",
+        "summary": "打死强盗变作悟空打晕唐僧夺行李"
+      },
+      {
+        "chapter": 58,
+        "event": "被如来识破",
+        "summary": "灵山如来以金钵罩住，悟空一棒打死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "冒充",
+        "description": "变作悟空模样欲冒名取经"
+      },
+      {
+        "target": "ru-lai-fozu",
+        "type": "被识破",
+        "description": "被如来佛祖以金钵识破收伏"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "打晕唐僧夺走行李"
+      }
+    ],
+    "quotes": [
+      "你这厮也敢变作我模样"
+    ],
+    "tags": [
+      "妖怪",
+      "猕猴",
+      "真假美猴王"
+    ],
+    "power_level": 95,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十七回至第五十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huang-mei-lao-fo",
+    "name": "黄眉老佛",
+    "pinyin": "huang mei lao fo",
+    "aliases": [
+      "黄眉大王",
+      "司磬童子"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "黄眉童儿",
+    "gender": "男",
+    "master": "mi-le-fo",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "弥勒佛司磬童子下界，设小雷音寺以金铙人种袋困悟空，弥勒亲收。",
+    "description": "黄眉老佛原是弥勒佛面前司磬黄眉童儿，趁弥勒赴会偷了金铙、人种袋下界，在小雷音寺假扮佛祖，诱擒唐僧师徒与诸天神将。他以金铙困住悟空，又用人种袋收尽援兵。悟空无奈，弥勒佛亲临，以瓜田之计使黄眉吞下悟空所化西瓜，方将其收伏归位。",
+    "abilities": [
+      {
+        "name": "金铙",
+        "description": "金铙合拢可困住对手"
+      },
+      {
+        "name": "人种袋",
+        "description": "人种袋一抛收尽诸般援兵"
+      }
+    ],
+    "attributes": {
+      "本相": "弥勒佛司磬童子",
+      "居所": "小雷音寺"
+    },
+    "appears_in": {
+      "first_chapter": 65,
+      "chapters": [
+        65,
+        66
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 65,
+        "event": "设小雷音寺",
+        "summary": "假扮佛祖以金铙困住悟空"
+      },
+      {
+        "chapter": 66,
+        "event": "被弥勒收伏",
+        "summary": "弥勒以瓜田计收伏童子归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "mi-le-fo",
+        "type": "原属",
+        "description": "弥勒佛司磬童子下界为妖"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "以金铙人种袋困住悟空"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "诱擒唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "黄眉",
+      "小雷音寺"
+    ],
+    "power_level": 88,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十五回至第六十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wan-sheng-long-wang",
+    "name": "万圣龙王",
+    "pinyin": "wan sheng long wang",
+    "aliases": [
+      "碧波潭龙王"
+    ],
+    "category": "demon",
+    "type": "龙王",
+    "species": "龙族",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "bi-bo-tan",
+    "summary": "碧波潭龙王，纵驸马九头虫盗佛宝，乱中取利，后被八戒擒斩。",
+    "description": "万圣龙王乃碧波潭龙王，其女万圣公主招九头虫为驸马。他纵驸马盗取祭赛国金光寺佛塔舍利，又令公主盗王母九叶灵芝温养塔宝，致使祭赛国久旱、僧众蒙冤。悟空八戒索宝至碧波潭，万圣龙王被八戒一耙筑死，驸马九头虫被二郎神击败逃走。",
+    "abilities": [
+      {
+        "name": "水战",
+        "description": "龙族水性本领娴熟"
+      },
+      {
+        "name": "唆使盗宝",
+        "description": "纵驸马盗取佛塔舍利"
+      }
+    ],
+    "attributes": {
+      "辖域": "碧波潭",
+      "身份": "万圣公主之父"
+    },
+    "appears_in": {
+      "first_chapter": 62,
+      "chapters": [
+        62,
+        63
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 62,
+        "event": "纵婿盗宝",
+        "summary": "纵九头虫盗金光寺佛塔舍利"
+      },
+      {
+        "chapter": 63,
+        "event": "被八戒斩",
+        "summary": "碧波潭中被八戒筑死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "jiutou-chong",
+        "type": "翁婿",
+        "description": "九头虫为其驸马"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "悟空索宝交战"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "盗宝致祭赛国僧众蒙冤"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "龙王",
+      "碧波潭"
+    ],
+    "power_level": 72,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十二回至第六十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wan-sheng-gong-zhu",
+    "name": "万圣公主",
+    "pinyin": "wan sheng gong zhu",
+    "aliases": [
+      "万圣龙女"
+    ],
+    "category": "demon",
+    "type": "龙女",
+    "species": "龙族",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "bi-bo-tan",
+    "summary": "万圣龙王之女，盗王母九叶灵芝，嫁九头虫为驸马，终被八戒杀。",
+    "description": "万圣公主为碧波潭万圣龙王之女，嫁九头虫为驸马。她潜入天宫盗得王母娘娘九叶灵芝草，用以温养碧波潭中佛塔舍利，使宝光不泄。悟空八戒索宝至碧波潭，万圣公主被猪八戒一耙筑死，其盗来的灵芝亦被收回。",
+    "abilities": [
+      {
+        "name": "盗宝腾云",
+        "description": "能上天盗宝腾云往来"
+      },
+      {
+        "name": "水战",
+        "description": "龙族水性本领"
+      }
+    ],
+    "attributes": {
+      "身份": "万圣龙王之女",
+      "配偶": "九头虫"
+    },
+    "appears_in": {
+      "first_chapter": 62,
+      "chapters": [
+        62,
+        63
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 62,
+        "event": "盗灵芝",
+        "summary": "盗王母九叶灵芝温养佛塔舍利"
+      },
+      {
+        "chapter": 63,
+        "event": "被杀",
+        "summary": "碧波潭中被八戒筑死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "jiutou-chong",
+        "type": "夫妻",
+        "description": "嫁九头虫为驸马"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "悟空索宝交战"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "盗宝致祭赛国僧众蒙冤"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "龙女",
+      "碧波潭"
+    ],
+    "power_level": 55,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十二回至第六十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tuo-long",
+    "name": "鼍龙",
+    "pinyin": "tuo long",
+    "aliases": [
+      "小鼍龙",
+      "黑水河妖"
+    ],
+    "category": "demon",
+    "type": "龙王",
+    "species": "鼍龙",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "西海龙王之侄，占黑水河掳唐僧，被悟空请西海兵擒拿。",
+    "description": "鼍龙乃西海龙王敖闰之妹所生，因父亡无人管束，擅自占黑水河神府为妖，自称小鼍龙。他变作艄公将唐僧、八戒摄入黑水河底。悟空寻至，知其为西海龙王亲属，乃往西海问罪，西海龙王派太子摩昂率兵擒拿鼍龙，押回西海问罪。",
+    "abilities": [
+      {
+        "name": "水战",
+        "description": "黑水河中水性极强"
+      },
+      {
+        "name": "变化",
+        "description": "可变艄公等形骗人"
+      }
+    ],
+    "attributes": {
+      "身份": "西海龙王之侄",
+      "居所": "黑水河"
+    },
+    "appears_in": {
+      "first_chapter": 43,
+      "chapters": [
+        43
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 43,
+        "event": "占黑水河",
+        "summary": "占黑水河神府为妖掳唐僧"
+      },
+      {
+        "chapter": 43,
+        "event": "被西海擒",
+        "summary": "西海太子摩昂率兵擒拿归海"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "xi-hai-longwang",
+        "type": "亲族",
+        "description": "西海龙王敖闰之侄"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "掳唐僧被悟空寻罪"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "掳走唐僧八戒"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "鼍龙",
+      "黑水河"
+    ],
+    "power_level": 60,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qing-shi-jing",
+    "name": "青狮精",
+    "pinyin": "qing shi jing",
+    "aliases": [
+      "青毛狮子怪"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "狮妖",
+    "gender": "男",
+    "master": "wen-shu-pusa",
+    "weapon": "none",
+    "dwelling": "shi-tuo-ling",
+    "summary": "文殊菩萨坐骑青狮下界，吞国王占乌鸡国，后狮驼岭为大大王。",
+    "description": "青狮精为文殊菩萨坐骑青毛狮子，两次下界为妖：先在乌鸡国化假国王篡位三年，被文殊收回；后在狮驼岭与白象、大鹏结义为大大王，占据狮驼城阻取经路。他一口可吞十万天兵，亦曾一口吞了悟空。最终文殊菩萨亲自下界收伏归位。",
+    "abilities": [
+      {
+        "name": "一口吞兵",
+        "description": "张口可吞十万天兵"
+      },
+      {
+        "name": "变化假王",
+        "description": "能变作国王模样篡位"
+      }
+    ],
+    "attributes": {
+      "本相": "文殊菩萨坐骑青毛狮子",
+      "居所": "狮驼城"
+    },
+    "appears_in": {
+      "first_chapter": 39,
+      "chapters": [
+        39,
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 39,
+        "event": "乌鸡国篡位",
+        "summary": "化假国王占乌鸡国三年"
+      },
+      {
+        "chapter": 78,
+        "event": "被文殊收伏",
+        "summary": "狮驼岭文殊菩萨收伏归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "wen-shu-pusa",
+        "type": "坐骑",
+        "description": "文殊菩萨坐骑下界为妖"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "狮驼岭与悟空为敌"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "阻路并擒拿唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "狮妖",
+      "狮驼岭"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第三十九回、第七十七回至第七十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bai-xiang-jing",
+    "name": "白象精",
+    "pinyin": "bai xiang jing",
+    "aliases": [
+      "黄牙老象"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "象妖",
+    "gender": "男",
+    "master": "pu-xian-pusa",
+    "weapon": "none",
+    "dwelling": "shi-tuo-ling",
+    "summary": "普贤菩萨坐骑白象下界，狮驼岭为二大王，长鼻卷悟空难敌。",
+    "description": "白象精为普贤菩萨坐骑六牙白象下界，在狮驼岭与青狮、大鹏结义为二大王黄牙老象。他长鼻善卷，曾以鼻卷住悟空险些擒杀。取经团队受困狮驼岭，最终普贤菩萨亲自下界收回白象归位。",
+    "abilities": [
+      {
+        "name": "长鼻卷人",
+        "description": "长鼻一甩可卷住对手"
+      },
+      {
+        "name": "力大无穷",
+        "description": "象力惊人可与悟空相抗"
+      }
+    ],
+    "attributes": {
+      "本相": "普贤菩萨坐骑六牙白象",
+      "居所": "狮驼城"
+    },
+    "appears_in": {
+      "first_chapter": 77,
+      "chapters": [
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 77,
+        "event": "狮驼岭为妖",
+        "summary": "与青狮大鹏结义为二大王"
+      },
+      {
+        "chapter": 78,
+        "event": "被普贤收伏",
+        "summary": "普贤菩萨收伏白象归位"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "pu-xian-pusa",
+        "type": "坐骑",
+        "description": "普贤菩萨坐骑下界为妖"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "以长鼻卷住悟空"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "阻路并擒拿唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "象妖",
+      "狮驼岭"
+    ],
+    "power_level": 83,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十七回至第七十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "da-peng-jing",
+    "name": "大鹏金翅雕",
+    "pinyin": "da peng jin chi diao",
+    "aliases": [
+      "云程万里鹏",
+      "金翅大鹏"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "鹏鸟",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "shi-tuo-ling",
+    "summary": "如来之舅云程万里鹏，狮驼岭三大王，一翅九万里终被如来收伏。",
+    "description": "大鹏金翅雕号云程万里鹏，为狮驼岭三大王。他是如来佛祖之舅——凤凰所生孔雀之弟，一翅九万里，速度远超筋斗云。他与青狮、白象共据狮驼岭，将悟空师徒尽数擒获。悟空无法降服，如来佛祖亲率诸佛出面方将其收伏，因舅甥之亲仍留佛前。",
+    "abilities": [
+      {
+        "name": "一翅九万里",
+        "description": "飞行速度远超筋斗云"
+      },
+      {
+        "name": "阴阳二气瓶",
+        "description": "阴阳二气瓶可化人为浆水"
+      }
+    ],
+    "attributes": {
+      "称号": "云程万里鹏",
+      "身份": "如来之舅",
+      "居所": "狮驼城"
+    },
+    "appears_in": {
+      "first_chapter": 74,
+      "chapters": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 74,
+        "event": "据狮驼岭",
+        "summary": "与青狮白象共据狮驼岭阻路"
+      },
+      {
+        "chapter": 78,
+        "event": "被如来收伏",
+        "summary": "如来亲临收伏归佛"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "甥舅",
+        "description": "如来佛祖之舅"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "擒获悟空师徒"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "阻路并擒拿唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "鹏鸟",
+      "狮驼岭"
+    ],
+    "power_level": 96,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十四回至第七十八回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "du-gong-jing",
+    "name": "蜈蚣精",
+    "pinyin": "du gong jing",
+    "aliases": [
+      "多目怪",
+      "百眼魔君"
+    ],
+    "category": "demon",
+    "type": "妖道",
+    "species": "蜈蚣妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "黄花观多目怪蜈蚣精，肋下千眼放金光，毗蓝婆以绣花针破之。",
+    "description": "蜈蚣精号多目怪、百眼魔君，居黄花观为道士。他是盘丝洞蜘蛛精之师兄。唐僧师徒过黄花观，他以毒茶加害，肋下千眼放出金光将悟空罩困。悟空请来毗蓝婆菩萨，以昴日星官眼中炼成的绣花针破其金光，将其现出大蜈蚣本相，毗蓝婆收去。",
+    "abilities": [
+      {
+        "name": "千眼金光",
+        "description": "肋下千眼放出金光困敌"
+      },
+      {
+        "name": "毒茶暗算",
+        "description": "以毒茶加害取经人"
+      }
+    ],
+    "attributes": {
+      "称号": "百眼魔君",
+      "居所": "黄花观"
+    },
+    "appears_in": {
+      "first_chapter": 73,
+      "chapters": [
+        73
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 73,
+        "event": "放金光困悟空",
+        "summary": "肋下千眼金光罩困悟空"
+      },
+      {
+        "chapter": 73,
+        "event": "被毗蓝婆破",
+        "summary": "毗蓝婆以绣花针破金光收伏"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "敌",
+        "description": "金光困住悟空"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "以毒茶加害唐僧"
+      },
+      {
+        "target": "zhi-zhu-jing",
+        "type": "师兄妹",
+        "description": "与蜘蛛精为师兄妹"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "蜈蚣妖",
+      "黄花观"
+    ],
+    "power_level": 70,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xie-zi-jing",
+    "name": "蝎子精",
+    "pinyin": "xie zi jing",
+    "aliases": [
+      "琵琶精",
+      "毒敌山妖"
+    ],
+    "category": "demon",
+    "type": "妖女",
+    "species": "蝎妖",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "毒敌山琵琶洞蝎妖，曾于雷音寺听法时蜇伤如来，掳唐僧逼婚，终被昴日星官降服。",
+    "description": "蝎子精居毒敌山琵琶洞，本体为琵琶大小的蝎子。她曾在雷音寺听如来讲经，因不合掌被如来推了一把，反以倒马毒桩蜇伤如来手指，逃往下界为妖。取经途中她掳走唐僧欲行夫妇之事，悟空八戒与之交战皆被倒马毒桩刺伤。观音指点悟空往请昴日星官，星官现原形一声啼鸣将其现出本相，悟空随后将其打死。",
+    "abilities": [
+      {
+        "name": "倒马毒桩",
+        "description": "尾上毒钩可蜇伤对手，连如来亦曾被刺伤"
+      },
+      {
+        "name": "变化",
+        "description": "可变化为美貌女子迷惑行人"
+      }
+    ],
+    "attributes": {
+      "居所": "毒敌山琵琶洞",
+      "绝技": "倒马毒桩"
+    },
+    "appears_in": {
+      "first_chapter": 55,
+      "chapters": [
+        55
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 55,
+        "event": "掳唐僧",
+        "summary": "于毒敌山掳走唐僧欲逼婚"
+      },
+      {
+        "chapter": 55,
+        "event": "伤悟空",
+        "summary": "以倒马毒桩刺伤悟空八戒"
+      },
+      {
+        "chapter": 55,
+        "event": "被降服",
+        "summary": "昴日星官啼鸣现其本相，悟空打死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "刺伤悟空后被悟空打死"
+      },
+      {
+        "target": "ru-lai-fozu",
+        "type": "加害",
+        "description": "曾在雷音寺蜇伤如来手指"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "掳唐僧欲行夫妇之事"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "蝎妖",
+      "琵琶精"
+    ],
+    "power_level": 60,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第五十五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-tu-jing",
+    "name": "玉兔精",
+    "pinyin": "yu tu jing",
+    "aliases": [
+      "天竺国假公主",
+      "玉兔妖"
+    ],
+    "category": "demon",
+    "type": "妖女",
+    "species": "兔妖",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "广寒宫玉兔私自下界，假冒天竺国公主抛绣球招亲，欲招唐僧，终被太阴星君收回。",
+    "description": "玉兔精本是广寒宫中捣药的玉兔，趁太阴星君不在私自下界，在毛颖山占据巢穴，又摄去天竺国真公主抛于荒野，自己假冒公主抛绣球招亲，欲招唐僧为婿以采元阳。悟空识破与之斗法，玉兔不敌。太阴星君奉旨下界收回玉兔，真公主归位。取经途中观音菩萨常庇护取经团队。",
+    "abilities": [
+      {
+        "name": "捣药杵",
+        "description": "持短柄捣药杵可近身搏斗"
+      },
+      {
+        "name": "变化",
+        "description": "可幻化为天竺国公主模样"
+      }
+    ],
+    "attributes": {
+      "居所": "毛颖山",
+      "本相": "广寒宫玉兔"
+    },
+    "appears_in": {
+      "first_chapter": 94,
+      "chapters": [
+        94,
+        95
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 94,
+        "event": "假冒公主",
+        "summary": "摄走真公主自扮天竺国公主招亲"
+      },
+      {
+        "chapter": 95,
+        "event": "斗法败露",
+        "summary": "与悟空斗法不敌现出本相"
+      },
+      {
+        "chapter": 95,
+        "event": "被收回",
+        "summary": "太阴星君下界收回玉兔"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "本主",
+        "description": "取经途中观音菩萨常庇护取经团队，玉兔精事毕归太阴星君"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空识破斗法败露"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "假冒公主欲招唐僧为婿"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "兔妖",
+      "天竺国"
+    ],
+    "power_level": 60,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十四回至第九十五回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "lao-shu-jing",
+    "name": "老鼠精",
+    "pinyin": "lao shu jing",
+    "aliases": [
+      "地涌夫人",
+      "半截观音",
+      "白毛老鼠精"
+    ],
+    "category": "demon",
+    "type": "妖女",
+    "species": "鼠妖",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "灵山偷油老鼠下界为妖，拜李天王为义父，掳唐僧于无底洞，终被天兵擒回。",
+    "description": "老鼠精原是灵山脚下一只老鼠，因偷吃如来灯油被金刚捉拿，得托塔李天王与哪吒饶命，遂拜天王为义父、哪吒为义兄，供香火报恩。她下界在陷空山无底洞为妖，号地涌夫人、半截观音。取经途中她设计掳走唐僧欲成婚，悟空追入无底洞，发现供着李天王父子牌位，遂上天告状，李天王率天兵下界将其擒拿收回。",
+    "abilities": [
+      {
+        "name": "地涌之法",
+        "description": "可由地涌出或遁地潜行无踪"
+      },
+      {
+        "name": "变化",
+        "description": "可变化为女子迷惑行人"
+      }
+    ],
+    "attributes": {
+      "居所": "陷空山无底洞",
+      "称号": "地涌夫人"
+    },
+    "appears_in": {
+      "first_chapter": 80,
+      "chapters": [
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 80,
+        "event": "设计掳僧",
+        "summary": "以计掳走唐僧欲成婚"
+      },
+      {
+        "chapter": 82,
+        "event": "洞中周旋",
+        "summary": "悟空入无底洞与之周旋"
+      },
+      {
+        "chapter": 83,
+        "event": "被擒回",
+        "summary": "李天王率天兵将其擒拿收回"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ta-li-tianwang",
+        "type": "义父",
+        "description": "拜托塔李天王为义父"
+      },
+      {
+        "target": "nezha",
+        "type": "义兄",
+        "description": "认哪吒为义兄"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空识破并请天兵擒拿"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "掳唐僧欲成婚"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "鼠妖",
+      "无底洞"
+    ],
+    "power_level": 62,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十回至第八十三回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yu-mian-hu-li",
+    "name": "玉面狐狸",
+    "pinyin": "yu mian hu li",
+    "aliases": [
+      "玉面狐",
+      "狐阿七之侄女"
+    ],
+    "category": "demon",
+    "type": "妖女",
+    "species": "狐妖",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "摩云洞万岁狐王之女，招赘牛魔王为夫，不擅斗法，被八戒一耙打死。",
+    "description": "玉面狐狸是摩云洞万岁狐王之女，生得貌美，积攒家财，招赘牛魔王为夫，居于积雷山摩云洞。牛魔王因此冷落铁扇公主。三调芭蕉扇时悟空与八戒寻至摩云洞，玉面狐狸欲报信被八戒一耙打死。她实为狐阿七大王之侄女，不擅斗法，凭姿色与家财得牛魔王宠爱。",
+    "abilities": [
+      {
+        "name": "魅惑",
+        "description": "凭姿色笼络牛魔王得势"
+      }
+    ],
+    "attributes": {
+      "居所": "积雷山摩云洞",
+      "身份": "万岁狐王之女"
+    },
+    "appears_in": {
+      "first_chapter": 60,
+      "chapters": [
+        60,
+        61
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 60,
+        "event": "招赘牛魔王",
+        "summary": "以家财招赘牛魔王居摩云洞"
+      },
+      {
+        "chapter": 60,
+        "event": "被八戒打死",
+        "summary": "报信时被八戒一耙筑死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "niuwang-mo",
+        "type": "情人",
+        "description": "招赘牛魔王为夫"
+      },
+      {
+        "target": "tie-shan-gongzhu",
+        "type": "情敌",
+        "description": "因牛魔王与铁扇公主为敌"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被八戒打死"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "狐妖",
+      "摩云洞"
+    ],
+    "power_level": 45,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "mang-she-jing",
+    "name": "蟒蛇精",
+    "pinyin": "mang she jing",
+    "aliases": [
+      "七绝山红鳞大蟒"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "蟒妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "七绝山红鳞大蟒，吐雾吞食人畜阻断道路，被悟空八戒合力斩杀。",
+    "description": "蟒蛇精是一条红鳞大蟒，盘踞七绝山稀柿衕，常年吐红雾吞食人畜，弄得满山污秽腥臭，七绝山道路因此被妖雾阻断，行人难越。驼罗庄百姓深受其害，请悟空降妖。悟空与八戒追入洞中，八戒奋勇将其钉在脊背之上，悟空助刀斩之。此妖无甚法宝，全凭身躯粗大使雾作恶。",
+    "abilities": [
+      {
+        "name": "吐红雾",
+        "description": "吐出红雾遮蔽山路腥臭熏人"
+      },
+      {
+        "name": "巨躯绞杀",
+        "description": "凭粗大身躯缠绞吞食人畜"
+      }
+    ],
+    "attributes": {
+      "居所": "七绝山稀柿衕",
+      "特征": "红鳞大蟒"
+    },
+    "appears_in": {
+      "first_chapter": 67,
+      "chapters": [
+        67
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 67,
+        "event": "为害驼罗庄",
+        "summary": "吐雾吞食人畜阻断七绝山路"
+      },
+      {
+        "chapter": 67,
+        "event": "被斩杀",
+        "summary": "悟空八戒追入洞中将其钉斩"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空八戒合力斩杀"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "对手",
+        "description": "被八戒奋勇刺杀"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "蟒妖",
+      "七绝山"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十七回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bao-zi-jing",
+    "name": "豹子精",
+    "pinyin": "bao zi jing",
+    "aliases": [
+      "艾叶花皮豹子怪",
+      "南山大王"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "豹妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "隐雾山折岳连环洞妖王，设分瓣梅花计掳唐僧，被悟空识破打死。",
+    "description": "豹子精居隐雾山折岳连环洞，自称南山大王。他使一柄劈山斧，设分瓣梅花计以柳叶变作假身掳走唐僧，又假称唐僧已被吃以骗退悟空。悟空识破后怒闯妖洞，将其打死，救出唐僧。此妖虽无背景，却颇有机谋，是取经路上少见善用计的豹妖。",
+    "abilities": [
+      {
+        "name": "劈山斧",
+        "description": "使一柄劈山斧近身搏杀"
+      },
+      {
+        "name": "分瓣梅花计",
+        "description": "以柳叶变假身惑敌掳走唐僧"
+      }
+    ],
+    "attributes": {
+      "居所": "隐雾山折岳连环洞",
+      "称号": "南山大王"
+    },
+    "appears_in": {
+      "first_chapter": 85,
+      "chapters": [
+        85,
+        86
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 85,
+        "event": "掳唐僧",
+        "summary": "设分瓣梅花计掳走唐僧"
+      },
+      {
+        "chapter": 86,
+        "event": "被识破打死",
+        "summary": "悟空识破假身怒闯妖洞斩之"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空识破打死"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "掳唐僧欲食"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "豹妖",
+      "隐雾山"
+    ],
+    "power_level": 78,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十五回至第八十六回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huang-shi-jing",
+    "name": "黄狮精",
+    "pinyin": "huang shi jing",
+    "aliases": [
+      "黄狮怪"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "狮妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "豹头山虎口洞妖王，性好清静不食人，盗取三僧兵器，终被天兵除灭。",
+    "description": "黄狮精是豹头山虎口洞之妖，性好清静、不食人。他见悟空八戒沙僧的兵器好看，便使法摄走三件兵器，又办钉耙会庆贺。悟空等扮作客商探洞，打死其小妖，黄狮精逃去请祖翁九灵元圣报仇，最终被悟空与天兵合力除灭，其主太乙救苦天尊收走九灵元圣。",
+    "abilities": [
+      {
+        "name": "摄器法",
+        "description": "暗使妖法摄走三僧兵器"
+      },
+      {
+        "name": "钉耙会",
+        "description": "以偷来兵器设宴庆贺显排场"
+      }
+    ],
+    "attributes": {
+      "居所": "豹头山虎口洞",
+      "本性": "不食人"
+    },
+    "appears_in": {
+      "first_chapter": 88,
+      "chapters": [
+        88,
+        89,
+        90
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 88,
+        "event": "盗兵器",
+        "summary": "摄走三僧兵器办钉耙会"
+      },
+      {
+        "chapter": 89,
+        "event": "请祖报仇",
+        "summary": "逃请九灵元圣为其报仇"
+      },
+      {
+        "chapter": 90,
+        "event": "被除灭",
+        "summary": "被悟空与天兵合力除灭"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "盗兵器后被悟空除灭"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "对手",
+        "description": "与八戒交战"
+      },
+      {
+        "target": "sha-wujing",
+        "type": "对手",
+        "description": "盗其降妖宝杖"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "狮妖",
+      "豹头山"
+    ],
+    "power_level": 76,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第八十八回至第九十回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bai-lu-jing",
+    "name": "白鹿精",
+    "pinyin": "bai lu jing",
+    "aliases": [
+      "比丘国国丈",
+      "梅花鹿"
+    ],
+    "category": "demon",
+    "type": "妖道",
+    "species": "鹿妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "比丘国国丈，实为南极寿星白鹿下界，欲取小儿心肝为药引，被收回。",
+    "description": "白鹿精是比丘国国丈，实为南极寿星座下白鹿下界。他怂恿比丘国王以一千一百一十一个小儿心肝为药引以求长生，国王因此崇信道士，全国小儿危殆。悟空识破其妖身，猪八戒追打，寿星赶来收回白鹿，并指点悟空揭破妖道邪术，救下众小儿。",
+    "abilities": [
+      {
+        "name": "妖道之术",
+        "description": "扮国丈以妖术蛊惑君王"
+      },
+      {
+        "name": "护身红光",
+        "description": "现形时周身红光护体"
+      }
+    ],
+    "attributes": {
+      "身份": "比丘国国丈",
+      "本相": "白鹿"
+    },
+    "appears_in": {
+      "first_chapter": 78,
+      "chapters": [
+        78,
+        79
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 78,
+        "event": "蛊惑君王",
+        "summary": "怂恿取小儿心肝为药引"
+      },
+      {
+        "chapter": 79,
+        "event": "被收回",
+        "summary": "寿星赶来收回白鹿救众小儿"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空识破现形"
+      },
+      {
+        "target": "tang-seng",
+        "type": "加害",
+        "description": "欲以小儿及唐僧心肝为药引"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "鹿妖",
+      "比丘国"
+    ],
+    "power_level": 65,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十八回至第七十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ling-gan-da-wang",
+    "name": "灵感大王",
+    "pinyin": "ling gan da wang",
+    "aliases": [
+      "金鱼精",
+      "通天河妖"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "金鱼妖",
+    "gender": "男",
+    "master": "guanyin-pusa",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "观音莲花池金鱼下界，冻通天河掳唐僧，被菩萨竹篮收回。",
+    "description": "灵感大王本是观音菩萨莲花池里一尾金鱼，每日听菩萨说法修成妖邪，趁海潮泛涨溜出南海，在通天河为妖，称灵感大王。他施法冻结通天河掳走唐僧，欲食其肉。悟空请观音，菩萨以竹篮将金鱼捞起收归南海，通天河老龟驮师徒过河。",
+    "abilities": [
+      {
+        "name": "冻结河水",
+        "description": "施法冰冻通天河阻路掳人"
+      },
+      {
+        "name": "降雪飞霜",
+        "description": "作法降雪飞霜冻住河面"
+      }
+    ],
+    "attributes": {
+      "居所": "通天河",
+      "本相": "莲花池金鱼"
+    },
+    "appears_in": {
+      "first_chapter": 47,
+      "chapters": [
+        47,
+        48,
+        49
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 47,
+        "event": "为妖通天河",
+        "summary": "溜出南海在通天河称王"
+      },
+      {
+        "chapter": 48,
+        "event": "冻河掳僧",
+        "summary": "结冰冻河掳走唐僧"
+      },
+      {
+        "chapter": 49,
+        "event": "被收回",
+        "summary": "观音以竹篮捞回金鱼"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "本主",
+        "description": "观音莲花池金鱼，被菩萨竹篮收回"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "与悟空斗法后被观音收服"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "冻结通天河掳唐僧"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "金鱼妖",
+      "通天河"
+    ],
+    "power_level": 80,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第四十七回至第四十九回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-mao-hou",
+    "name": "金毛犼",
+    "pinyin": "jin mao hou",
+    "aliases": [
+      "赛太岁",
+      "麒麟山妖"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "犼",
+    "gender": "男",
+    "master": "guanyin-pusa",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "观音坐骑金毛犼偷金铃下界，号赛太岁抢金圣宫，被菩萨收回。",
+    "description": "金毛犼是观音菩萨坐骑，偷走菩萨三个金铃下界，在麒麟山獬豸洞自称赛太岁。他因宿缘抢走朱紫国金圣宫娘娘。悟空变化入洞盗得金铃，几经周折放出烟火黄沙，观音菩萨亲临收回金毛犼，金圣宫娘娘得还故国。",
+    "abilities": [
+      {
+        "name": "三个金铃",
+        "description": "摇动金铃放烟火黄沙伤人"
+      },
+      {
+        "name": "变化",
+        "description": "可变化入宫掳走娘娘"
+      }
+    ],
+    "attributes": {
+      "居所": "麒麟山獬豸洞",
+      "法宝": "三个金铃"
+    },
+    "appears_in": {
+      "first_chapter": 70,
+      "chapters": [
+        70,
+        71
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 70,
+        "event": "抢娘娘",
+        "summary": "下界抢走朱紫国金圣宫娘娘"
+      },
+      {
+        "chapter": 71,
+        "event": "盗铃败露",
+        "summary": "悟空盗金铃放出烟火黄沙"
+      },
+      {
+        "chapter": 71,
+        "event": "被收回",
+        "summary": "观音亲临收回金毛犼"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "guanyin-pusa",
+        "type": "本主",
+        "description": "观音坐骑，被菩萨收回"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "与悟空斗法被盗金铃"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "犼",
+      "赛太岁"
+    ],
+    "power_level": 85,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第七十回至第七十一回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hu-a-qi-da-wang",
+    "name": "狐阿七大王",
+    "pinyin": "hu a qi da wang",
+    "aliases": [
+      "狐阿七"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "狐妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "万岁狐王之弟、玉面狐狸之叔，倚牛魔王之势，被八戒一耙筑死。",
+    "description": "狐阿七大王是万岁狐王之弟、玉面狐狸之叔，居积雷山摩云洞。牛魔王入赘摩云洞后，他倚仗牛魔王之势称霸一方。三调芭蕉扇时悟空八戒打上门，狐阿七率小妖助战，被猪八戒一耙筑死。他本领平平，全凭亲属势力嚣张。",
+    "abilities": [
+      {
+        "name": "率妖助战",
+        "description": "倚牛魔王之势率小妖助战"
+      }
+    ],
+    "attributes": {
+      "居所": "积雷山摩云洞",
+      "身份": "万岁狐王之弟"
+    },
+    "appears_in": {
+      "first_chapter": 60,
+      "chapters": [
+        60,
+        61
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 60,
+        "event": "倚势称霸",
+        "summary": "牛魔王入赘后倚势称霸一方"
+      },
+      {
+        "chapter": 60,
+        "event": "被筑死",
+        "summary": "助战时被八戒一耙筑死"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "niuwang-mo",
+        "type": "盟友",
+        "description": "因玉面狐狸与牛魔王结盟"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "与悟空八戒交战"
+      },
+      {
+        "target": "zhu-bajie",
+        "type": "对手",
+        "description": "被八戒筑死"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "狐妖",
+      "摩云洞"
+    ],
+    "power_level": 75,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xing-xian",
+    "name": "杏仙",
+    "pinyin": "xing xian",
+    "aliases": [
+      "荆棘岭杏树精"
+    ],
+    "category": "demon",
+    "type": "妖女",
+    "species": "树精",
+    "gender": "女",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "荆棘岭老杏树成精，与树精吟诗逼婚唐僧，被悟空等伐倒斩杀。",
+    "description": "杏仙是荆棘岭一株老杏树成精，与松精十八公、柏精孤直公、桧精凌空子、竹精拂云叟等为友。他们以妖风摄走唐僧，在木仙庵与唐僧吟诗论文，杏仙更以貌相逼欲与唐僧成亲。悟空寻来识破树精，与众徒将诸树精连根伐倒，杏仙亦被斩。",
+    "abilities": [
+      {
+        "name": "妖风摄人",
+        "description": "以妖风摄走唐僧至木仙庵"
+      },
+      {
+        "name": "吟诗迷人",
+        "description": "以诗词文雅迷惑唐僧"
+      }
+    ],
+    "attributes": {
+      "居所": "荆棘岭木仙庵",
+      "本相": "老杏树"
+    },
+    "appears_in": {
+      "first_chapter": 64,
+      "chapters": [
+        64
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 64,
+        "event": "摄唐僧吟诗",
+        "summary": "以妖风摄唐僧木仙庵论文"
+      },
+      {
+        "chapter": 64,
+        "event": "被伐斩",
+        "summary": "悟空识破将诸树精连根伐倒"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "逼婚对象",
+        "description": "欲与唐僧成亲吟诗相逼"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空等伐倒斩杀"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "树精",
+      "荆棘岭"
+    ],
+    "power_level": 40,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十四回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xi-niu-jing",
+    "name": "犀牛精",
+    "pinyin": "xi niu jing",
+    "aliases": [
+      "辟寒大王",
+      "辟暑大王",
+      "辟尘大王",
+      "玄英洞三妖"
+    ],
+    "category": "demon",
+    "type": "妖王",
+    "species": "犀牛妖",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "玄英洞三犀牛假扮佛身收香油，摄唐僧取血，被四木禽星剿灭。",
+    "description": "犀牛精为玄英洞三只犀牛：辟寒、辟暑、辟尘大王。他们假扮佛身，在金平府慈云寺收取酥合香油，又摄走唐僧欲取心头血配药。悟空识破假佛，奏请四木禽星下界。井木犴等擒杀辟寒、辟暑，辟尘逃窜被擒，三妖尽灭。",
+    "abilities": [
+      {
+        "name": "假佛收油",
+        "description": "假扮佛身收取酥合香油"
+      },
+      {
+        "name": "大力搏杀",
+        "description": "凭犀牛巨力近身搏斗"
+      }
+    ],
+    "attributes": {
+      "居所": "金平府玄英洞",
+      "成员": "辟寒、辟暑、辟尘三妖"
+    },
+    "appears_in": {
+      "first_chapter": 91,
+      "chapters": [
+        91,
+        92
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 91,
+        "event": "假佛收油",
+        "summary": "金平府假佛身收取香油"
+      },
+      {
+        "chapter": 92,
+        "event": "摄僧取血",
+        "summary": "摄走唐僧欲取心头血"
+      },
+      {
+        "chapter": 92,
+        "event": "被剿灭",
+        "summary": "四木禽星下界擒杀三妖"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "ru-lai-fozu",
+        "type": "冒充",
+        "description": "假扮佛身收取香油"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空请四木禽星剿灭"
+      },
+      {
+        "target": "tang-seng",
+        "type": "猎食对象",
+        "description": "摄唐僧取心头血"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "犀牛妖",
+      "玄英洞"
+    ],
+    "power_level": 88,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第九十一回至第九十二回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "gu-zhi-gong",
+    "name": "孤直公",
+    "pinyin": "gu zhi gong",
+    "aliases": [
+      "荆棘岭松精",
+      "十八公之友"
+    ],
+    "category": "demon",
+    "type": "树精",
+    "species": "松精",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "荆棘岭老松成精，与树精邀唐僧谈诗，被悟空等伐倒斩杀。",
+    "description": "孤直公是荆棘岭一株老松成精，与柏精十八公、桧精凌空子、竹精拂云叟、杏仙等为友。他们以妖风摄走唐僧，在木仙庵与唐僧谈诗论道，以松、柏、桧、竹自喻高洁。悟空寻来识破，与众徒将诸树精连根伐倒，孤直公亦被斩。",
+    "abilities": [
+      {
+        "name": "妖风摄人",
+        "description": "以妖风摄走唐僧至木仙庵"
+      },
+      {
+        "name": "谈诗论道",
+        "description": "以文雅诗词与唐僧论道"
+      }
+    ],
+    "attributes": {
+      "居所": "荆棘岭",
+      "本相": "老松"
+    },
+    "appears_in": {
+      "first_chapter": 64,
+      "chapters": [
+        64
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 64,
+        "event": "摄僧论道",
+        "summary": "以妖风摄唐僧木仙庵谈诗"
+      },
+      {
+        "chapter": 64,
+        "event": "被伐斩",
+        "summary": "悟空识破将诸树精连根伐倒"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "谈道对象",
+        "description": "与唐僧吟诗论文"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空等伐倒斩杀"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "树精",
+      "荆棘岭"
+    ],
+    "power_level": 38,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十四回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shi-ba-gong",
+    "name": "十八公",
+    "pinyin": "shi ba gong",
+    "aliases": [
+      "荆棘岭柏精",
+      "劲节公"
+    ],
+    "category": "demon",
+    "type": "树精",
+    "species": "柏精",
+    "gender": "男",
+    "master": "none",
+    "weapon": "none",
+    "dwelling": "none",
+    "summary": "荆棘岭老柏成精，号劲节公，为树精之首，被悟空等伐倒斩杀。",
+    "description": "十八公是荆棘岭一株老柏成精，号劲节公，为荆棘岭树精之首。他与松精孤直公、桧精凌空子、竹精拂云叟、杏仙等为友，以妖风摄走唐僧于木仙庵谈诗。悟空寻来识破树精本相，率众徒将诸树精连根伐倒，十八公亦被斩。",
+    "abilities": [
+      {
+        "name": "妖风摄人",
+        "description": "以妖风摄走唐僧至木仙庵"
+      },
+      {
+        "name": "谈诗论道",
+        "description": "以柏自喻劲节与唐僧论道"
+      }
+    ],
+    "attributes": {
+      "居所": "荆棘岭",
+      "本相": "老柏",
+      "号": "劲节公"
+    },
+    "appears_in": {
+      "first_chapter": 64,
+      "chapters": [
+        64
+      ]
+    },
+    "timeline": [
+      {
+        "chapter": 64,
+        "event": "摄僧谈诗",
+        "summary": "以妖风摄唐僧木仙庵吟诗"
+      },
+      {
+        "chapter": 64,
+        "event": "被伐斩",
+        "summary": "悟空识破将诸树精连根伐倒"
+      }
+    ],
+    "relationships": [
+      {
+        "target": "tang-seng",
+        "type": "谈道对象",
+        "description": "邀唐僧木仙庵吟诗"
+      },
+      {
+        "target": "sun-wukong",
+        "type": "对手",
+        "description": "被悟空等伐倒斩杀"
+      }
+    ],
+    "quotes": [],
+    "tags": [
+      "妖怪",
+      "树精",
+      "荆棘岭"
+    ],
+    "power_level": 38,
+    "reference_count": 0,
+    "references": [
+      {
+        "source": "《西游记》原著",
+        "description": "第六十四回"
+      }
+    ],
+    "meta": {
+      "author": "吴承恩",
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  }
+]

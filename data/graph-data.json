@@ -1,0 +1,1743 @@
+{
+  "nodes": [
+    {
+      "id": "sun-wukong",
+      "name": "孙悟空",
+      "category": 0,
+      "value": 167,
+      "symbolSize": 60
+    },
+    {
+      "id": "tang-seng",
+      "name": "唐僧",
+      "category": 0,
+      "value": 94,
+      "symbolSize": 60
+    },
+    {
+      "id": "zhu-bajie",
+      "name": "猪八戒",
+      "category": 0,
+      "value": 45,
+      "symbolSize": 60
+    },
+    {
+      "id": "sha-wujing",
+      "name": "沙悟净",
+      "category": 0,
+      "value": 35,
+      "symbolSize": 60
+    },
+    {
+      "id": "bai-long-ma",
+      "name": "白龙马",
+      "category": 0,
+      "value": 6,
+      "symbolSize": 38
+    },
+    {
+      "id": "yu-huang-dadi",
+      "name": "玉皇大帝",
+      "category": 1,
+      "value": 25,
+      "symbolSize": 60
+    },
+    {
+      "id": "tai-bai-jinxing",
+      "name": "太白金星",
+      "category": 1,
+      "value": 6,
+      "symbolSize": 38
+    },
+    {
+      "id": "taishang-laojun",
+      "name": "太上老君",
+      "category": 1,
+      "value": 14,
+      "symbolSize": 60
+    },
+    {
+      "id": "erlang-shen",
+      "name": "二郎神",
+      "category": 1,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "nezha",
+      "name": "哪吒",
+      "category": 1,
+      "value": 8,
+      "symbolSize": 44
+    },
+    {
+      "id": "ta-li-tianwang",
+      "name": "托塔李天王",
+      "category": 1,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "wangmu-niangniang",
+      "name": "王母娘娘",
+      "category": 1,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "puti-zushi",
+      "name": "菩提祖师",
+      "category": 1,
+      "value": 4,
+      "symbolSize": 32
+    },
+    {
+      "id": "dong-hai-longwang",
+      "name": "东海龙王敖广",
+      "category": 1,
+      "value": 3,
+      "symbolSize": 29
+    },
+    {
+      "id": "xi-hai-longwang",
+      "name": "西海龙王敖闰",
+      "category": 1,
+      "value": 4,
+      "symbolSize": 32
+    },
+    {
+      "id": "ru-lai-fozu",
+      "name": "如来佛祖",
+      "category": 2,
+      "value": 28,
+      "symbolSize": 60
+    },
+    {
+      "id": "guanyin-pusa",
+      "name": "观音菩萨",
+      "category": 2,
+      "value": 18,
+      "symbolSize": 60
+    },
+    {
+      "id": "wen-shu-pusa",
+      "name": "文殊菩萨",
+      "category": 2,
+      "value": 4,
+      "symbolSize": 32
+    },
+    {
+      "id": "pu-xian-pusa",
+      "name": "普贤菩萨",
+      "category": 2,
+      "value": 3,
+      "symbolSize": 29
+    },
+    {
+      "id": "mi-le-fo",
+      "name": "弥勒佛",
+      "category": 2,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "ling-ji-pusa",
+      "name": "灵吉菩萨",
+      "category": 2,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "niuwang-mo",
+      "name": "牛魔王",
+      "category": 3,
+      "value": 9,
+      "symbolSize": 47
+    },
+    {
+      "id": "tie-shan-gongzhu",
+      "name": "铁扇公主",
+      "category": 3,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "hong-hai-er",
+      "name": "红孩儿",
+      "category": 3,
+      "value": 9,
+      "symbolSize": 47
+    },
+    {
+      "id": "baigujing",
+      "name": "白骨精",
+      "category": 3,
+      "value": 3,
+      "symbolSize": 29
+    },
+    {
+      "id": "huangpao-guai",
+      "name": "黄袍怪",
+      "category": 3,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "jin-jiao-dawang",
+      "name": "金角大王",
+      "category": 3,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "yin-jiao-dawang",
+      "name": "银角大王",
+      "category": 3,
+      "value": 6,
+      "symbolSize": 38
+    },
+    {
+      "id": "daqin-jinchi-diao",
+      "name": "大鹏金翅雕",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "jiutou-chong",
+      "name": "九头虫",
+      "category": 3,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "zhi-zhu-jing",
+      "name": "蜘蛛精",
+      "category": 3,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "huang-feng-guai",
+      "name": "黄风怪",
+      "category": 3,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "tang-taizong",
+      "name": "唐太宗李世民",
+      "category": 4,
+      "value": 7,
+      "symbolSize": 41
+    },
+    {
+      "id": "wei-zheng",
+      "name": "魏征",
+      "category": 4,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "liu-boqin",
+      "name": "刘伯钦",
+      "category": 4,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "zeng-zhang-tianwang",
+      "name": "增长天王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "guang-mu-tianwang",
+      "name": "广目天王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "duo-wen-tianwang",
+      "name": "多闻天王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "chi-guo-tianwang",
+      "name": "持国天王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "ju-ling-shen",
+      "name": "巨灵神",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "tai-yin-xingjun",
+      "name": "太阴星君",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "huo-de-xingjun",
+      "name": "火德星君",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "shui-de-xingjun",
+      "name": "水德星君",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "feng-bo",
+      "name": "风伯",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "yu-shi",
+      "name": "雨师",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "lei-gong",
+      "name": "雷公",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "dian-mu",
+      "name": "电母",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "chi-jiao-da-xian",
+      "name": "赤脚大仙",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "zhen-yuan-da-xian",
+      "name": "镇元大仙",
+      "category": 1,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "shou-xing",
+      "name": "寿星",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "nan-hai-longwang",
+      "name": "南海龙王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "bei-hai-longwang",
+      "name": "北海龙王",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "zhen-wu-da-di",
+      "name": "真武大帝",
+      "category": 1,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "a-nan",
+      "name": "阿难陀",
+      "category": 2,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "jia-ye",
+      "name": "迦叶尊者",
+      "category": 2,
+      "value": 2,
+      "symbolSize": 26
+    },
+    {
+      "id": "mu-lian",
+      "name": "目犍连",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "she-li-fu",
+      "name": "舍利弗",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "di-zang-pusa",
+      "name": "地藏菩萨",
+      "category": 2,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "yue-liang-pusa",
+      "name": "月光菩萨",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "ri-zhao-pusa",
+      "name": "日光菩萨",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "hui-an-xing-zhe",
+      "name": "惠岸行者",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "shan-cai-tong-zi",
+      "name": "善财童子",
+      "category": 2,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "long-nu",
+      "name": "龙女",
+      "category": 2,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "gao-tai-gong",
+      "name": "高太公",
+      "category": 4,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "chen-guang-rui",
+      "name": "陈光蕊",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "yin-wen-jiao",
+      "name": "殷温娇",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "liu-hong",
+      "name": "刘洪",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "kou-yuan-wai",
+      "name": "寇员外",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "liu-quan",
+      "name": "刘全",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "gao-cui-lan",
+      "name": "高翠兰",
+      "category": 4,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "hei-xiong-jing",
+      "name": "黑熊精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "hu-li-da-xian",
+      "name": "虎力大仙",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "lu-li-da-xian",
+      "name": "鹿力大仙",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "yang-li-da-xian",
+      "name": "羊力大仙",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "qing-niu-jing",
+      "name": "青牛精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "jiu-ling-yuan-sheng",
+      "name": "九灵元圣",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "liu-er-mihou",
+      "name": "六耳猕猴",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "huang-mei-lao-fo",
+      "name": "黄眉老佛",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "wan-sheng-long-wang",
+      "name": "万圣龙王",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "wan-sheng-gong-zhu",
+      "name": "万圣公主",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "tuo-long",
+      "name": "鼍龙",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "qing-shi-jing",
+      "name": "青狮精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "bai-xiang-jing",
+      "name": "白象精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "da-peng-jing",
+      "name": "大鹏金翅雕",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "du-gong-jing",
+      "name": "蜈蚣精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "xie-zi-jing",
+      "name": "蝎子精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "yu-tu-jing",
+      "name": "玉兔精",
+      "category": 3,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "lao-shu-jing",
+      "name": "老鼠精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "yu-mian-hu-li",
+      "name": "玉面狐狸",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "mang-she-jing",
+      "name": "蟒蛇精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "bao-zi-jing",
+      "name": "豹子精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "huang-shi-jing",
+      "name": "黄狮精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "bai-lu-jing",
+      "name": "白鹿精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "ling-gan-da-wang",
+      "name": "灵感大王",
+      "category": 3,
+      "value": 1,
+      "symbolSize": 23
+    },
+    {
+      "id": "jin-mao-hou",
+      "name": "金毛犼",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "hu-a-qi-da-wang",
+      "name": "狐阿七大王",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "xing-xian",
+      "name": "杏仙",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "xi-niu-jing",
+      "name": "犀牛精",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "gu-zhi-gong",
+      "name": "孤直公",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    },
+    {
+      "id": "shi-ba-gong",
+      "name": "十八公",
+      "category": 3,
+      "value": 0,
+      "symbolSize": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "sun-wukong",
+      "target": "tang-seng",
+      "value": "师徒"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "zhu-bajie",
+      "value": "师兄弟"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "sha-wujing",
+      "value": "师兄弟"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "puti-zushi",
+      "value": "师徒"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "guanyin-pusa",
+      "value": "恩人"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "ru-lai-fozu",
+      "value": "仇敌转恩"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "niuwang-mo",
+      "value": "旧友转敌"
+    },
+    {
+      "source": "sun-wukong",
+      "target": "erlang-shen",
+      "value": "对手"
+    },
+    {
+      "source": "tang-seng",
+      "target": "zhu-bajie",
+      "value": "师徒"
+    },
+    {
+      "source": "tang-seng",
+      "target": "sha-wujing",
+      "value": "师徒"
+    },
+    {
+      "source": "tang-seng",
+      "target": "bai-long-ma",
+      "value": "坐骑"
+    },
+    {
+      "source": "tang-seng",
+      "target": "guanyin-pusa",
+      "value": "指引者"
+    },
+    {
+      "source": "tang-seng",
+      "target": "tang-taizong",
+      "value": "君臣"
+    },
+    {
+      "source": "zhu-bajie",
+      "target": "sha-wujing",
+      "value": "师兄弟"
+    },
+    {
+      "source": "bai-long-ma",
+      "target": "xi-hai-longwang",
+      "value": "父子"
+    },
+    {
+      "source": "bai-long-ma",
+      "target": "guanyin-pusa",
+      "value": "恩人"
+    },
+    {
+      "source": "yu-huang-dadi",
+      "target": "sun-wukong",
+      "value": "君臣对立"
+    },
+    {
+      "source": "yu-huang-dadi",
+      "target": "tai-bai-jinxing",
+      "value": "臣属"
+    },
+    {
+      "source": "yu-huang-dadi",
+      "target": "ru-lai-fozu",
+      "value": "求助"
+    },
+    {
+      "source": "tai-bai-jinxing",
+      "target": "sun-wukong",
+      "value": "恩人"
+    },
+    {
+      "source": "taishang-laojun",
+      "target": "sun-wukong",
+      "value": "炼烧对象"
+    },
+    {
+      "source": "taishang-laojun",
+      "target": "erlang-shen",
+      "value": "助战"
+    },
+    {
+      "source": "erlang-shen",
+      "target": "yu-huang-dadi",
+      "value": "外甥"
+    },
+    {
+      "source": "nezha",
+      "target": "ta-li-tianwang",
+      "value": "父子"
+    },
+    {
+      "source": "nezha",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "ta-li-tianwang",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "ta-li-tianwang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "wangmu-niangniang",
+      "target": "sun-wukong",
+      "value": "受害"
+    },
+    {
+      "source": "wangmu-niangniang",
+      "target": "yu-huang-dadi",
+      "value": "配偶"
+    },
+    {
+      "source": "dong-hai-longwang",
+      "target": "sun-wukong",
+      "value": "受害"
+    },
+    {
+      "source": "ru-lai-fozu",
+      "target": "guanyin-pusa",
+      "value": "委派"
+    },
+    {
+      "source": "ru-lai-fozu",
+      "target": "tang-seng",
+      "value": "前世师"
+    },
+    {
+      "source": "guanyin-pusa",
+      "target": "zhu-bajie",
+      "value": "恩人"
+    },
+    {
+      "source": "guanyin-pusa",
+      "target": "sha-wujing",
+      "value": "恩人"
+    },
+    {
+      "source": "guanyin-pusa",
+      "target": "hong-hai-er",
+      "value": "收服"
+    },
+    {
+      "source": "mi-le-fo",
+      "target": "sun-wukong",
+      "value": "救助"
+    },
+    {
+      "source": "ling-ji-pusa",
+      "target": "huang-feng-guai",
+      "value": "降服"
+    },
+    {
+      "source": "ling-ji-pusa",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "niuwang-mo",
+      "target": "tie-shan-gongzhu",
+      "value": "夫妻"
+    },
+    {
+      "source": "niuwang-mo",
+      "target": "hong-hai-er",
+      "value": "父子"
+    },
+    {
+      "source": "tie-shan-gongzhu",
+      "target": "sun-wukong",
+      "value": "仇敌转和"
+    },
+    {
+      "source": "tie-shan-gongzhu",
+      "target": "hong-hai-er",
+      "value": "母子"
+    },
+    {
+      "source": "hong-hai-er",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "baigujing",
+      "target": "sun-wukong",
+      "value": "被杀"
+    },
+    {
+      "source": "baigujing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "huangpao-guai",
+      "target": "sun-wukong",
+      "value": "被降"
+    },
+    {
+      "source": "huangpao-guai",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "jin-jiao-dawang",
+      "target": "yin-jiao-dawang",
+      "value": "兄弟"
+    },
+    {
+      "source": "jin-jiao-dawang",
+      "target": "taishang-laojun",
+      "value": "原属"
+    },
+    {
+      "source": "jin-jiao-dawang",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "yin-jiao-dawang",
+      "target": "taishang-laojun",
+      "value": "原属"
+    },
+    {
+      "source": "yin-jiao-dawang",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "daqin-jinchi-diao",
+      "target": "ru-lai-fozu",
+      "value": "甥舅"
+    },
+    {
+      "source": "daqin-jinchi-diao",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "jiutou-chong",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "jiutou-chong",
+      "target": "erlang-shen",
+      "value": "敌"
+    },
+    {
+      "source": "zhi-zhu-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "zhi-zhu-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "huang-feng-guai",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "tang-taizong",
+      "target": "wei-zheng",
+      "value": "臣属"
+    },
+    {
+      "source": "liu-boqin",
+      "target": "tang-seng",
+      "value": "相助"
+    },
+    {
+      "source": "zeng-zhang-tianwang",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "zeng-zhang-tianwang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "guang-mu-tianwang",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "guang-mu-tianwang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "duo-wen-tianwang",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "duo-wen-tianwang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "chi-guo-tianwang",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "chi-guo-tianwang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "ju-ling-shen",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "ju-ling-shen",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "tai-yin-xingjun",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "tai-yin-xingjun",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "huo-de-xingjun",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "huo-de-xingjun",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "shui-de-xingjun",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "shui-de-xingjun",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "feng-bo",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "feng-bo",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "yu-shi",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "yu-shi",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "lei-gong",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "lei-gong",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "dian-mu",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "dian-mu",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "chi-jiao-da-xian",
+      "target": "sun-wukong",
+      "value": "被戏弄"
+    },
+    {
+      "source": "chi-jiao-da-xian",
+      "target": "wangmu-niangniang",
+      "value": "受邀"
+    },
+    {
+      "source": "chi-jiao-da-xian",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "zhen-yuan-da-xian",
+      "target": "sun-wukong",
+      "value": "对手转友"
+    },
+    {
+      "source": "zhen-yuan-da-xian",
+      "target": "tang-seng",
+      "value": "款待"
+    },
+    {
+      "source": "zhen-yuan-da-xian",
+      "target": "guanyin-pusa",
+      "value": "相助"
+    },
+    {
+      "source": "shou-xing",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "shou-xing",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "nan-hai-longwang",
+      "target": "dong-hai-longwang",
+      "value": "兄弟"
+    },
+    {
+      "source": "nan-hai-longwang",
+      "target": "xi-hai-longwang",
+      "value": "兄弟"
+    },
+    {
+      "source": "nan-hai-longwang",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "bei-hai-longwang",
+      "target": "dong-hai-longwang",
+      "value": "兄弟"
+    },
+    {
+      "source": "bei-hai-longwang",
+      "target": "xi-hai-longwang",
+      "value": "兄弟"
+    },
+    {
+      "source": "bei-hai-longwang",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "zhen-wu-da-di",
+      "target": "yu-huang-dadi",
+      "value": "臣属"
+    },
+    {
+      "source": "zhen-wu-da-di",
+      "target": "sun-wukong",
+      "value": "相助"
+    },
+    {
+      "source": "a-nan",
+      "target": "ru-lai-fozu",
+      "value": "弟子"
+    },
+    {
+      "source": "a-nan",
+      "target": "tang-seng",
+      "value": "传经"
+    },
+    {
+      "source": "jia-ye",
+      "target": "ru-lai-fozu",
+      "value": "弟子"
+    },
+    {
+      "source": "jia-ye",
+      "target": "tang-seng",
+      "value": "传经"
+    },
+    {
+      "source": "mu-lian",
+      "target": "ru-lai-fozu",
+      "value": "弟子"
+    },
+    {
+      "source": "she-li-fu",
+      "target": "ru-lai-fozu",
+      "value": "弟子"
+    },
+    {
+      "source": "di-zang-pusa",
+      "target": "ru-lai-fozu",
+      "value": "隶属"
+    },
+    {
+      "source": "di-zang-pusa",
+      "target": "sun-wukong",
+      "value": "勘辨"
+    },
+    {
+      "source": "yue-liang-pusa",
+      "target": "ru-lai-fozu",
+      "value": "胁侍"
+    },
+    {
+      "source": "ri-zhao-pusa",
+      "target": "ru-lai-fozu",
+      "value": "胁侍"
+    },
+    {
+      "source": "hui-an-xing-zhe",
+      "target": "guanyin-pusa",
+      "value": "师徒"
+    },
+    {
+      "source": "hui-an-xing-zhe",
+      "target": "sun-wukong",
+      "value": "助战"
+    },
+    {
+      "source": "shan-cai-tong-zi",
+      "target": "guanyin-pusa",
+      "value": "收服"
+    },
+    {
+      "source": "shan-cai-tong-zi",
+      "target": "hong-hai-er",
+      "value": "前身"
+    },
+    {
+      "source": "long-nu",
+      "target": "guanyin-pusa",
+      "value": "侍奉"
+    },
+    {
+      "source": "gao-tai-gong",
+      "target": "zhu-bajie",
+      "value": "翁婿"
+    },
+    {
+      "source": "gao-tai-gong",
+      "target": "tang-seng",
+      "value": "款待"
+    },
+    {
+      "source": "chen-guang-rui",
+      "target": "tang-seng",
+      "value": "父子"
+    },
+    {
+      "source": "yin-wen-jiao",
+      "target": "tang-seng",
+      "value": "母子"
+    },
+    {
+      "source": "liu-hong",
+      "target": "tang-seng",
+      "value": "仇敌"
+    },
+    {
+      "source": "kou-yuan-wai",
+      "target": "tang-seng",
+      "value": "施主"
+    },
+    {
+      "source": "liu-quan",
+      "target": "tang-taizong",
+      "value": "君臣"
+    },
+    {
+      "source": "gao-cui-lan",
+      "target": "zhu-bajie",
+      "value": "夫妻"
+    },
+    {
+      "source": "gao-cui-lan",
+      "target": "tang-seng",
+      "value": "款待"
+    },
+    {
+      "source": "hei-xiong-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "hei-xiong-jing",
+      "target": "guanyin-pusa",
+      "value": "收服"
+    },
+    {
+      "source": "hei-xiong-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "hu-li-da-xian",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "hu-li-da-xian",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "lu-li-da-xian",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "lu-li-da-xian",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "yang-li-da-xian",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "yang-li-da-xian",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "qing-niu-jing",
+      "target": "taishang-laojun",
+      "value": "坐骑"
+    },
+    {
+      "source": "qing-niu-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "jiu-ling-yuan-sheng",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "jiu-ling-yuan-sheng",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "liu-er-mihou",
+      "target": "sun-wukong",
+      "value": "冒充"
+    },
+    {
+      "source": "liu-er-mihou",
+      "target": "ru-lai-fozu",
+      "value": "被识破"
+    },
+    {
+      "source": "liu-er-mihou",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "huang-mei-lao-fo",
+      "target": "mi-le-fo",
+      "value": "原属"
+    },
+    {
+      "source": "huang-mei-lao-fo",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "huang-mei-lao-fo",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "wan-sheng-long-wang",
+      "target": "jiutou-chong",
+      "value": "翁婿"
+    },
+    {
+      "source": "wan-sheng-long-wang",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "wan-sheng-long-wang",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "wan-sheng-gong-zhu",
+      "target": "jiutou-chong",
+      "value": "夫妻"
+    },
+    {
+      "source": "wan-sheng-gong-zhu",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "wan-sheng-gong-zhu",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "tuo-long",
+      "target": "xi-hai-longwang",
+      "value": "亲族"
+    },
+    {
+      "source": "tuo-long",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "tuo-long",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "qing-shi-jing",
+      "target": "wen-shu-pusa",
+      "value": "坐骑"
+    },
+    {
+      "source": "qing-shi-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "qing-shi-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "bai-xiang-jing",
+      "target": "pu-xian-pusa",
+      "value": "坐骑"
+    },
+    {
+      "source": "bai-xiang-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "bai-xiang-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "da-peng-jing",
+      "target": "ru-lai-fozu",
+      "value": "甥舅"
+    },
+    {
+      "source": "da-peng-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "da-peng-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "du-gong-jing",
+      "target": "sun-wukong",
+      "value": "敌"
+    },
+    {
+      "source": "du-gong-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "du-gong-jing",
+      "target": "zhi-zhu-jing",
+      "value": "师兄妹"
+    },
+    {
+      "source": "xie-zi-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "xie-zi-jing",
+      "target": "ru-lai-fozu",
+      "value": "加害"
+    },
+    {
+      "source": "xie-zi-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "yu-tu-jing",
+      "target": "guanyin-pusa",
+      "value": "本主"
+    },
+    {
+      "source": "yu-tu-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "yu-tu-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "lao-shu-jing",
+      "target": "ta-li-tianwang",
+      "value": "义父"
+    },
+    {
+      "source": "lao-shu-jing",
+      "target": "nezha",
+      "value": "义兄"
+    },
+    {
+      "source": "lao-shu-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "lao-shu-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "yu-mian-hu-li",
+      "target": "niuwang-mo",
+      "value": "情人"
+    },
+    {
+      "source": "yu-mian-hu-li",
+      "target": "tie-shan-gongzhu",
+      "value": "情敌"
+    },
+    {
+      "source": "yu-mian-hu-li",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "mang-she-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "mang-she-jing",
+      "target": "zhu-bajie",
+      "value": "对手"
+    },
+    {
+      "source": "bao-zi-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "bao-zi-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "huang-shi-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "huang-shi-jing",
+      "target": "zhu-bajie",
+      "value": "对手"
+    },
+    {
+      "source": "huang-shi-jing",
+      "target": "sha-wujing",
+      "value": "对手"
+    },
+    {
+      "source": "bai-lu-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "bai-lu-jing",
+      "target": "tang-seng",
+      "value": "加害"
+    },
+    {
+      "source": "ling-gan-da-wang",
+      "target": "guanyin-pusa",
+      "value": "本主"
+    },
+    {
+      "source": "ling-gan-da-wang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "ling-gan-da-wang",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "jin-mao-hou",
+      "target": "guanyin-pusa",
+      "value": "本主"
+    },
+    {
+      "source": "jin-mao-hou",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "hu-a-qi-da-wang",
+      "target": "niuwang-mo",
+      "value": "盟友"
+    },
+    {
+      "source": "hu-a-qi-da-wang",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "hu-a-qi-da-wang",
+      "target": "zhu-bajie",
+      "value": "对手"
+    },
+    {
+      "source": "xing-xian",
+      "target": "tang-seng",
+      "value": "逼婚对象"
+    },
+    {
+      "source": "xing-xian",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "xi-niu-jing",
+      "target": "ru-lai-fozu",
+      "value": "冒充"
+    },
+    {
+      "source": "xi-niu-jing",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "xi-niu-jing",
+      "target": "tang-seng",
+      "value": "猎食对象"
+    },
+    {
+      "source": "gu-zhi-gong",
+      "target": "tang-seng",
+      "value": "谈道对象"
+    },
+    {
+      "source": "gu-zhi-gong",
+      "target": "sun-wukong",
+      "value": "对手"
+    },
+    {
+      "source": "shi-ba-gong",
+      "target": "tang-seng",
+      "value": "谈道对象"
+    },
+    {
+      "source": "shi-ba-gong",
+      "target": "sun-wukong",
+      "value": "对手"
+    }
+  ],
+  "categories": [
+    {
+      "name": "取经师徒"
+    },
+    {
+      "name": "天庭神仙"
+    },
+    {
+      "name": "佛门菩萨"
+    },
+    {
+      "name": "妖魔鬼怪"
+    },
+    {
+      "name": "凡间人物"
+    }
+  ]
+}

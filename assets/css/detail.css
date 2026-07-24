@@ -1,0 +1,419 @@
+/* ============================================
+   detail.css - 详情页样式
+   ============================================ */
+
+/* === 详情页头部 === */
+.detail-header {
+  margin-bottom: var(--space-xl);
+}
+.detail-header .detail-title {
+  font-size: var(--text-4xl);
+  margin-bottom: var(--space-sm);
+}
+.detail-header .detail-aliases {
+  font-size: var(--text-base);
+  color: var(--color-stone);
+  margin-bottom: var(--space-md);
+}
+.detail-header .detail-aliases .alias {
+  margin-right: var(--space-sm);
+}
+.detail-header .detail-aliases .alias::after {
+  content: ' ·';
+  color: var(--color-gold);
+}
+.detail-header .detail-aliases .alias:last-child::after {
+  content: '';
+}
+.detail-header .detail-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+  flex-wrap: wrap;
+}
+.detail-header .detail-meta .meta-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+.detail-header .detail-meta .meta-divider {
+  color: var(--color-gold);
+}
+.detail-header .detail-meta .ref-count {
+  color: var(--color-vermillion);
+  font-weight: 600;
+}
+
+/* === 详情页双栏 === */
+.detail-body {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: var(--space-xl);
+  align-items: start;
+}
+.detail-main {
+  min-width: 0;
+}
+.detail-sidebar {
+  position: sticky;
+  top: calc(var(--header-height) + var(--space-lg));
+}
+
+/* === 核心摘要 === */
+.detail-summary {
+  border-left: 4px solid var(--color-vermillion);
+  background: linear-gradient(135deg, var(--color-parchment-dark), var(--color-parchment));
+  padding: var(--space-lg) var(--space-xl);
+  margin-bottom: var(--space-xl);
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  line-height: 1.8;
+  color: var(--color-ink-deep);
+}
+
+/* === 详情区块 === */
+.detail-section {
+  margin-bottom: var(--space-2xl);
+}
+.detail-section h3 {
+  font-size: var(--text-xl);
+  margin-bottom: var(--space-lg);
+  padding-bottom: var(--space-sm);
+  border-bottom: 2px solid var(--color-gold-light);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+.detail-section h3 .section-icon {
+  color: var(--color-vermillion);
+}
+
+/* === 属性卡片 (侧边栏) === */
+.attr-card {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+.attr-card h4 {
+  font-size: var(--text-sm);
+  color: var(--color-gold-dark);
+  margin-bottom: var(--space-md);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.attr-card .attr-list {
+  gap: var(--space-sm) var(--space-md);
+}
+
+/* === 能力表格 === */
+.ability-table {
+  width: 100%;
+}
+.ability-table th {
+  background: var(--color-parchment-dark);
+  color: var(--color-gold-dark);
+}
+.ability-table td:first-child {
+  font-weight: 600;
+  color: var(--color-vermillion);
+  white-space: nowrap;
+}
+
+/* === 关系列表 === */
+.relation-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.relation-group {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+.relation-group .relation-label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  min-width: 80px;
+  padding-top: 2px;
+}
+.relation-group .relation-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  flex: 1;
+}
+.relation-group .relation-item {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-parchment-dark);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  transition: all var(--transition-fast);
+}
+.relation-group .relation-item:hover {
+  border-color: var(--color-vermillion);
+  color: var(--color-vermillion);
+}
+.relation-group .relation-item .item-desc {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+}
+
+/* === 关系图谱容器 === */
+.graph-container {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-md);
+  margin-bottom: var(--space-lg);
+  position: relative;
+}
+.graph-container .graph-canvas {
+  width: 100%;
+  height: 500px;
+}
+.graph-container .graph-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  border-top: 1px solid var(--color-gold-light);
+  font-size: var(--text-xs);
+}
+.graph-container .graph-legend .legend-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+.graph-container .graph-legend .legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+/* === 时间线 (详情页) === */
+.detail-timeline {
+  position: relative;
+  padding-left: var(--space-2xl);
+}
+.detail-timeline::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(180deg, var(--color-vermillion), var(--color-gold), var(--color-gold-light));
+}
+.detail-timeline .tl-item {
+  position: relative;
+  padding-bottom: var(--space-xl);
+}
+.detail-timeline .tl-item:last-child {
+  padding-bottom: 0;
+}
+.detail-timeline .tl-item::before {
+  content: '';
+  position: absolute;
+  left: -33px;
+  top: 4px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-vermillion);
+  border: 3px solid var(--color-parchment);
+  box-shadow: 0 0 0 2px var(--color-gold);
+}
+.detail-timeline .tl-chapter {
+  display: inline-block;
+  font-size: var(--text-xs);
+  color: var(--color-parchment);
+  background: var(--color-vermillion);
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-xs);
+  font-weight: 600;
+}
+.detail-timeline .tl-event {
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  font-weight: 700;
+  color: var(--color-ink-deep);
+  margin-bottom: var(--space-xs);
+}
+.detail-timeline .tl-desc {
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+  line-height: 1.7;
+}
+
+/* === 出场章节标签 === */
+.chapter-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+.chapter-tags .chapter-tag {
+  display: inline-block;
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-parchment-dark);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-xs);
+  color: var(--color-ink-black);
+  transition: all var(--transition-fast);
+}
+.chapter-tags .chapter-tag:hover {
+  background: var(--color-vermillion);
+  color: var(--color-parchment);
+  border-color: var(--color-vermillion);
+}
+
+/* === 参考文献 === */
+.references-list {
+  list-style: none;
+  padding: 0;
+}
+.references-list li {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--color-mist);
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+}
+.references-list li:last-child {
+  border-bottom: none;
+}
+.references-list li .ref-source {
+  font-weight: 600;
+  color: var(--color-gold-dark);
+}
+.references-list li .ref-desc {
+  color: var(--color-stone);
+  margin-top: var(--space-xs);
+}
+
+/* === 反向引用 === */
+.back-references {
+  background: var(--color-parchment-dark);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+.back-references h4 {
+  font-size: var(--text-sm);
+  color: var(--color-gold-dark);
+  margin-bottom: var(--space-md);
+}
+.back-references .back-ref-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+.back-references .back-ref-item {
+  font-size: var(--text-xs);
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-parchment);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-gold-light);
+}
+
+/* === 章节详情页特殊样式 === */
+.chapter-detail .chapter-poem {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  line-height: 2;
+  text-align: center;
+  color: var(--color-ink-deep);
+  background: var(--color-parchment-dark);
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-xl);
+  border: 1px solid var(--color-gold-light);
+}
+.chapter-detail .chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-xl);
+  border-top: 2px solid var(--color-gold-light);
+}
+.chapter-detail .chapter-nav a {
+  flex: 1;
+  padding: var(--space-md);
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-md);
+  text-align: center;
+  transition: all var(--transition-fast);
+}
+.chapter-detail .chapter-nav a:hover {
+  border-color: var(--color-vermillion);
+  color: var(--color-vermillion);
+}
+.chapter-detail .chapter-nav .nav-label {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+  margin-bottom: var(--space-xs);
+}
+.chapter-detail .chapter-nav .nav-title {
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+.chapter-detail .chapter-nav .nav-disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+/* === 情节要点 === */
+.plot-points {
+  list-style: none;
+  padding: 0;
+  counter-reset: plot;
+}
+.plot-points li {
+  position: relative;
+  padding-left: var(--space-2xl);
+  padding-bottom: var(--space-md);
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+  line-height: 1.7;
+  counter-increment: plot;
+}
+.plot-points li::before {
+  content: counter(plot, cjk-decimal) "、";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--color-vermillion);
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+/* === 关键事件 === */
+.key-events {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-lg);
+}
+.key-events .event-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}

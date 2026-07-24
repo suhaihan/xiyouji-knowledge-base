@@ -1,0 +1,12 @@
+{
+  "name": "xyj-knowledge-base",
+  "version": "1.0.0",
+  "description": "西游记知识库 - Journey to the West Knowledge Base",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {}
+}

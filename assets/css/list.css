@@ -1,0 +1,228 @@
+/* ============================================
+   list.css - 列表页样式
+   ============================================ */
+
+.list-header {
+  margin-bottom: var(--space-xl);
+}
+.list-header h1 {
+  font-size: var(--text-3xl);
+  margin-bottom: var(--space-sm);
+}
+.list-header .list-count {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+}
+.list-header .list-count strong {
+  color: var(--color-vermillion);
+  font-size: var(--text-lg);
+}
+
+/* === 列表工具栏 === */
+.list-toolbar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+  flex-wrap: wrap;
+}
+.list-toolbar .filter-bar {
+  flex: 1;
+  margin-bottom: 0;
+  border-bottom: none;
+  padding: 0;
+}
+.list-toolbar .list-search {
+  width: 240px;
+}
+
+/* === 卡片网格 === */
+.list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-lg);
+}
+
+/* === 章节列表特殊布局 === */
+.chapter-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--space-md);
+}
+.chapter-list .card-chapter {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-md);
+  transition: all var(--transition-normal);
+}
+.chapter-list .card-chapter:hover {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-card-hover);
+}
+
+/* === 人物列表分组 === */
+.character-groups {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xl);
+}
+.character-group h3 {
+  font-size: var(--text-xl);
+  padding-bottom: var(--space-sm);
+  border-bottom: 2px solid var(--color-gold-light);
+  margin-bottom: var(--space-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+.character-group h3 .group-count {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+  font-weight: 400;
+}
+
+/* === 地点列表 === */
+.location-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-lg);
+}
+.location-card {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  transition: all var(--transition-normal);
+}
+.location-card:hover {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
+}
+.location-card .loc-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  margin-bottom: var(--space-sm);
+}
+.location-card .loc-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--color-jade), var(--color-indigo));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-parchment);
+  font-size: var(--text-lg);
+  flex-shrink: 0;
+}
+.location-card .loc-name {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+}
+.location-card .loc-meta {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+  margin-bottom: var(--space-sm);
+}
+.location-card .loc-summary {
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+  line-height: 1.6;
+}
+
+/* === 法宝列表 === */
+.artifact-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-lg);
+}
+.artifact-card {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  transition: all var(--transition-normal);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+.artifact-card:hover {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
+}
+.artifact-card .art-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+.artifact-card .art-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--color-gold-light), var(--color-gold-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-parchment);
+  font-size: var(--text-xl);
+  flex-shrink: 0;
+}
+.artifact-card .art-name {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+}
+.artifact-card .art-type {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+}
+.artifact-card .art-summary {
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+  line-height: 1.6;
+}
+
+/* === 台词列表 === */
+.quote-list {
+  display: grid;
+  gap: var(--space-md);
+}
+.quote-card {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-left: 4px solid var(--color-vermillion);
+  border-radius: var(--radius-md);
+  padding: var(--space-md) var(--space-lg);
+  transition: all var(--transition-normal);
+}
+.quote-card:hover {
+  border-color: var(--color-gold);
+  border-left-color: var(--color-vermillion);
+  box-shadow: var(--shadow-card);
+}
+.quote-card .quote-text {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  color: var(--color-ink-deep);
+  margin-bottom: var(--space-sm);
+  line-height: 1.6;
+}
+.quote-card .quote-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+}
+.quote-card .quote-speaker {
+  color: var(--color-vermillion);
+  font-weight: 600;
+}
+.quote-card .quote-context {
+  color: var(--color-stone);
+}

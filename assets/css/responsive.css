@@ -1,0 +1,142 @@
+/* ============================================
+   responsive.css - 响应式媒体查询
+   移动优先 (Mobile First)
+   ============================================ */
+
+/* === 默认: 移动端 (< 768px) === */
+
+/* 显示汉堡菜单，隐藏桌面导航 */
+.hamburger {
+  display: flex;
+}
+.main-nav {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--color-parchment);
+  flex-direction: column;
+  padding: var(--space-lg);
+  gap: var(--space-md);
+  transform: translateX(100%);
+  transition: transform var(--transition-normal);
+  z-index: var(--z-overlay);
+  overflow-y: auto;
+}
+.main-nav.open {
+  transform: translateX(0);
+}
+.nav-link {
+  padding: var(--space-md);
+  font-size: var(--text-base);
+  border-bottom: 1px solid var(--color-gold-light);
+  width: 100%;
+}
+.nav-link.active::after { display: none; }
+
+/* Hero 区精简 */
+.hero { padding: var(--space-2xl) var(--space-md); }
+.hero .hero-title { font-size: var(--text-3xl); }
+.hero-search { flex-direction: column; }
+
+/* 统计栏 */
+.stats-bar { grid-template-columns: repeat(3, 1fr); gap: var(--space-sm); }
+.stat-card { padding: var(--space-md); }
+.stat-card .stat-num { font-size: var(--text-2xl); }
+
+/* 分类卡片 */
+.cat-grid { grid-template-columns: repeat(2, 1fr); }
+
+/* 所有卡片网格统一为单列 */
+.char-grid, .artifact-grid, .chapter-grid, .quote-grid, .loc-grid,
+.route-grid {
+  grid-template-columns: 1fr;
+}
+
+/* 详情页单栏 */
+.detail-body { grid-template-columns: 1fr; }
+.detail-sidebar { position: static; }
+
+/* 图谱高度 */
+.graph-block #relationGraph { height: 350px !important; }
+
+/* 章节导航 */
+.chapter-nav-bar { flex-direction: column; gap: var(--space-sm); }
+.nav-prev, .nav-next { margin-left: 0; text-align: center; }
+
+/* Footer */
+.footer-inner { grid-template-columns: 1fr; gap: var(--space-lg); }
+.footer-bottom { flex-direction: column; gap: var(--space-sm); text-align: center; }
+
+/* 搜索页 */
+.search-input-wrapper { flex-direction: column; }
+.search-filters { justify-content: center; }
+
+/* 表格溢出 */
+table, .ability-table { display: block; overflow-x: auto; white-space: nowrap; }
+
+/* === 平板竖屏 (>= 640px) === */
+@media (min-width: 640px) {
+  .hero .hero-title { font-size: var(--text-4xl); }
+  .stats-bar { grid-template-columns: repeat(5, 1fr); }
+  .cat-grid { grid-template-columns: repeat(3, 1fr); }
+  .char-grid, .artifact-grid, .chapter-grid, .quote-grid, .loc-grid,
+  .route-grid { grid-template-columns: repeat(2, 1fr); }
+  .grid-2, .grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .hero-search { flex-direction: row; }
+}
+
+/* === 平板横屏 (>= 768px) === */
+@media (min-width: 768px) {
+  /* 导航栏展开 */
+  .hamburger { display: none; }
+  .main-nav {
+    position: static;
+    flex-direction: row;
+    transform: none;
+    padding: 0;
+    gap: var(--space-lg);
+    overflow: visible;
+  }
+  .nav-link {
+    padding: var(--space-xs) var(--space-sm);
+    border-bottom: none;
+    font-size: var(--text-sm);
+    width: auto;
+  }
+  .nav-link.active::after { display: block; }
+
+  .hero { padding: var(--space-3xl) var(--space-lg); }
+  .cat-grid { grid-template-columns: repeat(4, 1fr); }
+  .grid-3 { grid-template-columns: repeat(3, 1fr); }
+  .char-grid, .artifact-grid, .chapter-grid, .quote-grid, .loc-grid,
+  .route-grid { grid-template-columns: repeat(3, 1fr); }
+  .footer-inner { grid-template-columns: 2fr 1fr 1fr; }
+  .chapter-nav-bar { flex-direction: row; }
+}
+
+/* === 小型桌面 (>= 1024px) === */
+@media (min-width: 1024px) {
+  .hero .hero-title { font-size: var(--text-5xl); }
+  .cat-grid { grid-template-columns: repeat(5, 1fr); }
+  .char-grid, .artifact-grid, .chapter-grid, .quote-grid, .loc-grid,
+  .route-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+  .grid-4 { grid-template-columns: repeat(4, 1fr); }
+  .detail-body { grid-template-columns: 1fr 300px; }
+  .graph-block #relationGraph { height: 500px !important; }
+}
+
+/* === 大型桌面 (>= 1280px) === */
+@media (min-width: 1280px) {
+  .grid-5 { grid-template-columns: repeat(5, 1fr); }
+}
+
+/* === 打印样式 === */
+@media print {
+  .site-header, .site-footer, .hamburger, .search-box, .filter-bar, .breadcrumb, .btn,
+  .hero-search, .chapter-nav-bar, .filter-tag { display: none !important; }
+  body { background: white; color: black; }
+  .char-card, .chapter-card, .artifact-card, .quote-card, .loc-card,
+  .detail-summary { border: 1px solid #ccc; box-shadow: none; }
+}

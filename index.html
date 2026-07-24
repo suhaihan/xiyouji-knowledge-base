@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#8B4513">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="西游记知识库">
+  <meta name="format-detection" content="telephone=no">
+  <title>西游记知识库 - Journey to the West Knowledge Base</title>
+  <meta name="description" content="全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询">
+  <meta name="keywords" content="西游记,孙悟空,唐僧,猪八戒,沙僧,取经,古典名著,吴承恩,人物百科,章节导读,地理路线,法宝图鉴,经典台词">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="西游记知识库 - Journey to the West Knowledge Base">
+  <meta property="og:description" content="全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询">
+  <meta property="og:site_name" content="西游记知识库">
+  <meta property="og:locale" content="zh_CN">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="西游记知识库 - Journey to the West Knowledge Base">
+  <meta name="twitter:description" content="全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询">
+  <link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/images/favicon.svg">
+  <link rel="stylesheet" href="./assets/css/variables.css">
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/base.css">
+  <link rel="stylesheet" href="./assets/css/components.css">
+  <link rel="stylesheet" href="./assets/css/layout.css">
+  <link rel="stylesheet" href="./assets/css/responsive.css">
+  <link rel="stylesheet" href="./assets/css/overrides.css">
+  <link rel="stylesheet" href="./assets/css/home.css">
+  
+</head>
+<body>
+  <header class="site-header" id="siteHeader">
+    <div class="header-inner">
+      <a href="./index.html" class="logo">
+        <img src="./assets/images/logo.svg" alt="西游记知识库" width="32" height="32">
+        <span class="logo-text">西游记知识库</span>
+      </a>
+      <nav class="main-nav" id="mainNav">
+      <a href="./index.html" class="nav-link active"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 3l9 8h-3v9h-5v-6h-2v6H6v-9H3z"/></svg><span>首页</span></a>
+      <a href="./characters/index.html" class="nav-link"><span>人物</span></a>
+      <a href="./chapters/index.html" class="nav-link"><span>章节</span></a>
+      <a href="./locations/index.html" class="nav-link"><span>地点</span></a>
+      <a href="./artifacts/index.html" class="nav-link"><span>法宝</span></a>
+      <a href="./quotes/index.html" class="nav-link"><span>台词</span></a>
+      <a href="./search.html" class="nav-link"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg><span>搜索</span></a>
+      </nav>
+      <button class="hamburger" id="hamburger" aria-label="菜单">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+  <main class="main-content">
+    
+    <section class="hero">
+    <div class="hero-inner">
+      <h1 class="hero-title">西游记知识库</h1>
+      <p class="hero-subtitle">全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询</p>
+      <div class="hero-search">
+        <input type="text" id="heroSearchInput" placeholder="搜索人物、章节、法宝..." autocomplete="off">
+        <button id="heroSearchBtn" class="btn-primary">搜索</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats-bar">
+    <a href="./characters/index.html" class="stat-card">
+      <div class="stat-num">100</div>
+      <div class="stat-label">人物</div>
+    </a>
+      <a href="./chapters/index.html" class="stat-card">
+      <div class="stat-num">100</div>
+      <div class="stat-label">章节</div>
+    </a>
+      <a href="./locations/index.html" class="stat-card">
+      <div class="stat-num">50</div>
+      <div class="stat-label">地点</div>
+    </a>
+      <a href="./artifacts/index.html" class="stat-card">
+      <div class="stat-num">50</div>
+      <div class="stat-label">法宝</div>
+    </a>
+      <a href="./quotes/index.html" class="stat-card">
+      <div class="stat-num">50</div>
+      <div class="stat-label">台词</div>
+    </a>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>内容分类</span></h2>
+    <div class="cat-grid">
+      <a href="./characters/index.html" class="cat-card">
+      <div class="cat-icon"><img src="./assets/images/icons/character.svg" alt="人物" width="40" height="40"></div>
+      <div class="cat-info">
+        <h3>人物</h3>
+        <p>取经师徒及各路神仙妖魔</p>
+      </div>
+    </a>
+      <a href="./chapters/index.html" class="cat-card">
+      <div class="cat-icon"><img src="./assets/images/icons/chapter.svg" alt="章节" width="40" height="40"></div>
+      <div class="cat-info">
+        <h3>章节</h3>
+        <p>一百回完整目录与内容摘要</p>
+      </div>
+    </a>
+      <a href="./locations/index.html" class="cat-card">
+      <div class="cat-icon"><img src="./assets/images/icons/location.svg" alt="地点" width="40" height="40"></div>
+      <div class="cat-info">
+        <h3>地点</h3>
+        <p>取经路线与重要地点</p>
+      </div>
+    </a>
+      <a href="./artifacts/index.html" class="cat-card">
+      <div class="cat-icon"><img src="./assets/images/icons/artifact.svg" alt="法宝" width="40" height="40"></div>
+      <div class="cat-info">
+        <h3>法宝</h3>
+        <p>神兵利器与法宝图鉴</p>
+      </div>
+    </a>
+      <a href="./quotes/index.html" class="cat-card">
+      <div class="cat-icon"><img src="./assets/images/icons/quote.svg" alt="台词" width="40" height="40"></div>
+      <div class="cat-info">
+        <h3>台词</h3>
+        <p>经典台词与名场面</p>
+      </div>
+    </a>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>热门人物</span></h2>
+    <div class="char-grid">
+      <a href="./characters/sun-wukong.html" class="char-card">
+      <div class="char-badge main-character">取经师徒</div>
+      <h4>孙悟空</h4>
+      <p class="char-type">妖仙</p>
+      <p class="char-summary">花果山灵明石猴，大闹天宫后被佛祖压于五行山下，后随唐僧西天取经，一路降妖伏魔，终成斗战胜佛。...</p>
+      <div class="char-ref">被引用 167 次</div>
+    </a>
+      <a href="./characters/tang-seng.html" class="char-card">
+      <div class="char-badge main-character">取经师徒</div>
+      <h4>唐僧</h4>
+      <p class="char-type">高僧</p>
+      <p class="char-summary">前世为如来弟子金蝉子，转世为大唐高僧玄奘，奉旨西行取经，历经八十一难，终成旃檀功德佛。...</p>
+      <div class="char-ref">被引用 94 次</div>
+    </a>
+      <a href="./characters/zhu-bajie.html" class="char-card">
+      <div class="char-badge main-character">取经师徒</div>
+      <h4>猪八戒</h4>
+      <p class="char-type">妖仙</p>
+      <p class="char-summary">原天蓬元帅因罪贬下凡间，错投猪胎，后随唐僧取经，贪吃好色但亦忠勇，终成净坛使者。...</p>
+      <div class="char-ref">被引用 45 次</div>
+    </a>
+      <a href="./characters/sha-wujing.html" class="char-card">
+      <div class="char-badge main-character">取经师徒</div>
+      <h4>沙悟净</h4>
+      <p class="char-type">妖仙</p>
+      <p class="char-summary">原卷帘大将因罪贬下流沙河，经观音点化后随唐僧取经，忠厚勤恳，终成金身罗汉。...</p>
+      <div class="char-ref">被引用 35 次</div>
+    </a>
+      <a href="./characters/ru-lai-fozu.html" class="char-card">
+      <div class="char-badge buddha">佛门菩萨</div>
+      <h4>如来佛祖</h4>
+      <p class="char-type">佛</p>
+      <p class="char-summary">西天灵山佛祖，法力无边，以五行山镇压悟空，主持取经大局。...</p>
+      <div class="char-ref">被引用 28 次</div>
+    </a>
+      <a href="./characters/yu-huang-dadi.html" class="char-card">
+      <div class="char-badge immortal">天庭神仙</div>
+      <h4>玉皇大帝</h4>
+      <p class="char-type">天帝</p>
+      <p class="char-summary">三界至尊，统辖天庭万神，历经一千七百五十劫方登帝位，为天界最高统治者。...</p>
+      <div class="char-ref">被引用 25 次</div>
+    </a>
+      <a href="./characters/guanyin-pusa.html" class="char-card">
+      <div class="char-badge buddha">佛门菩萨</div>
+      <h4>观音菩萨</h4>
+      <p class="char-type">菩萨</p>
+      <p class="char-summary">大慈大悲菩萨，奉如来旨意寻找取经人，为取经团队的核心庇护者与指引者。...</p>
+      <div class="char-ref">被引用 18 次</div>
+    </a>
+      <a href="./characters/taishang-laojun.html" class="char-card">
+      <div class="char-badge immortal">天庭神仙</div>
+      <h4>太上老君</h4>
+      <p class="char-type">道教至尊</p>
+      <p class="char-summary">道教三清之一，炼丹铸器之祖，如意金箍棒与九齿钉耙皆出自其手。...</p>
+      <div class="char-ref">被引用 14 次</div>
+    </a>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>精选章节</span></h2>
+    <div class="chapter-grid">
+      <a href="./chapters/chapter-001.html" class="chapter-card">
+      <div class="chapter-num">第一回</div>
+      <h4>灵根育孕源流出</h4>
+      <p>盘古开天辟地，世界分为四大部洲。东胜神洲傲来国花果山山顶仙石孕育石猴。石猴出世目运金光惊动玉帝，后在水帘洞称王。...</p>
+    </a>
+      <a href="./chapters/chapter-007.html" class="chapter-card">
+      <div class="chapter-num">第七回</div>
+      <h4>八卦炉中逃大圣</h4>
+      <p>孙悟空被投入太上老君八卦炉炼四十九天，炼成火眼金睛。破炉而出大闹天宫无人能挡。如来佛祖以五行山镇压孙悟空五百年。...</p>
+    </a>
+      <a href="./chapters/chapter-014.html" class="chapter-card">
+      <div class="chapter-num">第十四回</div>
+      <h4>心猿归正</h4>
+      <p>唐僧在五行山揭去法帖救出孙悟空，拜为师父。途中杀六贼，唐僧责怪悟空离去。观音赐紧箍咒，悟空被哄戴上金箍后返回。...</p>
+    </a>
+      <a href="./chapters/chapter-027.html" class="chapter-card">
+      <div class="chapter-num">第二十七回</div>
+      <h4>尸魔三戏唐三藏</h4>
+      <p>孙悟空返回花果山。唐僧在黑松林被黄袍怪（奎木狼）擒获。黄袍怪掳走宝象国公主百花羞。...</p>
+    </a>
+      <a href="./chapters/chapter-059.html" class="chapter-card">
+      <div class="chapter-num">第五十九回</div>
+      <h4>唐三藏路阻火焰山</h4>
+      <p>孙悟空和猪八戒大闹碧波潭龙宫。二郎神助战降伏九头虫。取回佛宝舍利子。...</p>
+    </a>
+      <a href="./chapters/chapter-100.html" class="chapter-card">
+      <div class="chapter-num">第一百回</div>
+      <h4>径回东土</h4>
+      <p>师徒携真经返回东土大唐，唐太宗率百官迎接。师徒复归灵山各自受封：唐僧旃檀功德佛，孙悟空斗战胜佛，猪八戒净坛使者，沙悟净金...</p>
+    </a>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>取经路线</span></h2>
+    <div class="route-grid">
+      <a href="./locations/chang-an.html" class="route-card">
+      <span class="route-order">1</span>
+      <h4>长安城</h4>
+      <p class="route-desc">大唐国都，唐僧取经出发之地</p>
+    </a>
+      <a href="./locations/wu-xing-shan.html" class="route-card">
+      <span class="route-order">2</span>
+      <h4>五行山</h4>
+      <p class="route-desc">如来佛祖镇压孙悟空之山，取经路上悟空脱困之处</p>
+    </a>
+      <a href="./locations/shuang-cha-ling.html" class="route-card">
+      <span class="route-order">3</span>
+      <h4>双叉岭</h4>
+      <p class="route-desc">唐僧出长安后首遇妖魔之地，太白金星救难处</p>
+    </a>
+      <a href="./locations/yingchou-jian.html" class="route-card">
+      <span class="route-order">4</span>
+      <h4>鹰愁涧</h4>
+      <p class="route-desc">白龙马吞食唐僧坐骑之所，取经路上收白龙马之处</p>
+    </a>
+      <a href="./locations/hei-feng-shan.html" class="route-card">
+      <span class="route-order">5</span>
+      <h4>黑风山</h4>
+      <p class="route-desc">黑熊精所居之山，观音收黑熊精为守山大神处</p>
+    </a>
+      <a href="./locations/gao-lao-zhuang.html" class="route-card">
+      <span class="route-order">6</span>
+      <h4>高老庄</h4>
+      <p class="route-desc">猪八戒被收服之地，高太公家所在村庄</p>
+    </a>
+      <a href="./locations/huang-feng-ling.html" class="route-card">
+      <span class="route-order">7</span>
+      <h4>黄风岭</h4>
+      <p class="route-desc">黄风怪所居之岭，灵吉菩萨收妖处</p>
+    </a>
+      <a href="./locations/liu-sha-he.html" class="route-card">
+      <span class="route-order">8</span>
+      <h4>流沙河</h4>
+      <p class="route-desc">沙悟净被收服之地，八百流沙界险河</p>
+    </a>
+      <a href="./locations/wu-ji-guo.html" class="route-card">
+      <span class="route-order">9</span>
+      <h4>乌鸡国</h4>
+      <p class="route-desc">青狮精篡位之国，唐僧师徒救活国王处</p>
+    </a>
+      <a href="./locations/wan-shou-shan.html" class="route-card">
+      <span class="route-order">10</span>
+      <h4>万寿山五庄观</h4>
+      <p class="route-desc">镇元大仙道场，人参果树所在之地</p>
+    </a>
+      <a href="./locations/bao-xiang-guo.html" class="route-card">
+      <span class="route-order">11</span>
+      <h4>宝象国</h4>
+      <p class="route-desc">黄袍怪掳公主之国，唐僧变虎遇难处</p>
+    </a>
+      <a href="./locations/bai-hu-ling.html" class="route-card">
+      <span class="route-order">12</span>
+      <h4>白虎岭</h4>
+      <p class="route-desc">白骨精出没之地，三打白骨精故事发生处</p>
+    </a>
+      <a href="./locations/ping-ding-shan.html" class="route-card">
+      <span class="route-order">13</span>
+      <h4>平顶山</h4>
+      <p class="route-desc">金角银角二大王所居之山，智取五宝之处</p>
+    </a>
+      <a href="./locations/huo-yun-dong.html" class="route-card">
+      <span class="route-order">14</span>
+      <h4>火云洞</h4>
+      <p class="route-desc">红孩儿所居之洞府，号山火云洞</p>
+    </a>
+      <a href="./locations/shi-tuo-ling.html" class="route-card">
+      <span class="route-order">15</span>
+      <h4>狮驼岭</h4>
+      <p class="route-desc">三大魔王盘踞之岭，取经路上最险之关</p>
+    </a>
+      <a href="./locations/tong-tian-he.html" class="route-card">
+      <span class="route-order">16</span>
+      <h4>通天河</h4>
+      <p class="route-desc">灵感大王所居之河，八百里宽大河</p>
+    </a>
+      <a href="./locations/shi-tuo-guo.html" class="route-card">
+      <span class="route-order">17</span>
+      <h4>狮驼国</h4>
+      <p class="route-desc">大鹏吞灭全国百姓之妖国，取经路上唯一妖魔之国</p>
+    </a>
+      <a href="./locations/huo-yen-shan.html" class="route-card">
+      <span class="route-order">18</span>
+      <h4>火焰山</h4>
+      <p class="route-desc">八百里火焰山，悟空当年蹬下炉砖所成，须芭蕉扇才能熄灭</p>
+    </a>
+      <a href="./locations/cui-yun-shan.html" class="route-card">
+      <span class="route-order">19</span>
+      <h4>翠云山芭蕉洞</h4>
+      <p class="route-desc">铁扇公主所居洞府，芭蕉扇藏于此</p>
+    </a>
+      <a href="./locations/bi-bo-tan.html" class="route-card">
+      <span class="route-order">20</span>
+      <h4>碧波潭</h4>
+      <p class="route-desc">万圣龙王所居潭府，盗佛宝舍利之处</p>
+    </a>
+      <a href="./locations/che-chi-guo.html" class="route-card">
+      <span class="route-order">21</span>
+      <h4>车迟国</h4>
+      <p class="route-desc">虎鹿羊三妖为国师之国，悟空斗法胜三妖处</p>
+    </a>
+      <a href="./locations/xi-liang-nu-guo.html" class="route-card">
+      <span class="route-order">22</span>
+      <h4>西梁女国</h4>
+      <p class="route-desc">全国无男子之国，女王欲招唐僧为夫之地</p>
+    </a>
+      <a href="./locations/ji-lei-shan.html" class="route-card">
+      <span class="route-order">23</span>
+      <h4>积雷山</h4>
+      <p class="route-desc">玉面狐狸所居之山，牛魔王入赘之处</p>
+    </a>
+      <a href="./locations/xiao-lei-yin-si.html" class="route-card">
+      <span class="route-order">24</span>
+      <h4>小雷音寺</h4>
+      <p class="route-desc">黄眉大王假佛祖之寺，弥勒佛收妖之处</p>
+    </a>
+      <a href="./locations/zhu-jie-shan.html" class="route-card">
+      <span class="route-order">25</span>
+      <h4>竹节山</h4>
+      <p class="route-desc">九灵元圣所居之山，太乙天尊收妖处</p>
+    </a>
+      <a href="./locations/jin-dou-dong.html" class="route-card">
+      <span class="route-order">26</span>
+      <h4>金兜洞</h4>
+      <p class="route-desc">独角兕大王所居之洞，太上老君收青牛处</p>
+    </a>
+      <a href="./locations/pan-si-dong.html" class="route-card">
+      <span class="route-order">27</span>
+      <h4>盘丝洞</h4>
+      <p class="route-desc">七个蜘蛛精所居之洞，唐僧被掳之处</p>
+    </a>
+      <a href="./locations/bi-qiu-guo.html" class="route-card">
+      <span class="route-order">28</span>
+      <h4>比丘国</h4>
+      <p class="route-desc">白鹿精蛊惑国王欲杀小儿之国，寿星收妖处</p>
+    </a>
+      <a href="./locations/tian-zhu-guo.html" class="route-card">
+      <span class="route-order">29</span>
+      <h4>天竺国</h4>
+      <p class="route-desc">取经路上临近灵山之大国，玉兔假公主处</p>
+    </a>
+      <a href="./locations/jing-ji-ling.html" class="route-card">
+      <span class="route-order">30</span>
+      <h4>荆棘岭</h4>
+      <p class="route-desc">荆棘丛生之岭，木仙庵树精谈诗处</p>
+    </a>
+      <a href="./locations/qi-jue-shan.html" class="route-card">
+      <span class="route-order">31</span>
+      <h4>七绝山</h4>
+      <p class="route-desc">柿子烂臭难行之山，八戒拱路处</p>
+    </a>
+      <a href="./locations/xuan-ying-dong.html" class="route-card">
+      <span class="route-order">32</span>
+      <h4>玄英洞</h4>
+      <p class="route-desc">三犀牛精所居之洞，四木禽星收妖处</p>
+    </a>
+      <a href="./locations/jin-ping-fu.html" class="route-card">
+      <span class="route-order">33</span>
+      <h4>金平府</h4>
+      <p class="route-desc">三犀牛精假佛收油之府，元宵观灯处</p>
+    </a>
+      <a href="./locations/mie-fa-guo.html" class="route-card">
+      <span class="route-order">34</span>
+      <h4>灭法国</h4>
+      <p class="route-desc">国王发愿杀僧之国，悟空施法剃度国王处</p>
+    </a>
+      <a href="./locations/lei-yin-si.html" class="route-card">
+      <span class="route-order">35</span>
+      <h4>灵山雷音寺</h4>
+      <p class="route-desc">如来佛祖所居之西天圣地，取经终点</p>
+    </a>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>法宝图鉴</span></h2>
+    <div class="artifact-grid">
+      <a href="./artifacts/ruyi-jingu-bang.html" class="artifact-card">
+      <div class="art-badge">兵器</div>
+      <h4>如意金箍棒</h4>
+      <p class="art-type">兵器</p>
+      <p class="art-summary">孙悟空随身兵器，原为定海神珍铁，重一万三千五百斤</p>
+      <p class="art-owner">持有者: 孙悟空</p>
+    </a>
+      <a href="./artifacts/ba-jiao-shan.html" class="artifact-card">
+      <div class="art-badge">法宝</div>
+      <h4>芭蕉扇</h4>
+      <p class="art-type">法宝</p>
+      <p class="art-summary">铁扇公主所持法宝，一扇熄灭火焰山八百里火焰</p>
+      <p class="art-owner">持有者: 铁扇公主</p>
+    </a>
+      <a href="./artifacts/huo-jian-qiang.html" class="artifact-card">
+      <div class="art-badge">兵器</div>
+      <h4>火尖枪</h4>
+      <p class="art-type">兵器</p>
+      <p class="art-summary">哪吒三太子随身兵器，火尖枪</p>
+      <p class="art-owner">持有者: ne-zha</p>
+    </a>
+      <a href="./artifacts/san-jian-liang-ren-dao.html" class="artifact-card">
+      <div class="art-badge">兵器</div>
+      <h4>三尖两刃刀</h4>
+      <p class="art-type">兵器</p>
+      <p class="art-summary">二郎神杨戬随身兵器，三尖两刃神锋</p>
+      <p class="art-owner">持有者: 二郎神</p>
+    </a>
+      <a href="./artifacts/ding-feng-dan.html" class="artifact-card">
+      <div class="art-badge">法宝</div>
+      <h4>定风丹</h4>
+      <p class="art-type">法宝</p>
+      <p class="art-summary">灵吉菩萨所持法宝，能定住芭蕉扇之风</p>
+      <p class="art-owner">持有者: lingji-pusa</p>
+    </a>
+      <a href="./artifacts/jiu-chi-ding-pa.html" class="artifact-card">
+      <div class="art-badge">兵器</div>
+      <h4>九齿钉耙</h4>
+      <p class="art-type">兵器</p>
+      <p class="art-summary">猪八戒随身兵器，九齿铁耙，乃天宫镇阁之宝</p>
+      <p class="art-owner">持有者: 猪八戒</p>
+    </a>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title"><span>经典台词</span></h2>
+    <div class="quote-grid">
+      <a href="./quotes/quote-001.html" class="quote-card">
+      <blockquote>"俺老孙来也！"</blockquote>
+      <cite>—— 孙悟空</cite>
+    </a>
+      <a href="./quotes/quote-002.html" class="quote-card">
+      <blockquote>"皇帝轮流做，明年到我家"</blockquote>
+      <cite>—— 孙悟空</cite>
+    </a>
+      <a href="./quotes/quote-003.html" class="quote-card">
+      <blockquote>"齐天大圣到此一游"</blockquote>
+      <cite>—— 孙悟空</cite>
+    </a>
+      <a href="./quotes/quote-004.html" class="quote-card">
+      <blockquote>"贫僧从东土大唐而来，去往西天拜佛求经"</blockquote>
+      <cite>—— 唐僧</cite>
+    </a>
+      <a href="./quotes/quote-005.html" class="quote-card">
+      <blockquote>"悟空，休得无礼"</blockquote>
+      <cite>—— 唐僧</cite>
+    </a>
+      <a href="./quotes/quote-006.html" class="quote-card">
+      <blockquote>"善哉善哉"</blockquote>
+      <cite>—— 唐僧</cite>
+    </a>
+    </div>
+  </section>
+  </main>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <h4>西游记知识库</h4>
+        <p>全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询</p>
+      </div>
+      <div class="footer-col">
+        <h4>快速导航</h4>
+        <ul>
+          <li><a href="./characters/index.html">人物百科</a></li>
+          <li><a href="./chapters/index.html">章节回目</a></li>
+          <li><a href="./locations/index.html">地理路线</a></li>
+          <li><a href="./artifacts/index.html">法宝图鉴</a></li>
+          <li><a href="./quotes/index.html">经典台词</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>关于</h4>
+        <p>本站内容基于明代吴承恩著《西游记》原著，旨在以知识库形式系统整理人物、章节、地理、法宝等信息。</p>
+        <p><a href="./about.html">关于本站</a> · <a href="./search.html">全文搜索</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 西游记知识库 · 数据仅供学习研究使用</p>
+    </div>
+  </footer>
+  <script defer src="./assets/js/core.js"></script>
+  <script defer src="./assets/js/main.js"></script>
+  
+</body>
+</html>

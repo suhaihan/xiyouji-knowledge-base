@@ -1,0 +1,272 @@
+/* ============================================
+   home.css - 首页专属样式
+   ============================================ */
+
+/* === Hero 区 === */
+.hero {
+  position: relative;
+  text-align: center;
+  padding: var(--space-4xl) var(--space-lg);
+  margin-bottom: var(--space-3xl);
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(212, 165, 116, 0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero .hero-title {
+  font-family: var(--font-display);
+  font-size: var(--text-5xl);
+  font-weight: 700;
+  color: var(--color-ink-deep);
+  letter-spacing: 0.15em;
+  margin-bottom: var(--space-md);
+  position: relative;
+}
+.hero .hero-title .title-accent {
+  color: var(--color-vermillion);
+}
+.hero .hero-subtitle {
+  font-size: var(--text-lg);
+  color: var(--color-ink-black);
+  max-width: 600px;
+  margin: 0 auto var(--space-xl);
+  line-height: 1.8;
+}
+.hero .hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-2xl);
+  flex-wrap: wrap;
+  margin-top: var(--space-xl);
+}
+.hero .hero-stat {
+  text-align: center;
+}
+.hero .hero-stat .stat-number {
+  font-size: var(--text-4xl);
+}
+.hero .hero-meta {
+  margin-top: var(--space-xl);
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+}
+.hero .hero-meta strong {
+  color: var(--color-vermillion);
+}
+
+/* === 分类导航卡片 === */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: var(--space-md);
+  margin-bottom: var(--space-3xl);
+}
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-xl) var(--space-md);
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  transition: all var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+.category-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--color-vermillion);
+  transform: scaleX(0);
+  transition: transform var(--transition-normal);
+}
+.category-card:hover {
+  border-color: var(--color-gold);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+}
+.category-card:hover::before {
+  transform: scaleX(1);
+}
+.category-card .cat-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: var(--space-md);
+  color: var(--color-vermillion);
+}
+.category-card .cat-name {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-ink-deep);
+  margin-bottom: var(--space-xs);
+}
+.category-card .cat-count {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--color-vermillion);
+  font-family: var(--font-display);
+}
+.category-card .cat-desc {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+  margin-top: var(--space-xs);
+}
+
+/* === 功能入口卡片 === */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-lg);
+  margin-bottom: var(--space-3xl);
+}
+.feature-card {
+  padding: var(--space-xl);
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+.feature-card:hover {
+  border-color: var(--color-vermillion);
+  box-shadow: var(--shadow-vermillion);
+  transform: translateY(-2px);
+}
+.feature-card .feature-icon {
+  font-size: var(--text-3xl);
+  margin-bottom: var(--space-md);
+  color: var(--color-vermillion);
+}
+.feature-card .feature-title {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-ink-deep);
+  margin-bottom: var(--space-sm);
+}
+.feature-card .feature-desc {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+  line-height: 1.6;
+  margin-bottom: var(--space-md);
+}
+.feature-card .feature-link {
+  font-size: var(--text-sm);
+  color: var(--color-vermillion);
+  font-weight: 600;
+}
+
+/* === 热门排行网格 === */
+.hot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-md);
+}
+
+/* === 章节速览网格 === */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-md);
+}
+
+/* === 路线图 === */
+.route-overview {
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  margin-bottom: var(--space-3xl);
+}
+.route-overview .route-path {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.route-overview .route-stop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-sm);
+}
+.route-overview .route-stop .stop-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--color-vermillion);
+  border: 3px solid var(--color-parchment);
+  box-shadow: 0 0 0 2px var(--color-gold);
+}
+.route-overview .route-stop .stop-name {
+  font-size: var(--text-xs);
+  color: var(--color-ink-black);
+  white-space: nowrap;
+}
+.route-overview .route-arrow {
+  color: var(--color-gold);
+  font-size: var(--text-lg);
+}
+
+/* === 法宝排行 === */
+.artifact-rank {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-md);
+}
+.artifact-rank-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+}
+.artifact-rank-item:hover {
+  border-color: var(--color-gold);
+  transform: translateX(4px);
+}
+.artifact-rank-item .artifact-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--color-gold-light), var(--color-gold));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-lg);
+  flex-shrink: 0;
+}
+.artifact-rank-item .artifact-info {
+  flex: 1;
+  min-width: 0;
+}
+.artifact-rank-item .artifact-name {
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-ink-deep);
+  margin-bottom: 2px;
+}
+.artifact-rank-item .artifact-owner {
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+}

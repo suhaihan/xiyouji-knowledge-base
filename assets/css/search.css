@@ -1,0 +1,179 @@
+/* ============================================
+   search.css - 搜索页样式
+   ============================================ */
+
+.search-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: var(--space-2xl) var(--space-lg);
+}
+
+.search-hero {
+  text-align: center;
+  margin-bottom: var(--space-2xl);
+}
+.search-hero h1 {
+  font-size: var(--text-3xl);
+  margin-bottom: var(--space-md);
+}
+.search-hero p {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+}
+
+.search-input-wrapper {
+  position: relative;
+  margin-bottom: var(--space-lg);
+}
+.search-input-wrapper .search-input-box {
+  width: 100%;
+  padding: var(--space-md) var(--space-xl);
+  font-size: var(--text-lg);
+  border: 2px solid var(--color-gold-light);
+  border-radius: var(--radius-full);
+  background: var(--color-parchment);
+  transition: border-color var(--transition-normal);
+  padding-right: 60px;
+}
+.search-input-wrapper .search-input-box:focus {
+  border-color: var(--color-vermillion);
+  box-shadow: var(--shadow-vermillion);
+}
+.search-input-wrapper .search-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--color-vermillion);
+  color: var(--color-parchment);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+.search-input-wrapper .search-btn:hover {
+  background: var(--color-vermillion-dark);
+}
+
+.search-filters {
+  display: flex;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+  flex-wrap: wrap;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.search-results .results-count {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+  margin-bottom: var(--space-md);
+}
+.search-results .results-count strong {
+  color: var(--color-vermillion);
+}
+
+.search-result-card {
+  display: block;
+  padding: var(--space-lg);
+  background: var(--color-parchment);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-normal);
+}
+.search-result-card:hover {
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-1px);
+}
+.search-result-card .result-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  margin-bottom: var(--space-sm);
+}
+.search-result-card .result-type {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  background: var(--color-gold-light);
+  color: var(--color-ink-deep);
+}
+.search-result-card .result-title {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-ink-deep);
+}
+.search-result-card .result-aliases {
+  font-size: var(--text-sm);
+  color: var(--color-stone);
+  margin-bottom: var(--space-sm);
+}
+.search-result-card .result-summary {
+  font-size: var(--text-sm);
+  color: var(--color-ink-black);
+  line-height: 1.7;
+  margin-bottom: var(--space-sm);
+}
+.search-result-card .result-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  font-size: var(--text-xs);
+  color: var(--color-stone);
+}
+.search-result-card .result-meta .ref-count {
+  color: var(--color-vermillion);
+  font-weight: 600;
+}
+.search-result-card .result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  margin-top: var(--space-sm);
+}
+
+/* 搜索高亮 */
+.search-highlight {
+  background: var(--color-gold-light);
+  color: var(--color-vermillion);
+  padding: 0 2px;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+}
+
+/* 搜索加载状态 */
+.search-loading {
+  text-align: center;
+  padding: var(--space-3xl);
+  color: var(--color-stone);
+}
+
+/* 搜索无结果 */
+.search-empty {
+  text-align: center;
+  padding: var(--space-3xl) var(--space-lg);
+}
+.search-empty .empty-icon {
+  font-size: var(--text-4xl);
+  margin-bottom: var(--space-md);
+  color: var(--color-gold);
+}
+.search-empty h3 {
+  font-size: var(--text-xl);
+  margin-bottom: var(--space-sm);
+}
+.search-empty p {
+  color: var(--color-stone);
+  font-size: var(--text-sm);
+}

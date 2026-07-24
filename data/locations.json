@@ -1,0 +1,3158 @@
+[
+  {
+    "id": "huaguo-shan",
+    "name": "花果山",
+    "aliases": [
+      "花果山福地",
+      "十洲之祖脉",
+      "水帘洞洞天"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "东胜神洲",
+    "country": "傲来国",
+    "summary": "孙悟空的诞生之地与故乡，东胜神洲傲来国海上仙山",
+    "description": "花果山位于东胜神洲傲来国海中，乃十洲之祖脉、三岛之来龙。山顶有一块仙石，自开天辟地以来受天真地秀、日月精华，遂有灵通之意。内育仙胞，一日迸裂产一石卵，见风化作石猴。此山四面环水，山中有水帘洞，为猴群栖息之所。花果山风景秀丽，花果飘香，乃天下名山，是孙悟空出世、称王、后来又被天庭征讨之地。",
+    "first_appears": 1,
+    "appears_in": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      28
+    ],
+    "events": [
+      {
+        "chapter": 1,
+        "event": "石猴出世",
+        "description": "山顶仙石迸裂产石猴"
+      },
+      {
+        "chapter": 1,
+        "event": "探水帘洞",
+        "description": "石猴跃入瀑布发现水帘洞，被拥为王"
+      },
+      {
+        "chapter": 2,
+        "event": "悟空访道",
+        "description": "美猴王离花果山寻仙问道"
+      },
+      {
+        "chapter": 3,
+        "event": "龙宫取宝",
+        "description": "悟空往东海龙宫取如意金箍棒"
+      },
+      {
+        "chapter": 4,
+        "event": "天兵围剿",
+        "description": "天庭派兵围剿花果山"
+      },
+      {
+        "chapter": 7,
+        "event": "大闹天宫后归山",
+        "description": "悟空大闹天宫败后回花果山抗敌"
+      }
+    ],
+    "residents": [
+      "sun-wukong"
+    ],
+    "visitors": [
+      "tang-sanzang",
+      "guanyin",
+      "erlang-shen"
+    ],
+    "related_locations": [
+      {
+        "id": "donghai-longgong",
+        "relation": "邻近"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "孙悟空故乡",
+      "石猴出世"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ling-tai-fang-cun-shan",
+    "name": "灵台方寸山",
+    "aliases": [
+      "灵台方寸山斜月三星洞",
+      "斜月三星洞"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "菩提祖师修道之所，孙悟空学艺之地",
+    "description": "灵台方寸山位于西牛贺洲，山中有一洞府名斜月三星洞，乃菩提祖师修道传法之地。「灵台方寸」暗含「心」字，「斜月三星」亦指「心」字，寓修道在于修心之意。孙悟空漂洋过海寻访至此，拜菩提祖师为师，学得七十二般变化、筋斗云等神通。祖师门下弟子众多，分字辈为广、大、智、慧、真、如、性、海、颖、悟、圆、觉十二字，悟空排第十辈悟字。此山乃悟空得道根源所在。",
+    "first_appears": 1,
+    "appears_in": [
+      1,
+      2
+    ],
+    "events": [
+      {
+        "chapter": 1,
+        "event": "悟空拜师",
+        "description": "石猴寻至灵台方寸山拜菩提祖师为师"
+      },
+      {
+        "chapter": 2,
+        "event": "学得神通",
+        "description": "悟空学七十二变与筋斗云，后被祖师逐出"
+      }
+    ],
+    "residents": [
+      "puti-zushi"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "huaguo-shan",
+        "relation": "隔海相望"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "菩提祖师",
+      "悟空学艺"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "donghai-longgong",
+    "name": "东海龙宫",
+    "aliases": [
+      "东海龙王府",
+      "敖广龙宫"
+    ],
+    "category": "important-location",
+    "type": "龙宫",
+    "continent": "东胜神洲",
+    "country": null,
+    "summary": "东海龙王敖广的水下宫殿，孙悟空获取金箍棒之处",
+    "description": "东海龙宫为四海龙宫之首，龙王敖广所居。龙宫位于海底，殿宇辉煌，珍宝无数。孙悟空闯入龙宫索要兵器，先后试过大刀、九股叉等皆嫌轻，最终取得定海神珍铁——如意金箍棒。又强索藕丝步云履、锁子黄金甲、凤翅紫金冠一套披挂。龙王无奈，只得任其取去。此事后龙王兄弟联名上表天庭告状，引出天庭招安悟空之事。",
+    "first_appears": 3,
+    "appears_in": [
+      3,
+      4
+    ],
+    "events": [
+      {
+        "chapter": 3,
+        "event": "悟空取金箍棒",
+        "description": "孙悟空入龙宫取如意金箍棒及披挂"
+      },
+      {
+        "chapter": 3,
+        "event": "四龙告状",
+        "description": "四海龙王上天庭告悟空强取之状"
+      }
+    ],
+    "residents": [
+      "ao-guang"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "huaguo-shan",
+        "relation": "邻近"
+      },
+      {
+        "id": "tian-ting",
+        "relation": "上表天庭"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "龙宫",
+      "金箍棒出处",
+      "四海龙王"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tian-ting",
+    "name": "天庭",
+    "aliases": [
+      "天宫",
+      "上界",
+      "凌霄宝殿"
+    ],
+    "category": "important-location",
+    "type": "天宫",
+    "continent": null,
+    "country": null,
+    "summary": "三界最高权力中心，玉皇大帝所居之天宫",
+    "description": "天庭为三界之最高统治所在，玉皇大帝居于凌霄宝殿，统辖三界十方万灵。天庭有太白金星等文臣辅佐，托塔天王、哪吒等武将护卫，又有太上老君等仙圣居于上界。天宫层层叠叠，金碧辉煌，有南天门、通明殿、凌霄殿等重要建筑。孙悟空先后两次被招安上天：初为弼马温，后封齐天大圣。悟空大闹天宫时打败十万天兵，最终被如来佛祖镇压于五行山下。",
+    "first_appears": 1,
+    "appears_in": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      51,
+      52,
+      77,
+      98
+    ],
+    "events": [
+      {
+        "chapter": 3,
+        "event": "首次招安",
+        "description": "太白金星招悟空上天为弼马温"
+      },
+      {
+        "chapter": 4,
+        "event": "封齐天大圣",
+        "description": "悟空嫌弼马温小官反下天庭，再招安封齐天大圣"
+      },
+      {
+        "chapter": 5,
+        "event": "偷桃盗丹",
+        "description": "悟空偷蟠桃、盗仙丹、搅乱蟠桃大会"
+      },
+      {
+        "chapter": 6,
+        "event": "十万天兵围剿",
+        "description": "天庭遣十万天兵捉拿悟空"
+      },
+      {
+        "chapter": 7,
+        "event": "大闹天宫",
+        "description": "悟空打到凌霄殿外，如来出面镇压"
+      }
+    ],
+    "residents": [
+      "yu-huang-da-di",
+      "taishang-laojun",
+      "tota-tianwang"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "guanyin",
+      "ru-lai-fo-zu"
+    ],
+    "related_locations": [
+      {
+        "id": "wu-xing-shan",
+        "relation": "镇压之所"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "天宫",
+      "玉帝",
+      "大闹天宫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wu-xing-shan",
+    "name": "五行山",
+    "aliases": [
+      "两界山",
+      "五行山下"
+    ],
+    "category": "route-location",
+    "type": "山",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "如来佛祖镇压孙悟空之山，取经路上悟空脱困之处",
+    "description": "五行山乃如来佛祖以五指化作金、木、水、火、土五座联山，将孙悟空压于其下。唐太宗时此山改名两界山，意为东半属大唐所辖、西半属鞑靼地界。山上有如来贴的唵嘛呢叭咪吽六字真言封条，使悟空不得脱身。五百年后唐僧西行至此，揭去封条，悟空方得解脱，拜唐僧为师，踏上取经之路。此山为取经故事之重要起点。",
+    "first_appears": 7,
+    "appears_in": [
+      7,
+      8,
+      14
+    ],
+    "events": [
+      {
+        "chapter": 7,
+        "event": "如来镇压悟空",
+        "description": "如来以五指化五行山压住孙悟空"
+      },
+      {
+        "chapter": 7,
+        "event": "贴封条",
+        "description": "如来贴六字真言封条于山上"
+      },
+      {
+        "chapter": 14,
+        "event": "唐僧解救悟空",
+        "description": "唐僧揭封条救出悟空，收为徒弟"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "chang-an",
+        "relation": "取经出发地"
+      }
+    ],
+    "in_route": true,
+    "route_order": 1,
+    "tags": [
+      "山",
+      "悟空脱困",
+      "取经起点"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "chang-an",
+    "name": "长安城",
+    "aliases": [
+      "长安",
+      "大唐长安"
+    ],
+    "category": "important-location",
+    "type": "都城",
+    "continent": "南赡部洲",
+    "country": "大唐",
+    "summary": "大唐国都，唐僧取经出发之地",
+    "description": "长安为大唐国都，天子唐太宗李世民所居。城中有洪福寺，唐僧玄奘于此主持法会。观音菩萨化身卖袈裟锦襕者，与唐僧相遇于长安街头，引出西天取经之缘。唐太宗因泾河龙王之事魂游地府，还魂后举办水陆大会，玄奘被选为坛主。观音显化指点大乘真经在西天雷音寺，太宗遂命玄奘西行取经，赐号三藏。长安乃取经故事之起点与终点。",
+    "first_appears": 9,
+    "appears_in": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      100
+    ],
+    "events": [
+      {
+        "chapter": 9,
+        "event": "泾河龙王案",
+        "description": "泾河龙王与算卦先生袁守诚赌斗，违天条被斩"
+      },
+      {
+        "chapter": 10,
+        "event": "太宗游地府",
+        "description": "唐太宗魂游地府，还阳后办水陆大会"
+      },
+      {
+        "chapter": 12,
+        "event": "玄奘开法会",
+        "description": "玄奘主持水陆大会，观音显化指点取经"
+      },
+      {
+        "chapter": 12,
+        "event": "唐僧出发",
+        "description": "唐太宗送唐僧西行取经"
+      }
+    ],
+    "residents": [
+      "tang-taizong",
+      "tang-sanzang"
+    ],
+    "visitors": [
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "wu-xing-shan",
+        "relation": "西行方向"
+      }
+    ],
+    "in_route": true,
+    "route_order": 0,
+    "tags": [
+      "都城",
+      "大唐",
+      "取经起点"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yingchou-jian",
+    "name": "鹰愁涧",
+    "aliases": [
+      "鹰愁陡涧",
+      "愁涧"
+    ],
+    "category": "route-location",
+    "type": "涧",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "白龙马吞食唐僧坐骑之所，取经路上收白龙马之处",
+    "description": "鹰愁涧乃西行路上险峻涧水，涧深千丈，飞鹰亦愁渡过，故名鹰愁涧。小白龙因纵火烧了殿上明珠，被其父西海龙王敖闰告了不孝，悬挂待斩。观音救下令其于此涧等候取经人。唐僧与悟空行至鹰愁涧时，小白龙跃出吞食了唐僧的坐骑白马。悟空与白龙斗战，观音出面收服，将白龙化为白马作为唐僧坐骑，成为取经队伍的一员。",
+    "first_appears": 15,
+    "appears_in": [
+      15
+    ],
+    "events": [
+      {
+        "chapter": 15,
+        "event": "白龙吞马",
+        "description": "小白龙跃出涧中吞食唐僧坐骑白马"
+      },
+      {
+        "chapter": 15,
+        "event": "观音收白龙",
+        "description": "观音将白龙化为白马充当唐僧坐骑"
+      }
+    ],
+    "residents": [
+      "bai-long-ma"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "wu-xing-shan",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 2,
+    "tags": [
+      "涧",
+      "白龙马收服",
+      "取经路"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "gao-lao-zhuang",
+    "name": "高老庄",
+    "aliases": [
+      "高家庄",
+      "高太公庄"
+    ],
+    "category": "route-location",
+    "type": "村庄",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "猪八戒被收服之地，高太公家所在村庄",
+    "description": "高老庄为西行路上一个村庄，庄主高太公有女翠兰。猪八戒自天庭被贬下凡后投生猪胎，占居福陵山云栈洞。后变化人形至高老庄做工，招赘为高太公女婿。但酒后现出猪形，将翠兰锁于后院，令高太公忧愁不已。唐僧与悟空行至此处，悟空变化翠兰引八戒出来斗战，最终观音出面收八戒归入取经队伍，法名悟能。高老庄为收八戒之重要地点。",
+    "first_appears": 18,
+    "appears_in": [
+      18,
+      19
+    ],
+    "events": [
+      {
+        "chapter": 18,
+        "event": "悟空探高老庄",
+        "description": "悟空至高老庄探听猪妖之事"
+      },
+      {
+        "chapter": 18,
+        "event": "悟空变化擒八戒",
+        "description": "悟空变为翠兰引八戒现身"
+      },
+      {
+        "chapter": 19,
+        "event": "收服八戒",
+        "description": "观音出面收猪八戒归入取经队伍"
+      }
+    ],
+    "residents": [
+      "zhu-bajie"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "liu-sha-he",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 3,
+    "tags": [
+      "村庄",
+      "猪八戒收服",
+      "取经路"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "liu-sha-he",
+    "name": "流沙河",
+    "aliases": [
+      "流沙河弱水"
+    ],
+    "category": "route-location",
+    "type": "河",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "沙悟净被收服之地，八百流沙界险河",
+    "description": "流沙河乃八百流沙界，三千弱水深。鹅毛飘不起，芦花定底沉。河水如流沙般浑浊，凡物不可浮渡。沙悟净原为天庭卷帘大将，因蟠桃会上失手打碎玻璃盏被贬下凡，落于流沙河中为妖。唐僧师徒行至此河无法渡过，悟空多次与沙僧斗战不得收服。观音遣木叉前来，以法力降服沙僧，令其归入取经队伍，法名悟净。沙僧以九颗骷髅头结成法船渡唐僧过河。",
+    "first_appears": 22,
+    "appears_in": [
+      22
+    ],
+    "events": [
+      {
+        "chapter": 22,
+        "event": "沙僧阻路",
+        "description": "沙悟净于流沙河中阻截唐僧师徒"
+      },
+      {
+        "chapter": 22,
+        "event": "木叉收沙僧",
+        "description": "观音遣木叉收沙悟净归入取经队伍"
+      },
+      {
+        "chapter": 22,
+        "event": "骷髅渡河",
+        "description": "沙僧以九颗取经人骷髅结法船渡唐僧过河"
+      }
+    ],
+    "residents": [
+      "sha-wujing"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin",
+      "mu-cha"
+    ],
+    "related_locations": [
+      {
+        "id": "gao-lao-zhuang",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 4,
+    "tags": [
+      "河",
+      "沙悟净收服",
+      "取经路"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wan-shou-shan",
+    "name": "万寿山五庄观",
+    "aliases": [
+      "万寿山",
+      "五庄观"
+    ],
+    "category": "route-location",
+    "type": "仙山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "镇元大仙道场，人参果树所在之地",
+    "description": "万寿山五庄观为地仙之祖镇元大仙的道场，观中有一棵人参果树，乃天地灵根。此树三千年一开花，三千年一结果，再三千年方得成熟，一万年只结三十个果子。果形如婴孩，闻一闻活三百六十岁，吃一个活四万七千年。唐僧师徒行至五庄观，悟空偷打人参果，八戒贪吃引发争端。悟空怒推倒果树，镇元大仙擒拿师徒。后观音以净瓶甘露复活果树，镇元子与悟空结为兄弟。",
+    "first_appears": 24,
+    "appears_in": [
+      24,
+      25,
+      26
+    ],
+    "events": [
+      {
+        "chapter": 24,
+        "event": "偷打人参果",
+        "description": "悟空偷打人参果，八戒贪心吃果"
+      },
+      {
+        "chapter": 25,
+        "event": "推倒果树",
+        "description": "悟空怒推倒人参果树，镇元子擒拿师徒"
+      },
+      {
+        "chapter": 26,
+        "event": "观音救树",
+        "description": "观音以净瓶甘露复活人参果树，镇元子与悟空结为兄弟"
+      }
+    ],
+    "residents": [
+      "zhen-yuan-daxian"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "zhu-bajie",
+      "sha-wujing",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "bai-hu-ling",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 5,
+    "tags": [
+      "仙山",
+      "人参果",
+      "镇元大仙"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bai-hu-ling",
+    "name": "白虎岭",
+    "aliases": [
+      "白骨精所居之岭"
+    ],
+    "category": "route-location",
+    "type": "山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "白骨精出没之地，三打白骨精故事发生处",
+    "description": "白虎岭为西行路上险峻山岭，白骨精盘踞于此。白骨精乃一堆白骨修炼成精，善于变化，欲吃唐僧肉以求长生。她先后变化为年轻村姑、寻女老妇、找妻找女老翁三副面目迷惑唐僧。孙悟空火眼金睛识破妖怪本相，三次打死其变化之身。但唐僧肉眼凡胎不识妖怪，怒斥悟空滥杀无辜，念紧箍咒逐走悟空。此为取经路上师徒矛盾最剧烈的一次冲突。",
+    "first_appears": 27,
+    "appears_in": [
+      27,
+      28
+    ],
+    "events": [
+      {
+        "chapter": 27,
+        "event": "三打白骨精",
+        "description": "白骨精三变迷惑唐僧，悟空三次识破打死"
+      },
+      {
+        "chapter": 27,
+        "event": "唐僧逐悟空",
+        "description": "唐僧怒斥悟空杀生，念紧箍咒逐走悟空"
+      }
+    ],
+    "residents": [
+      "bai-gu-jing"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [
+      {
+        "id": "wan-shou-shan",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 6,
+    "tags": [
+      "山",
+      "白骨精",
+      "三打白骨精"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huo-yun-dong",
+    "name": "火云洞",
+    "aliases": [
+      "号山火云洞"
+    ],
+    "category": "route-location",
+    "type": "洞",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "红孩儿所居之洞府，号山火云洞",
+    "description": "火云洞位于号山，乃牛魔王之子红孩儿的洞府。红孩儿号圣婴大王，虽年幼却神通不小，擅使三昧真火。他在号山把山神土地搜刮一空，令三十名山神、三十名土地轮流当值听用。唐僧师徒行至号山，红孩儿变化为被吊小孩引唐僧上当，掳走唐僧欲食其肉。悟空斗红孩儿被三昧真火烧伤，后请观音出马。观音以金箍咒收服红孩儿，令其做了善财童子。",
+    "first_appears": 40,
+    "appears_in": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "events": [
+      {
+        "chapter": 40,
+        "event": "红孩儿掳唐僧",
+        "description": "红孩儿变化小孩骗唐僧，掳至火云洞"
+      },
+      {
+        "chapter": 41,
+        "event": "悟空斗红孩儿",
+        "description": "悟空与红孩儿斗战，被三昧真火烧伤"
+      },
+      {
+        "chapter": 42,
+        "event": "请观音收服",
+        "description": "悟空请观音收红孩儿"
+      },
+      {
+        "chapter": 42,
+        "event": "观音收善财",
+        "description": "观音以金箍咒收红孩儿为善财童子"
+      }
+    ],
+    "residents": [
+      "hong-hai-er"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "nan-hai-pu-tuo",
+        "relation": "观音道场"
+      }
+    ],
+    "in_route": true,
+    "route_order": 7,
+    "tags": [
+      "洞",
+      "红孩儿",
+      "三昧真火"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tong-tian-he",
+    "name": "通天河",
+    "aliases": [
+      "通天河八百里"
+    ],
+    "category": "route-location",
+    "type": "河",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "灵感大王所居之河，八百里宽大河",
+    "description": "通天河乃西行路上八百里宽大河，河中有一灵感庙，供奉灵感大王。灵感大王实为金鱼精，乃观音莲花池中金鱼逃出为妖。他每年要陈家庄献祭一对童男女，令百姓苦不堪言。唐僧师徒行至此河，悟空与八戒变化童男女替代献祭，斗战灵感大王。妖怪逃入水府，冰封河面引唐僧落水。悟空请观音以竹篮收金鱼，方得渡河。此河后又于第九十八回再现，唐僧乘无底船渡河脱凡胎。",
+    "first_appears": 47,
+    "appears_in": [
+      47,
+      48,
+      49,
+      98
+    ],
+    "events": [
+      {
+        "chapter": 47,
+        "event": "灵感大王索童",
+        "description": "灵感大王每年索陈家庄童男女献祭"
+      },
+      {
+        "chapter": 47,
+        "event": "悟空代祭",
+        "description": "悟空与八戒变化童男女替代献祭"
+      },
+      {
+        "chapter": 49,
+        "event": "观音收金鱼",
+        "description": "观音以竹篮收灵感大王归莲花池"
+      },
+      {
+        "chapter": 98,
+        "event": "无底船渡河",
+        "description": "唐僧乘无底船渡通天河脱凡胎"
+      }
+    ],
+    "residents": [
+      "lingshen-dawang"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "nan-hai-pu-tuo",
+        "relation": "金鱼出处"
+      }
+    ],
+    "in_route": true,
+    "route_order": 8,
+    "tags": [
+      "河",
+      "灵感大王",
+      "金鱼精"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huo-yen-shan",
+    "name": "火焰山",
+    "aliases": [
+      "火焰山八百里"
+    ],
+    "category": "route-location",
+    "type": "山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "八百里火焰山，悟空当年蹬下炉砖所成，须芭蕉扇才能熄灭",
+    "description": "火焰山乃八百里火焰，寸草不生，实为悟空当年大闹天宫时蹬倒太上老君八卦炉，几块炉砖落于此处化为火焰。此火非寻常之火，凡水浇之愈旺，唯有铁扇公主芭蕉扇一扇可熄。唐僧师徒行至此山无法通过，悟空往翠云山借芭蕉扇。铁扇公主因红孩儿之事恨悟空，拒不肯借。悟空几番斗智借扇，真假扇反复折腾。最终悟空得灵吉菩萨定风丹相助，再请天王合力围攻牛魔王，方借得真扇熄灭火焰山之火。",
+    "first_appears": 59,
+    "appears_in": [
+      59,
+      60,
+      61
+    ],
+    "events": [
+      {
+        "chapter": 59,
+        "event": "遇火焰山",
+        "description": "唐僧师徒遇火焰山无法通过"
+      },
+      {
+        "chapter": 59,
+        "event": "借芭蕉扇",
+        "description": "悟空往翠云山借芭蕉扇"
+      },
+      {
+        "chapter": 61,
+        "event": "灭火焰山",
+        "description": "悟空借得真扇熄灭火焰山之火"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-sanzang",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [
+      {
+        "id": "cui-yun-shan",
+        "relation": "芭蕉扇所在"
+      },
+      {
+        "id": "tian-ting",
+        "relation": "炉砖出处"
+      }
+    ],
+    "in_route": true,
+    "route_order": 9,
+    "tags": [
+      "山",
+      "火焰山",
+      "芭蕉扇"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "cui-yun-shan",
+    "name": "翠云山芭蕉洞",
+    "aliases": [
+      "翠云山",
+      "芭蕉洞"
+    ],
+    "category": "route-location",
+    "type": "洞",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "铁扇公主所居洞府，芭蕉扇藏于此",
+    "description": "翠云山芭蕉洞为铁扇公主罗刹女的洞府。铁扇公主为牛魔王之妻、红孩儿之母，拥有芭蕉扇一把，可扇熄火焰山八百里大火。因悟空请观音收红孩儿为善财童子，铁扇公主恨悟空入骨，初次借扇时以扇将悟空扇至五万余里外。悟空得灵吉菩萨定风丹后再来借扇，铁扇公主力拒。悟空变化为牛魔王骗得假扇，后牛魔王与悟空大战，最终众神合力围降牛魔王，铁扇公主交出真扇。",
+    "first_appears": 59,
+    "appears_in": [
+      59,
+      60,
+      61
+    ],
+    "events": [
+      {
+        "chapter": 59,
+        "event": "铁扇拒借扇",
+        "description": "铁扇公主因红孩儿之事拒借芭蕉扇"
+      },
+      {
+        "chapter": 59,
+        "event": "悟空被扇飞",
+        "description": "铁扇公主一扇将悟空扇至五万余里外"
+      },
+      {
+        "chapter": 60,
+        "event": "悟空骗假扇",
+        "description": "悟空变化牛魔王骗得芭蕉扇，却为假扇"
+      },
+      {
+        "chapter": 61,
+        "event": "得真扇",
+        "description": "众神合力围降牛魔王，铁扇公主交出真扇"
+      }
+    ],
+    "residents": [
+      "tie-shan-gongzhu",
+      "niu-mowang"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "huo-yen-shan",
+        "relation": "芭蕉扇灭火焰山"
+      },
+      {
+        "id": "huo-yun-dong",
+        "relation": "红孩儿洞府"
+      }
+    ],
+    "in_route": true,
+    "route_order": 9,
+    "tags": [
+      "洞",
+      "芭蕉扇",
+      "铁扇公主"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "lei-yin-si",
+    "name": "灵山雷音寺",
+    "aliases": [
+      "灵山",
+      "大雷音寺",
+      "西天雷音寺"
+    ],
+    "category": "important-location",
+    "type": "佛寺",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "如来佛祖所居之西天圣地，取经终点",
+    "description": "灵山大雷音寺为如来佛祖释迦牟尼所居之圣地，取经队伍万里跋涉之终点。灵山高峻，上有佛殿层层，金碧庄严。唐僧师徒历经九九八十一难方抵灵山，但阿傩、伽叶二尊者索要人事，唐僧未备，先得无字真经。后燃灯古佛点化白雄尊者提醒，师徒发现为无字经本，折回索经。唐僧以紫金钵盂为人事方得有字真经。如来开阐三十五部真经，唐僧师徒各封佛果，功成返大唐。",
+    "first_appears": 8,
+    "appears_in": [
+      8,
+      77,
+      98,
+      99,
+      100
+    ],
+    "events": [
+      {
+        "chapter": 8,
+        "event": "如来设经",
+        "description": "如来佛祖于雷音寺阐大乘真经"
+      },
+      {
+        "chapter": 98,
+        "event": "抵灵山",
+        "description": "唐僧师徒历经八十一难抵达灵山"
+      },
+      {
+        "chapter": 98,
+        "event": "无字真经",
+        "description": "阿傩伽叶索人事未给，先传无字真经"
+      },
+      {
+        "chapter": 99,
+        "event": "得有字真经",
+        "description": "唐僧以紫金钵盂为人事得有字真经"
+      },
+      {
+        "chapter": 100,
+        "event": "封佛果",
+        "description": "如来封唐僧旃檀功德佛、悟空斗战胜佛"
+      }
+    ],
+    "residents": [
+      "ru-lai-fo-zu"
+    ],
+    "visitors": [
+      "tang-sanzang",
+      "sun-wukong",
+      "zhu-bajie",
+      "sha-wujing",
+      "guanyin"
+    ],
+    "related_locations": [
+      {
+        "id": "chang-an",
+        "relation": "取经起点终点"
+      }
+    ],
+    "in_route": true,
+    "route_order": 99,
+    "tags": [
+      "佛寺",
+      "如来佛祖",
+      "取经终点"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "nan-hai-pu-tuo",
+    "name": "南海普陀落伽山",
+    "aliases": [
+      "普陀山",
+      "南海落伽山",
+      "普陀落伽山"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "观音菩萨道场，取经途中多次求助之所",
+    "description": "南海普陀落伽山为观音菩萨之道场所在。山中紫竹林、潮音洞为菩萨居处，善财童子与龙女侍于左右。观音菩萨于取经途中多次出面相助：收白龙马、收沙僧、赐紧箍、收红孩儿、收灵感大王等。落伽山前有通天河相隔，后有紫竹林围绕，潮音洞中菩萨说法度人。悟空多次至此求援，观音总是及时出手，为取经队伍最重要的援助者。此山为取经故事中菩萨显化的核心地点。",
+    "first_appears": 8,
+    "appears_in": [
+      8,
+      15,
+      17,
+      22,
+      26,
+      42,
+      49,
+      57
+    ],
+    "events": [
+      {
+        "chapter": 8,
+        "event": "观音寻取经人",
+        "description": "观音奉如来旨意往东土寻取经人"
+      },
+      {
+        "chapter": 42,
+        "event": "收红孩儿",
+        "description": "观音至火云洞收红孩儿为善财童子"
+      },
+      {
+        "chapter": 49,
+        "event": "收灵感大王",
+        "description": "观音至通天河收金鱼精灵感大王"
+      }
+    ],
+    "residents": [
+      "guanyin",
+      "hong-hai-er",
+      "long-nu"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "tong-tian-he",
+        "relation": "金鱼出处"
+      },
+      {
+        "id": "huo-yun-dong",
+        "relation": "红孩儿出处"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "观音道场",
+      "菩萨显化"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "daci-en-si",
+    "name": "大慈恩寺",
+    "aliases": [
+      "慈恩寺",
+      "雁塔寺",
+      "大雁塔"
+    ],
+    "category": "important-location",
+    "type": "佛寺",
+    "continent": "南赡部洲",
+    "country": "大唐",
+    "summary": "唐僧译经与供奉真经之所，取经功德圆满之地",
+    "description": "大慈恩寺为长安城中著名佛寺，唐僧取经归来后于此译经传法。寺中有雁塔一座，为供奉佛经之所。唐僧历经八十一难取回三十五部真经共计五千零四十八卷，于大慈恩寺中开译弘扬。太宗亲撰《大唐三藏圣教序》以纪其事，高宗亦撰序记。此寺为取经功德圆满之终点象征，真经由此传布天下，普度众生。唐僧师徒功德既成，各自归位：唐僧旃檀功德佛、悟空斗战胜佛、八戒净坛使者、沙僧金身罗汉。",
+    "first_appears": 100,
+    "appears_in": [
+      100
+    ],
+    "events": [
+      {
+        "chapter": 100,
+        "event": "供奉真经",
+        "description": "唐僧取回真经供奉于大慈恩寺雁塔"
+      },
+      {
+        "chapter": 100,
+        "event": "译经传法",
+        "description": "唐僧于大慈恩寺译经传布天下"
+      },
+      {
+        "chapter": 100,
+        "event": "功德圆满",
+        "description": "取经功德圆满，师徒各自封佛果归位"
+      }
+    ],
+    "residents": [
+      "tang-sanzang"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "zhu-bajie",
+      "sha-wujing",
+      "bai-long-ma"
+    ],
+    "related_locations": [
+      {
+        "id": "chang-an",
+        "relation": "同在长安"
+      },
+      {
+        "id": "lei-yin-si",
+        "relation": "真经出处"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "佛寺",
+      "译经",
+      "功德圆满"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shuang-cha-ling",
+    "name": "双叉岭",
+    "aliases": [
+      "双叉岭山"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "大唐",
+    "country": "大唐",
+    "summary": "唐僧出长安后首遇妖魔之地，太白金星救难处",
+    "description": "双叉岭乃唐僧出长安西行后所经之险岭，为取经路上第一难。岭上有寅将军（虎精）、熊山君、特处士三妖，将唐僧及从者擒入妖洞，从人被食。太白金星奉观音之命前来解救，化作老叟喝退妖怪，救出唐僧。唐僧脱难后遇猎户刘伯钦，伯钦护送唐僧过双叉岭至两界山，与被压五行山下之孙悟空相遇。此岭为唐僧初出国门、独自历险之始。",
+    "first_appears": 13,
+    "appears_in": [
+      13
+    ],
+    "events": [
+      {
+        "chapter": 13,
+        "event": "三妖擒唐僧",
+        "description": "寅将军、熊山君、特处士擒唐僧及从人于妖洞"
+      },
+      {
+        "chapter": 13,
+        "event": "太白金星救难",
+        "description": "太白金星化作老叟喝退妖怪救出唐僧"
+      },
+      {
+        "chapter": 13,
+        "event": "刘伯钦护送",
+        "description": "猎户刘伯钦护送唐僧过岭至两界山"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "tang-seng",
+      "tai-bai-jinxing",
+      "liu-boqin"
+    ],
+    "related_locations": [
+      {
+        "id": "wu-xing-shan",
+        "relation": "取经路相邻"
+      },
+      {
+        "id": "chang-an",
+        "relation": "西行出发"
+      }
+    ],
+    "in_route": true,
+    "route_order": 1,
+    "tags": [
+      "山岭",
+      "取经首难",
+      "太白金星"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "hei-feng-shan",
+    "name": "黑风山",
+    "aliases": [
+      "黑风洞"
+    ],
+    "category": "route-location",
+    "type": "仙山",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "黑熊精所居之山，观音收黑熊精为守山大神处",
+    "description": "黑风山黑风洞乃黑熊精所居之洞府。黑熊精颇有道行，善于变化，与观音院金池长老交好。唐僧师徒借宿观音院，金池长老见袈裟起贪念，放火烧院欲据为己有。黑熊精趁火打劫偷走袈裟，欲办佛衣会炫耀。孙悟空与黑熊精多次斗战不分胜负，后请观音菩萨出面，观音化作凌虚子送丹药，以如来所赐金箍咒收服黑熊精，令其做了落伽山守山大神。袈裟方得归还。",
+    "first_appears": 16,
+    "appears_in": [
+      16,
+      17
+    ],
+    "events": [
+      {
+        "chapter": 16,
+        "event": "黑熊精偷袈裟",
+        "description": "黑熊精趁观音院失火偷走锦襕袈裟"
+      },
+      {
+        "chapter": 17,
+        "event": "悟空斗黑熊",
+        "description": "孙悟空与黑熊精斗战不分胜负"
+      },
+      {
+        "chapter": 17,
+        "event": "观音收黑熊",
+        "description": "观音化作凌虚子收黑熊精为守山大神"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "guanyin-pusa"
+    ],
+    "related_locations": [
+      {
+        "id": "nan-hai-pu-tuo",
+        "relation": "黑熊精归落伽山"
+      }
+    ],
+    "in_route": true,
+    "route_order": 2,
+    "tags": [
+      "仙山",
+      "黑熊精",
+      "锦襕袈裟"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "huang-feng-ling",
+    "name": "黄风岭",
+    "aliases": [
+      "黄风洞"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "黄风怪所居之岭，灵吉菩萨收妖处",
+    "description": "黄风岭黄风洞乃黄风怪所居洞府。黄风怪本是灵山脚下得道黄毛貂鼠，偷食了琉璃盏内清油，怕金刚拿问逃走为妖。他擅吹三昧神风，风力利害，吹得天地昏暗、日月无光。唐僧师徒行至黄风岭，黄风怪掳走唐僧。孙悟空与黄风怪斗战，被三昧神风吹伤双眼。后得太白金星指点，悟空往小须弥山请灵吉菩萨。灵吉菩萨以如来所赐定风丹与飞龙杖降服黄风怪，救出唐僧。",
+    "first_appears": 20,
+    "appears_in": [
+      20,
+      21
+    ],
+    "events": [
+      {
+        "chapter": 20,
+        "event": "黄风怪掳唐僧",
+        "description": "黄风怪摄走唐僧至黄风洞"
+      },
+      {
+        "chapter": 21,
+        "event": "悟空被神风吹伤",
+        "description": "孙悟空被三昧神风吹伤双眼"
+      },
+      {
+        "chapter": 21,
+        "event": "灵吉收黄风怪",
+        "description": "灵吉菩萨以飞龙杖降服黄风怪"
+      }
+    ],
+    "residents": [
+      "huang-feng-guai"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "ling-ji-pusa",
+      "tai-bai-jinxing"
+    ],
+    "related_locations": [
+      {
+        "id": "liu-sha-he",
+        "relation": "取经路相邻"
+      }
+    ],
+    "in_route": true,
+    "route_order": 3,
+    "tags": [
+      "山岭",
+      "黄风怪",
+      "三昧神风"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wu-ji-guo",
+    "name": "乌鸡国",
+    "aliases": [
+      "乌鸡国都城"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "乌鸡国",
+    "summary": "青狮精篡位之国，唐僧师徒救活国王处",
+    "description": "乌鸡国乃西行路上之国。三年前大旱，乌鸡国王斋僧祈雨，文殊菩萨化斋僧来度，国王不识反浸菩萨御水河中三日。如来罚青毛狮子推国王下井浸三年，以报三日之恨。青狮变作国王模样篡位三年，夜游神放国王魂魄诉冤于唐僧。悟空救活国王，揭穿妖王本相。文殊菩萨亲来收回青毛狮子。乌鸡国王感恩，举国信佛，斋僧无数。此国为取经路上冤案昭雪之重要故事。",
+    "first_appears": 36,
+    "appears_in": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "events": [
+      {
+        "chapter": 37,
+        "event": "鬼王诉冤",
+        "description": "乌鸡国王鬼魂夜入唐僧梦中诉冤"
+      },
+      {
+        "chapter": 38,
+        "event": "悟空救活国王",
+        "description": "悟空从八角琉璃井中取出国王尸身，求还魂丹复活"
+      },
+      {
+        "chapter": 39,
+        "event": "揭穿妖王",
+        "description": "悟空揭穿青狮假王本相，文殊菩萨收走青毛狮子"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "wen-shu-pusa"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 4,
+    "tags": [
+      "国家",
+      "青狮精",
+      "还魂复活"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bao-xiang-guo",
+    "name": "宝象国",
+    "aliases": [
+      "碗子山"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "宝象国",
+    "summary": "黄袍怪掳公主之国，唐僧变虎遇难处",
+    "description": "宝象国乃西行路上之国。碗子山波月洞黄袍怪乃天庭奎木狼下凡，掳走宝象国百花羞公主十三年。唐僧被黄袍怪擒入波月洞，百花羞公主暗中放走唐僧。唐僧至宝象国递书求救，国王遣八戒、沙僧往救公主。沙僧被擒，八戒逃走。黄袍怪追至宝象国，变作俊俏郎君，施法将唐僧变作猛虎，国王不识。白龙马化为宫女刺杀妖王未果受伤。八戒往花果山请回悟空，悟空斗败黄袍怪，上天庭请玉帝收奎木狼归位，救回唐僧与公主。",
+    "first_appears": 28,
+    "appears_in": [
+      28,
+      29,
+      30
+    ],
+    "events": [
+      {
+        "chapter": 28,
+        "event": "黄袍怪掳唐僧",
+        "description": "黄袍怪将唐僧擒入碗子山波月洞"
+      },
+      {
+        "chapter": 29,
+        "event": "唐僧变猛虎",
+        "description": "黄袍怪至宝象国施法将唐僧变作猛虎"
+      },
+      {
+        "chapter": 30,
+        "event": "悟空救唐僧",
+        "description": "八戒请回悟空，悟空斗黄袍怪请天庭收奎木狼"
+      }
+    ],
+    "residents": [
+      "huangpao-guai"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing",
+      "bai-long-ma"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 5,
+    "tags": [
+      "国家",
+      "黄袍怪",
+      "奎木狼下凡"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ping-ding-shan",
+    "name": "平顶山",
+    "aliases": [
+      "莲花洞"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "金角银角二大王所居之山，智取五宝之处",
+    "description": "平顶山莲花洞乃金角大王、银角大王所居洞府。二妖原为太上老君兜率宫看炉之童子，偷了紫金红葫芦、羊脂玉净瓶、七星剑、芭蕉扇、幌金绳五件宝贝下凡为妖。银角大王变化道士骗唐僧，移来三座大山压住悟空，掳走唐僧、八戒、沙僧。悟空脱身，智取葫芦净瓶，以假换真，收二妖入葫芦净瓶。太上老君下凡收回二童子及宝贝。此段为取经路上悟空智斗妖魔、巧妙运用宝贝之经典故事。",
+    "first_appears": 32,
+    "appears_in": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "events": [
+      {
+        "chapter": 32,
+        "event": "二妖阻路",
+        "description": "金角银角大王占平顶山莲花洞拦路"
+      },
+      {
+        "chapter": 33,
+        "event": "银角移山压悟空",
+        "description": "银角大王移须弥、峨眉、泰山三山压住悟空"
+      },
+      {
+        "chapter": 34,
+        "event": "悟空智取宝贝",
+        "description": "悟空变化老道智取紫金红葫芦与羊脂玉净瓶"
+      },
+      {
+        "chapter": 35,
+        "event": "老君收童子",
+        "description": "太上老君下凡收回金角银角二童子及宝贝"
+      }
+    ],
+    "residents": [
+      "jin-jiao-dawang",
+      "yin-jiao-dawang"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing",
+      "taishang-laojun"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "童子出处"
+      }
+    ],
+    "in_route": true,
+    "route_order": 6,
+    "tags": [
+      "山岭",
+      "金角银角",
+      "智取宝贝"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shi-tuo-ling",
+    "name": "狮驼岭",
+    "aliases": [
+      "狮驼洞"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "三大魔王盘踞之岭，取经路上最险之关",
+    "description": "狮驼岭狮驼洞乃取经路上最险恶之关隘，三大魔王盘踞于此。大魔王青毛狮子乃文殊菩萨坐骑，二魔王白象乃普贤菩萨坐骑，三魔王大鹏金翅雕为如来佛祖的舅父，神通最大。三妖统帅四万七八千小妖，设立各路哨卡。大鹏以阴阳二气瓶擒悟空，悟空在瓶中钻破瓶底脱身。唐僧师徒皆被擒，悟空脱身往灵山求救。如来佛祖亲临，以佛力收服大鹏，文殊、普贤二菩萨各收青狮白象。此为取经路上最大规模之战。",
+    "first_appears": 74,
+    "appears_in": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "events": [
+      {
+        "chapter": 74,
+        "event": "三魔阻路",
+        "description": "狮驼岭三大魔王统帅数万小妖拦路"
+      },
+      {
+        "chapter": 75,
+        "event": "大鹏擒悟空",
+        "description": "大鹏以阴阳二气瓶擒住孙悟空"
+      },
+      {
+        "chapter": 77,
+        "event": "如来收大鹏",
+        "description": "如来佛祖亲临收服大鹏金翅雕"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing",
+      "ru-lai-fozu",
+      "wen-shu-pusa",
+      "pu-xian-pusa"
+    ],
+    "related_locations": [
+      {
+        "id": "lei-yin-si",
+        "relation": "如来亲临收妖"
+      }
+    ],
+    "in_route": true,
+    "route_order": 7,
+    "tags": [
+      "山岭",
+      "三大魔王",
+      "大鹏金翅雕"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "shi-tuo-guo",
+    "name": "狮驼国",
+    "aliases": [
+      "狮驼城"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "狮驼国",
+    "summary": "大鹏吞灭全国百姓之妖国，取经路上唯一妖魔之国",
+    "description": "狮驼国本为凡人国度，大鹏金翅雕于五百多年前至此，一口吞尽满城君臣百姓，夺了江山，自立为王。城中自文武官僚至庶民百姓，尽是妖魔。此为取经路上唯一被妖怪完全占据之国。唐僧师徒行至狮驼城，三魔王设计将师徒尽数擒获，欲蒸食之。悟空脱身救出师父，往灵山求救。如来佛祖亲临，以佛力降伏大鹏，令其现出本相。狮驼国之妖患遂平。此国为取经路上妖氛最盛之地。",
+    "first_appears": 74,
+    "appears_in": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "events": [
+      {
+        "chapter": 74,
+        "event": "大鹏吞国",
+        "description": "大鹏金翅雕吞灭狮驼国满城百姓自立为王"
+      },
+      {
+        "chapter": 76,
+        "event": "师徒被擒",
+        "description": "三魔王将唐僧师徒尽数擒获欲蒸食之"
+      },
+      {
+        "chapter": 77,
+        "event": "如来降妖",
+        "description": "如来佛祖亲临降伏大鹏金翅雕"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "ru-lai-fozu"
+    ],
+    "related_locations": [
+      {
+        "id": "lei-yin-si",
+        "relation": "如来亲临"
+      }
+    ],
+    "in_route": true,
+    "route_order": 8,
+    "tags": [
+      "国家",
+      "大鹏吞国",
+      "妖魔之城"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bi-bo-tan",
+    "name": "碧波潭",
+    "aliases": [
+      "万圣龙宫"
+    ],
+    "category": "route-location",
+    "type": "水府",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "万圣龙王所居潭府，盗佛宝舍利之处",
+    "description": "碧波潭万圣龙宫乃万圣龙王所居之水府。万圣龙王之婿九头虫驸马神通广大，女婿与龙王合谋盗取祭赛国金光寺佛宝舍利子，又偷了王母娘娘九叶灵芝草。祭赛国因此夜不现霞光，国王疑僧人盗宝，苦害众僧。唐僧师徒行至祭赛国，悟空、八戒往碧波潭夺宝，与九头虫大战。恰逢二郎神领梅山六兄弟经过，合力围攻九头虫。九头虫被咬去一头逃走，万圣龙王被杀。师徒夺回佛宝，祭赛国重放光明。",
+    "first_appears": 62,
+    "appears_in": [
+      62,
+      63
+    ],
+    "events": [
+      {
+        "chapter": 62,
+        "event": "扫塔擒小妖",
+        "description": "悟空与唐僧扫金光寺塔，擒获小妖得知佛宝被盗"
+      },
+      {
+        "chapter": 63,
+        "event": "碧波潭夺宝",
+        "description": "悟空八戒与二郎神合力斗九头虫夺回佛宝"
+      },
+      {
+        "chapter": 63,
+        "event": "万圣龙王被杀",
+        "description": "八戒打进龙宫，万圣龙王及龙子被杀"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "erlang-shen"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 9,
+    "tags": [
+      "水府",
+      "万圣龙王",
+      "九头虫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "che-chi-guo",
+    "name": "车迟国",
+    "aliases": [
+      "车迟国都城"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "车迟国",
+    "summary": "虎鹿羊三妖为国师之国，悟空斗法胜三妖处",
+    "description": "车迟国乃西行路上之国。二十年前大旱，虎力大仙、鹿力大仙、羊力大仙三个妖道来此呼风唤雨，救了旱情，被封为国师。国王尊道灭僧，令二千余和尚做苦役，日夜受苦。唐僧师徒行至车迟国，悟空等戏弄三妖于三清观，后又与三妖斗法。先斗求雨，再斗坐禅、隔板猜物，最后斗砍头、剖腹、下油锅。三妖皆败，先后现出本相而死。国王大悟，赦免众僧，车迟国自此释道两安。",
+    "first_appears": 44,
+    "appears_in": [
+      44,
+      45,
+      46
+    ],
+    "events": [
+      {
+        "chapter": 44,
+        "event": "三妖灭僧",
+        "description": "虎鹿羊三妖道为车迟国国师，苦害和尚"
+      },
+      {
+        "chapter": 45,
+        "event": "悟空斗法求雨",
+        "description": "悟空与三妖斗求雨之术大胜"
+      },
+      {
+        "chapter": 46,
+        "event": "三妖身亡",
+        "description": "砍头剖腹下油锅三赌皆败，三妖现形而死"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 10,
+    "tags": [
+      "国家",
+      "虎鹿羊三妖",
+      "斗法"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xi-liang-nu-guo",
+    "name": "西梁女国",
+    "aliases": [
+      "女儿国"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "西梁女国",
+    "summary": "全国无男子之国，女王欲招唐僧为夫之地",
+    "description": "西梁女国乃西行路上之国，全国上下皆是女子，无有男子。国有子母河，饮其水便能成胎。唐僧与八戒误饮子母河水而怀孕，后取落胎泉之水方解。女王见唐僧相貌堂堂，欲招为夫，让位为王，自己做王后。唐僧为通关文牒假意应允，在徒弟接应下脱身西行。出城后又被毒敌山琵琶洞蝎子精掳去。蝎子精武艺高强，蜇伤悟空。后请昴日星官以本相降伏蝎子精。此国为取经路上唐僧最难之美色关。",
+    "first_appears": 53,
+    "appears_in": [
+      53,
+      54,
+      55
+    ],
+    "events": [
+      {
+        "chapter": 53,
+        "event": "子母河怀孕",
+        "description": "唐僧八戒饮子母河水怀孕，取落胎泉水方解"
+      },
+      {
+        "chapter": 54,
+        "event": "女王招亲",
+        "description": "西梁女国女王欲招唐僧为夫，唐僧假意应允脱身"
+      },
+      {
+        "chapter": 55,
+        "event": "蝎子精掳唐僧",
+        "description": "蝎子精掳走唐僧，昴日星官降伏蝎子精"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 11,
+    "tags": [
+      "国家",
+      "女儿国",
+      "子母河"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ji-lei-shan",
+    "name": "积雷山",
+    "aliases": [
+      "摩云洞"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "玉面狐狸所居之山，牛魔王入赘之处",
+    "description": "积雷山摩云洞乃玉面狐狸所居洞府。玉面狐狸为万岁狐王之女，狐王死后独守家业，因慕牛魔王神通，招牛魔王入赘为夫。牛魔王因此弃铁扇公主于翠云山，久居摩云洞。孙悟空为借芭蕉扇，寻至积雷山摩云洞，与牛魔王斗战。牛魔王大战悟空不分胜负，后赴碧波潭饮酒。悟空趁机盗走辟水金睛兽，变化牛魔王至翠云山骗得芭蕉扇。牛魔王发觉后变化八戒夺回扇子。此山为牛魔王入赘、悟空借扇之关键地点。",
+    "first_appears": 60,
+    "appears_in": [
+      60
+    ],
+    "events": [
+      {
+        "chapter": 60,
+        "event": "悟空寻牛魔王",
+        "description": "孙悟空至积雷山摩云洞寻牛魔王借扇"
+      },
+      {
+        "chapter": 60,
+        "event": "牛魔大战悟空",
+        "description": "牛魔王与孙悟空大战不分胜负"
+      },
+      {
+        "chapter": 60,
+        "event": "悟空盗金睛兽",
+        "description": "悟空趁牛魔王赴宴盗走辟水金睛兽"
+      }
+    ],
+    "residents": [
+      "niuwang-mo"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "cui-yun-shan",
+        "relation": "牛魔王妻所在"
+      },
+      {
+        "id": "huo-yen-shan",
+        "relation": "借扇灭火"
+      }
+    ],
+    "in_route": true,
+    "route_order": 12,
+    "tags": [
+      "山岭",
+      "摩云洞",
+      "牛魔王入赘"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xiao-lei-yin-si",
+    "name": "小雷音寺",
+    "aliases": [
+      "假雷音寺"
+    ],
+    "category": "route-location",
+    "type": "寺院",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "黄眉大王假佛祖之寺，弥勒佛收妖之处",
+    "description": "小雷音寺乃黄眉大王所设假佛寺，仿灵山大雷音寺而建，以假乱真。黄眉大王本为弥勒佛座下司磬的童子，趁弥勒赴元始会偷了金铙、后天人种袋二宝下界为妖。唐僧不辨真假，入寺拜佛，被黄眉大王以金铙罩住。悟空被困金铙内，亢金龙钻入铙中相救。悟空脱身后斗黄眉大王，诸神皆被人种袋收去。悟空先后请真武大帝、国师王菩萨相助，皆不能胜。最终弥勒佛亲自赶来，以西瓜田之计收服黄眉大王。",
+    "first_appears": 65,
+    "appears_in": [
+      65,
+      66
+    ],
+    "events": [
+      {
+        "chapter": 65,
+        "event": "唐僧拜假佛",
+        "description": "唐僧不辨真假入小雷音寺拜佛被擒"
+      },
+      {
+        "chapter": 65,
+        "event": "金铙困悟空",
+        "description": "黄眉大王以金铙罩住悟空，亢金龙相救"
+      },
+      {
+        "chapter": 66,
+        "event": "弥勒收黄眉",
+        "description": "弥勒佛以西瓜田之计收服黄眉大王"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing",
+      "mi-le-fo"
+    ],
+    "related_locations": [
+      {
+        "id": "lei-yin-si",
+        "relation": "仿建假雷音"
+      }
+    ],
+    "in_route": true,
+    "route_order": 13,
+    "tags": [
+      "寺院",
+      "黄眉大王",
+      "假佛祖"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "zhu-jie-shan",
+    "name": "竹节山",
+    "aliases": [
+      "九曲盘桓洞"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "九灵元圣所居之山，太乙天尊收妖处",
+    "description": "竹节山九曲盘桓洞乃九灵元圣所居洞府。九灵元圣本为太乙救苦天尊之坐骑九头狮子，趁狮奴饮醉逃下凡间，于竹节山为妖，收黄狮精等七个狮孙为徒。玉华州黄狮精盗悟空等兵器，悟空等杀黄狮精，九灵元圣为徒孙报仇，一口擒住唐僧师徒及玉华王父子。悟空脱身往东极妙岩宫请太乙救苦天尊。天尊亲至竹节山，念咒收服九灵元圣，令狮奴牵回。此妖为取经路上少有之神通广大而不害唐僧之妖。",
+    "first_appears": 89,
+    "appears_in": [
+      89,
+      90
+    ],
+    "events": [
+      {
+        "chapter": 89,
+        "event": "九灵擒师徒",
+        "description": "九灵元圣为徒孙报仇，一口擒住唐僧师徒"
+      },
+      {
+        "chapter": 90,
+        "event": "天尊收九灵",
+        "description": "太乙救苦天尊至竹节山念咒收服九灵元圣"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 14,
+    "tags": [
+      "山岭",
+      "九灵元圣",
+      "九头狮子"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-dou-dong",
+    "name": "金兜洞",
+    "aliases": [
+      "金兜山"
+    ],
+    "category": "route-location",
+    "type": "洞府",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "独角兕大王所居之洞，太上老君收青牛处",
+    "description": "金兜山金兜洞乃独角兕大王所居洞府。独角兕大王本为太上老君坐骑青牛，趁牛童瞌睡偷了金刚琢下凡为妖。金刚琢能套万物，悟空的金箍棒被套去，又先后套走哪吒、火德星君、水德星君、十八罗汉诸般兵器法宝。悟空请如来佛祖，佛祖知其来历却不明言，遣十八罗汉以金丹砂探虚实，亦被套去。罗汉暗示悟空请太上老君。太上老君亲至，以芭蕉扇扇走金刚琢，收服青牛。此段为取经路上悟空搬救兵最多之故事。",
+    "first_appears": 50,
+    "appears_in": [
+      50,
+      51,
+      52
+    ],
+    "events": [
+      {
+        "chapter": 50,
+        "event": "青牛阻路",
+        "description": "独角兕大王以金刚琢套走悟空金箍棒"
+      },
+      {
+        "chapter": 52,
+        "event": "诸神兵器被套",
+        "description": "哪吒火德水德罗汉诸般兵器皆被金刚琢套去"
+      },
+      {
+        "chapter": 52,
+        "event": "老君收青牛",
+        "description": "太上老君以芭蕉扇收服青牛"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing",
+      "nezha",
+      "taishang-laojun",
+      "ru-lai-fozu"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "青牛出处"
+      }
+    ],
+    "in_route": true,
+    "route_order": 15,
+    "tags": [
+      "洞府",
+      "独角兕",
+      "金刚琢"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "pan-si-dong",
+    "name": "盘丝洞",
+    "aliases": [
+      "濯垢泉"
+    ],
+    "category": "route-location",
+    "type": "洞府",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "七个蜘蛛精所居之洞，唐僧被掳之处",
+    "description": "盘丝洞乃七个蜘蛛精所居洞府。七妖为蜘蛛修炼成精，化作美女子。盘丝洞旁有濯垢泉，原为七仙女浴池，被蜘蛛精霸占。唐僧自去化斋，被蜘蛛精擒入盘丝洞，以蛛丝封门。悟空探明妖怪底细，见蜘蛛精在濯垢泉洗澡，化作老鹰叼走她们衣服。八戒下水斗蜘蛛精，反被蛛丝捆住。蜘蛛精后逃至黄花观投奔师兄蜈蚣精。蜈蚣精以百眼金光法术伤悟空双眼。后黎山老母指点，请毗蓝婆菩萨收服蜈蚣精。",
+    "first_appears": 72,
+    "appears_in": [
+      72,
+      73
+    ],
+    "events": [
+      {
+        "chapter": 72,
+        "event": "蜘蛛精掳唐僧",
+        "description": "七蜘蛛精擒唐僧于盘丝洞"
+      },
+      {
+        "chapter": 72,
+        "event": "悟空夺衣",
+        "description": "悟空化作老鹰叼走濯垢泉蜘蛛精衣服"
+      },
+      {
+        "chapter": 73,
+        "event": "蜈蚣精伤悟空",
+        "description": "蜘蛛精逃至黄花观，蜈蚣精以金光伤悟空双眼"
+      }
+    ],
+    "residents": [
+      "zhi-zhu-jing"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 16,
+    "tags": [
+      "洞府",
+      "蜘蛛精",
+      "濯垢泉"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "bi-qiu-guo",
+    "name": "比丘国",
+    "aliases": [
+      "小子城"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "比丘国",
+    "summary": "白鹿精蛊惑国王欲杀小儿之国，寿星收妖处",
+    "description": "比丘国又名小子城，乃西行路上之国。三年前一老道携一美貌幼女至比丘国，献女于国王，自封国丈。老道实为南极寿星坐骑白鹿所化，幼女为白面狐狸精。国王沉溺女色，形容消瘦，国丈进言以一千一百一十一个小儿心肝做药引，可延千年之寿。国王下令将小儿装入鹅笼，待日取用。唐僧师徒至此，悟空救下鹅笼小儿。次日国丈欲以唐僧心肝代之，悟空变化唐僧剖腹，掏出满盆心肝。白鹿精败逃，寿星下凡收回白鹿，悟空打杀狐狸精。",
+    "first_appears": 78,
+    "appears_in": [
+      78,
+      79
+    ],
+    "events": [
+      {
+        "chapter": 78,
+        "event": "鹅笼藏小儿",
+        "description": "比丘国国王受国丈蛊惑欲以小儿心肝做药引"
+      },
+      {
+        "chapter": 78,
+        "event": "悟空救小儿",
+        "description": "悟空施法救下城中鹅笼小儿"
+      },
+      {
+        "chapter": 79,
+        "event": "寿星收白鹿",
+        "description": "寿星下凡收回白鹿精，悟空打杀狐狸精"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 17,
+    "tags": [
+      "国家",
+      "白鹿精",
+      "鹅笼小儿"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "tian-zhu-guo",
+    "name": "天竺国",
+    "aliases": [
+      "天竺国都城",
+      "舍卫国"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "天竺国",
+    "summary": "取经路上临近灵山之大国，玉兔假公主处",
+    "description": "天竺国乃西行路上临近灵山之大邦，国势昌盛。真公主于二十年前被月宫捣药的玉兔精掳走，抛于荒野，玉兔假扮公主在宫中。唐僧师徒行至天竺国，恰逢公主抛绣球招亲，玉兔假公主欲配唐僧以采阳补阴。唐僧被接入宫中，悟空识破妖怪本相，与玉兔大战。玉兔逃至毛颖山，悟空追打。太阴星君降临，说明玉兔来历，收回月宫。真公主归位，国王举国斋僧。天竺国乃取经路上倒数第二国，过此即近灵山。",
+    "first_appears": 93,
+    "appears_in": [
+      93,
+      94,
+      95
+    ],
+    "events": [
+      {
+        "chapter": 93,
+        "event": "玉兔抛绣球",
+        "description": "玉兔假公主抛绣球招亲欲配唐僧"
+      },
+      {
+        "chapter": 95,
+        "event": "悟空识破妖怪",
+        "description": "悟空识破假公主本相，与玉兔大战"
+      },
+      {
+        "chapter": 95,
+        "event": "太阴收玉兔",
+        "description": "太阴星君降临收回月宫玉兔精"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [
+      {
+        "id": "lei-yin-si",
+        "relation": "邻近灵山"
+      }
+    ],
+    "in_route": true,
+    "route_order": 18,
+    "tags": [
+      "国家",
+      "玉兔精",
+      "假公主"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jing-ji-ling",
+    "name": "荆棘岭",
+    "aliases": [
+      "荆棘蓬"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "荆棘丛生之岭，木仙庵树精谈诗处",
+    "description": "荆棘岭乃西行路上荆棘丛生之险岭，古木参天，荆棘遍地，难于通行。岭上有木仙庵，松、柏、桧、竹、枫等树精（十八公、孤直公、凌空子、拂云叟、赤身鬼等）修炼成精。唐僧被树精摄至木仙庵，与众精谈诗论道、品茗对弈，颇为相得。杏仙慕唐僧才华，欲以婚姻相许，众精做媒说合。唐僧坚拒不从。悟空等寻至，树精现出本相。悟空以火打死众树精，荆棘岭遂平。此岭为取经路上少有之以文会友、美色之诱之故事。",
+    "first_appears": 64,
+    "appears_in": [
+      64
+    ],
+    "events": [
+      {
+        "chapter": 64,
+        "event": "树精摄唐僧",
+        "description": "荆棘岭木仙庵树精摄唐僧谈诗论道"
+      },
+      {
+        "chapter": 64,
+        "event": "杏仙求婚",
+        "description": "杏仙慕唐僧才欲许婚姻，唐僧坚拒不从"
+      },
+      {
+        "chapter": 64,
+        "event": "悟空除树精",
+        "description": "悟空等寻至，以火打死众树精"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 19,
+    "tags": [
+      "山岭",
+      "木仙庵",
+      "树精"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "qi-jue-shan",
+    "name": "七绝山",
+    "aliases": [
+      "稀柿衕"
+    ],
+    "category": "route-location",
+    "type": "山岭",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "柿子烂臭难行之山，八戒拱路处",
+    "description": "七绝山稀柿衕乃西行路上之险阻。山中遍植柿树，年年柿子熟透落地，积于山衕，烂成稀泥，臭气熏天，寸步难行，故名稀柿衕。山前驼罗庄李老者求唐僧师徒除妖，山中有一红鳞大蟒为害。悟空与八戒夜战大蟒，蟒精腹大如罗汉，被悟空钻入腹中破肚而死。除蟒后，稀柿衕仍阻路。八戒变化大猪，拱开烂柿开出一条道路，师徒方得过山。此段为八戒立功、显示本事之难得故事。",
+    "first_appears": 67,
+    "appears_in": [
+      67
+    ],
+    "events": [
+      {
+        "chapter": 67,
+        "event": "驼罗庄除蟒",
+        "description": "悟空与八戒夜战红鳞大蟒精"
+      },
+      {
+        "chapter": 67,
+        "event": "八戒拱路",
+        "description": "八戒变化大猪拱开稀柿衕烂柿开出道路"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 20,
+    "tags": [
+      "山岭",
+      "稀柿衕",
+      "八戒拱路"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "xuan-ying-dong",
+    "name": "玄英洞",
+    "aliases": [
+      "青龙山"
+    ],
+    "category": "route-location",
+    "type": "洞府",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "三犀牛精所居之洞，四木禽星收妖处",
+    "description": "玄英洞位于青龙山，乃辟寒大王、辟暑大王、辟尘大王三犀牛精所居洞府。三犀牛精久修成道，于金平府假扮佛祖，收酥合香油，每年元宵收一千五百斤。唐僧师徒行至金平府，观灯时唐僧被三犀牛精掳入玄英洞。悟空、八戒、沙僧与三犀牛大战，不得胜。悟空上天庭请四木禽星——角木蛟、斗木獬、奎木狼、井木犴——下凡降妖。三犀牛见四木禽星便逃，被追至西海，龙太子相助围杀。此洞为取经路上天庭星官相助之故事。",
+    "first_appears": 91,
+    "appears_in": [
+      91,
+      92
+    ],
+    "events": [
+      {
+        "chapter": 91,
+        "event": "三犀掳唐僧",
+        "description": "三犀牛精于金平府观灯时掳走唐僧"
+      },
+      {
+        "chapter": 92,
+        "event": "请四木禽星",
+        "description": "悟空上天庭请四木禽星下凡降三犀牛"
+      },
+      {
+        "chapter": 92,
+        "event": "西海杀犀牛",
+        "description": "三犀牛被追至西海，龙太子相助围杀"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 21,
+    "tags": [
+      "洞府",
+      "三犀牛精",
+      "四木禽星"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jin-ping-fu",
+    "name": "金平府",
+    "aliases": [
+      "慈云寺"
+    ],
+    "category": "route-location",
+    "type": "城市",
+    "continent": "西牛贺洲",
+    "country": "金平府",
+    "summary": "三犀牛精假佛收油之府，元宵观灯处",
+    "description": "金平府乃天竺国外郡，府中慈云寺僧人礼佛虔诚。金平府每年元宵节办灯会，三犀牛精假扮佛祖现于半空，声称收酥合香油可保丰年。府中每年熬炼酥合香油一千五百斤供之，实为三犀牛精所食。唐僧师徒行至金平府，于慈云寺过元宵节，随众观灯。三犀牛精现于空中，唐僧以为是真佛上前叩拜，被掳入青龙山玄英洞。悟空等救唐僧，请四木禽星收服三犀牛。此府为取经路上临近天竺之最后一处大难。",
+    "first_appears": 91,
+    "appears_in": [
+      91,
+      92
+    ],
+    "events": [
+      {
+        "chapter": 91,
+        "event": "慈云寺过元宵",
+        "description": "唐僧师徒于金平府慈云寺过元宵节"
+      },
+      {
+        "chapter": 91,
+        "event": "唐僧拜假佛",
+        "description": "唐僧于灯会拜假佛被三犀牛精掳走"
+      },
+      {
+        "chapter": 92,
+        "event": "四木收三犀",
+        "description": "悟空请四木禽星收服三犀牛精"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 22,
+    "tags": [
+      "城市",
+      "慈云寺",
+      "元宵观灯"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "mie-fa-guo",
+    "name": "灭法国",
+    "aliases": [
+      "砍国"
+    ],
+    "category": "route-location",
+    "type": "国家",
+    "continent": "西牛贺洲",
+    "country": "灭法国",
+    "summary": "国王发愿杀僧之国，悟空施法剃度国王处",
+    "description": "灭法国国王前生结下冤仇，曾许下地狱大愿，要杀一万个和尚。两年间已杀九千九百九十六个无名和尚，只等四个有名和尚凑成一万。唐僧师徒至此，知国王要杀他们凑数。悟空施法，夜入王宫，将国王、后妃、文武百官尽皆剃成光头。次日国王见满朝光头，大惊大悟，始知和尚之苦。国王请唐僧师徒入宫忏悔，愿改国号为钦法国，从此保护佛教。唐僧师徒倒换关文西行。此国为取经路上以智取胜、不战而化之故事。",
+    "first_appears": 84,
+    "appears_in": [
+      84
+    ],
+    "events": [
+      {
+        "chapter": 84,
+        "event": "国王杀僧",
+        "description": "灭法国国王杀九千九百九十六僧，只差四人"
+      },
+      {
+        "chapter": 84,
+        "event": "悟空剃度",
+        "description": "悟空夜入王宫将国王后妃百官尽剃光头"
+      },
+      {
+        "chapter": 84,
+        "event": "国王改国号",
+        "description": "国王大悟改国号为钦法国"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "tang-seng",
+      "zhu-bajie",
+      "sha-wujing"
+    ],
+    "related_locations": [],
+    "in_route": true,
+    "route_order": 23,
+    "tags": [
+      "国家",
+      "灭法改钦法",
+      "剃度"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "yao-chi",
+    "name": "瑶池",
+    "aliases": [
+      "蟠桃园",
+      "瑶池仙宫"
+    ],
+    "category": "important-location",
+    "type": "天庭",
+    "continent": "天界",
+    "country": null,
+    "summary": "王母娘娘蟠桃大会所在，悟空偷桃盗丹之处",
+    "description": "瑶池乃王母娘娘于天庭所居之仙宫，旁有蟠桃园。园中三千六百株蟠桃树，分前中后三园，果子熟时王母设蟠桃大会，宴请三界十方仙真。孙悟空被封齐天大圣后，玉帝令其看管蟠桃园。悟空偷吃蟠桃无数，又闻蟠桃大会未请自己，怒搅大会。后至兜率宫偷吃太上老君九转金丹。瑶池蟠桃大会因悟空搅乱而废，此为悟空大闹天宫之祸端。",
+    "first_appears": 5,
+    "appears_in": [
+      5
+    ],
+    "events": [
+      {
+        "chapter": 5,
+        "event": "悟空偷蟠桃",
+        "description": "孙悟空看管蟠桃园偷吃蟠桃无数"
+      },
+      {
+        "chapter": 5,
+        "event": "搅乱蟠桃会",
+        "description": "悟空闻蟠桃会未请自己，怒搅瑶池大会"
+      }
+    ],
+    "residents": [
+      "wangmu-niangniang"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "天庭仙宫"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "天庭",
+      "蟠桃大会",
+      "偷桃盗丹"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "guang-han-gong",
+    "name": "广寒宫",
+    "aliases": [
+      "月宫",
+      "嫦娥宫"
+    ],
+    "category": "important-location",
+    "type": "天庭",
+    "continent": "天界",
+    "country": null,
+    "summary": "嫦娥所居之月宫仙府，猪八戒醉酒调戏处",
+    "description": "广寒宫乃天界月宫，又称嫦娥宫，为嫦娥仙子所居。宫在月轮之上，清冷幽静，玉兔捣药其中。天蓬元帅猪八戒于蟠桃会后酒醉，闯入广寒宫，见嫦娥貌美出言调戏，被纠察灵官奏报玉帝。玉帝大怒，贬天蓬元帅下凡，错投猪胎成为猪八戒。后取经路上，月宫玉兔逃至天竺国假冒公主，太阴星君领嫦娥下凡收回玉兔。广寒宫为八戒被贬之缘起，亦为玉兔精之出处。",
+    "first_appears": 95,
+    "appears_in": [
+      95
+    ],
+    "events": [
+      {
+        "chapter": 95,
+        "event": "玉兔下凡",
+        "description": "月宫玉兔逃至天竺国假冒公主"
+      },
+      {
+        "chapter": 95,
+        "event": "太阴收玉兔",
+        "description": "太阴星君领嫦娥下凡收回月宫玉兔"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong",
+      "zhu-bajie"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "天界仙府"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "天庭",
+      "月宫",
+      "嫦娥"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ling-xiao-bao-dian",
+    "name": "灵霄宝殿",
+    "aliases": [
+      "凌霄殿"
+    ],
+    "category": "important-location",
+    "type": "天庭",
+    "continent": "天界",
+    "country": null,
+    "summary": "玉皇大帝理政之殿，天庭最高权力所在",
+    "description": "灵霄宝殿乃天庭核心，玉皇大帝理政之正殿。殿宇金碧辉煌，巍峨庄严，文武仙卿分列两旁。凡三界大事、神仙升降、妖魔剿抚，皆于此殿议决。孙悟空初次招安受封弼马温，二次招安封齐天大圣皆于此殿。悟空大闹天宫时打到凌霄殿外，王灵官挡住，三十六员雷将围攻。玉帝急请如来佛祖降妖，如来以五行山镇压悟空。灵霄宝殿为天庭最高权威之象征。",
+    "first_appears": 4,
+    "appears_in": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "events": [
+      {
+        "chapter": 4,
+        "event": "封弼马温",
+        "description": "玉帝于凌霄殿封悟空为弼马温"
+      },
+      {
+        "chapter": 4,
+        "event": "封齐天大圣",
+        "description": "玉帝再封悟空为齐天大圣"
+      },
+      {
+        "chapter": 7,
+        "event": "大闹天宫",
+        "description": "悟空打到凌霄殿外，玉帝请如来镇压"
+      }
+    ],
+    "residents": [
+      "yu-huang-dadi"
+    ],
+    "visitors": [
+      "sun-wukong",
+      "tai-bai-jinxing",
+      "ta-li-tianwang",
+      "nezha",
+      "erlang-shen"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "天庭正殿"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "天庭",
+      "玉帝理政",
+      "大闹天宫"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wu-dang-shan",
+    "name": "武当山",
+    "aliases": [
+      "太和山"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "真武大帝（荡魔天尊）道场，悟空请援之处",
+    "description": "武当山又名太和山，乃真武大帝（玄天上帝、荡魔天尊）之道场。真武大帝昔年于武当山修真得道，奉玉帝之命镇守北方，剪伐天下妖邪。山中太和宫、紫霄宫等殿宇庄严，龟蛇二将、五龙神侍于左右。取经路上，孙悟空于小雷音寺被困，先后请诸神不能胜黄眉大王，遂往武当山请真武大帝相助。真武遣龟蛇二将与五大神龙随悟空往小雷音寺，亦被黄眉人种袋收去。武当山为真武大帝道场所在。",
+    "first_appears": 66,
+    "appears_in": [
+      66
+    ],
+    "events": [
+      {
+        "chapter": 66,
+        "event": "悟空请真武",
+        "description": "悟空往武当山请真武大帝助收黄眉大王"
+      },
+      {
+        "chapter": 66,
+        "event": "龟蛇二将出战",
+        "description": "真武遣龟蛇二将五大神龙随悟空出战被收"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "真武大帝",
+      "荡魔天尊"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "jiu-hua-shan",
+    "name": "九华山",
+    "aliases": [
+      "地藏道场"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "地藏王菩萨道场，幽冥地府之主所在",
+    "description": "九华山乃地藏王菩萨之道场。地藏王菩萨为幽冥地府之主，曾发宏愿「地狱不空誓不成佛」。唐太宗魂游地府时，地藏王菩萨于翠云宫中主持十殿阎罗判案，察太宗阳寿该尽，判官崔珏改定生死簿添寿二十年，太宗还阳后办水陆大会，由此引出取经之缘。九华山为地藏王菩萨说法度化之所，山下即通幽冥地府，乃阴阳交界之处。",
+    "first_appears": 10,
+    "appears_in": [
+      10
+    ],
+    "events": [
+      {
+        "chapter": 10,
+        "event": "太宗游地府",
+        "description": "唐太宗魂游地府，地藏王菩萨主持十殿阎罗判案"
+      },
+      {
+        "chapter": 10,
+        "event": "崔珏添寿",
+        "description": "判官崔珏改生死簿为太宗添寿二十年"
+      }
+    ],
+    "residents": [],
+    "visitors": [
+      "tang-taizong"
+    ],
+    "related_locations": [],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "地藏王菩萨",
+      "幽冥地府"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "e-mei-shan",
+    "name": "峨眉山",
+    "aliases": [
+      "普贤道场"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "西牛贺洲",
+    "country": null,
+    "summary": "普贤菩萨道场，白象坐骑归处",
+    "description": "峨眉山乃普贤菩萨之道场。普贤菩萨骑六牙白象，为佛教四大菩萨之一，于峨眉山修真说法。取经路上，狮驼岭二魔王白象精乃普贤菩萨坐骑逃下凡间，与青狮、大鹏为妖，神通广大。孙悟空斗三魔王不胜，往灵山求救。如来佛祖亲临，普贤菩萨随行，以莲台收服白象精归位。峨眉山为普贤菩萨道场所在，白象精之出处。",
+    "first_appears": 77,
+    "appears_in": [
+      77
+    ],
+    "events": [
+      {
+        "chapter": 77,
+        "event": "普贤收白象",
+        "description": "普贤菩萨于狮驼岭收坐骑白象精归位"
+      }
+    ],
+    "residents": [
+      "pu-xian-pusa"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "普贤菩萨",
+      "白象坐骑"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "wu-tai-shan",
+    "name": "五台山",
+    "aliases": [
+      "文殊道场"
+    ],
+    "category": "important-location",
+    "type": "仙山",
+    "continent": "南赡部洲",
+    "country": null,
+    "summary": "文殊菩萨道场，青狮坐骑归处",
+    "description": "五台山乃文殊菩萨之道场。文殊菩萨骑青毛狮子，为佛教四大菩萨之首，于五台山修真说法。取经路上，文殊菩萨坐骑青毛狮子两次下凡为妖：一为乌鸡国篡位三年，一为狮驼岭为三大魔王之首。孙悟空斗青狮皆赖文殊菩萨下凡收回。文殊菩萨道场五台山为青狮精之出处。乌鸡国故事中，文殊菩萨曾化斋僧度乌鸡国王，反被国王浸于御水河中三日，故有青狮推王下井之报。",
+    "first_appears": 39,
+    "appears_in": [
+      39,
+      77
+    ],
+    "events": [
+      {
+        "chapter": 39,
+        "event": "文殊收青狮",
+        "description": "文殊菩萨于乌鸡国收回篡位青毛狮子"
+      },
+      {
+        "chapter": 77,
+        "event": "再收青狮",
+        "description": "文殊菩萨于狮驼岭再收青狮大王"
+      }
+    ],
+    "residents": [
+      "wen-shu-pusa"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙山",
+      "文殊菩萨",
+      "青狮坐骑"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "du-shuai-gong",
+    "name": "兜率宫",
+    "aliases": [
+      "离恨天"
+    ],
+    "category": "important-location",
+    "type": "天庭",
+    "continent": "天界",
+    "country": null,
+    "summary": "太上老君所居之天宫，悟空偷吃金丹处",
+    "description": "兜率宫乃太上老君于天界所居之宫，位于三十三天之上离恨天。宫中有八卦炉，老君于此炼制九转金丹，供玉帝开丹元大会之用。孙悟空搅乱蟠桃会后，醉闯兜率宫，见宫中无人（老君恰与燃灯古佛论道），将五葫芦金丹如吃炒豆般吃尽。此事与偷蟠桃、搅蟠桃会并列为悟空大闹天宫之罪状。取经路上，悟空多次上天至兜率宫向太上老君借丹收妖，如乌鸡国还魂丹、收金兜洞青牛等。",
+    "first_appears": 5,
+    "appears_in": [
+      5,
+      7
+    ],
+    "events": [
+      {
+        "chapter": 5,
+        "event": "偷吃金丹",
+        "description": "悟空醉闯兜率宫偷吃太上老君九转金丹"
+      },
+      {
+        "chapter": 7,
+        "event": "八卦炉炼悟空",
+        "description": "太上老君将悟空投入八卦炉炼四十九日"
+      }
+    ],
+    "residents": [
+      "taishang-laojun"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "天界仙宫"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "天庭",
+      "太上老君",
+      "九转金丹"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  },
+  {
+    "id": "ba-jing-gong",
+    "name": "八景宫",
+    "aliases": [
+      "玄都紫府"
+    ],
+    "category": "important-location",
+    "type": "仙宫",
+    "continent": "天界",
+    "country": null,
+    "summary": "太上老君玄都道场，三清圣地之一",
+    "description": "八景宫又名玄都紫府，乃太上老君于天界之修道道场，为道教三清圣地之一。宫中仙气缭绕，八景辉映，老君于此讲道传法、炼丹修真。太上老君为三清之一，居离恨天之上，统率上界群仙。取经路上，太上老君多次于八景宫遣童子、坐骑下凡之事，如平顶山金角银角二童子、金兜洞青牛等，皆由八景宫而下。悟空数次请老君下凡收妖，亦于此宫相请。八景宫为天界道教最高圣地。",
+    "first_appears": 5,
+    "appears_in": [
+      5,
+      52
+    ],
+    "events": [
+      {
+        "chapter": 5,
+        "event": "老君炼丹",
+        "description": "太上老君于八景宫炼制九转金丹"
+      },
+      {
+        "chapter": 52,
+        "event": "老君收青牛",
+        "description": "太上老君应悟空之请下凡收金兜洞青牛"
+      }
+    ],
+    "residents": [
+      "taishang-laojun"
+    ],
+    "visitors": [
+      "sun-wukong"
+    ],
+    "related_locations": [
+      {
+        "id": "tian-ting",
+        "relation": "天界圣地"
+      }
+    ],
+    "in_route": false,
+    "route_order": 0,
+    "tags": [
+      "仙宫",
+      "太上老君",
+      "玄都紫府"
+    ],
+    "reference_count": 0,
+    "references": [],
+    "meta": {
+      "data_version": "1.0",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "verified": true
+    }
+  }
+]

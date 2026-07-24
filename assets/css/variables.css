@@ -1,0 +1,94 @@
+/* ============================================
+   variables.css - 国风现代融合设计系统
+   配色: 朱红 / 墨黑 / 鎏金 / 宣纸色
+   ============================================ */
+
+:root {
+  /* === 主色 === */
+  --color-vermillion: #C41E3A;       /* 朱红 — CTA/重要标记/链接hover */
+  --color-vermillion-light: #E85D75;  /* 浅朱红 */
+  --color-vermillion-dark: #9B0E2A;   /* 深朱红 */
+  --color-ink-black: #2C3E50;        /* 墨黑 — 正文/标题 */
+  --color-ink-deep: #1a1a2e;          /* 深墨 */
+  --color-gold: #D4A574;             /* 鎏金 — 强调/边框/排名 */
+  --color-gold-light: #E8D5B7;      /* 浅鎏金 — 卡片背景/分隔线 */
+  --color-gold-dark: #B8860B;       /* 深鎏金 */
+  --color-parchment: #FAF7F2;       /* 宣纸色 — 页面背景 */
+  --color-parchment-dark: #F0EAD6;  /* 深宣纸色 — 区块背景 */
+
+  /* === 辅助色 === */
+  --color-jade: #5B8C5A;            /* 玉色 — 成功/正面 */
+  --color-indigo: #3B5998;          /* 靛蓝 — 链接/提示 */
+  --color-stone: #8B8682;           /* 石灰 — 次要文字 */
+  --color-mist: #E8E8E8;            /* 雾色 — 边框/分隔 */
+
+  /* === 语义色 (关系图谱) === */
+  --color-master: #5B8C5A;          /* 师从 — 玉色 */
+  --color-disciple: #3B5998;        /* 弟子 — 靛蓝 */
+  --color-brother: #D4A574;         /* 兄弟 — 鎏金 */
+  --color-rival: #C41E3A;           /* 敌对 — 朱红 */
+  --color-subordinate: #8B8682;     /* 从属 — 石灰 */
+
+  /* === 节点分类色 (关系图谱) === */
+  --color-node-protagonist: #C41E3A; /* 主角 — 朱红 */
+  --color-node-immortal: #D4A574;    /* 神仙 — 鎏金 */
+  --color-node-demon: #8B4513;       /* 妖怪 — 赭石 */
+  --color-node-buddha: #B8860B;      /* 佛门 — 深鎏金 */
+  --color-node-mortal: #5B8C5A;      /* 凡人 — 玉色 */
+
+  /* === 字体 === */
+  --font-display: "Noto Serif SC", "Source Han Serif SC", "SimSun", "宋体", serif;
+  --font-body: "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", "微软雅黑", sans-serif;
+  --font-mono: "Fira Code", "Courier New", monospace;
+
+  /* === 字号 === */
+  --text-xs: 0.75rem;    /* 12px */
+  --text-sm: 0.875rem;   /* 14px */
+  --text-base: 1rem;     /* 16px */
+  --text-lg: 1.125rem;   /* 18px */
+  --text-xl: 1.25rem;    /* 20px */
+  --text-2xl: 1.5rem;    /* 24px */
+  --text-3xl: 2rem;      /* 32px */
+  --text-4xl: 2.5rem;    /* 40px */
+  --text-5xl: 3.5rem;    /* 56px */
+
+  /* === 间距 === */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+
+  /* === 圆角 === */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* === 阴影 === */
+  --shadow-sm: 0 1px 3px rgba(44, 62, 80, 0.06);
+  --shadow-card: 0 2px 8px rgba(44, 62, 80, 0.08);
+  --shadow-card-hover: 0 4px 16px rgba(44, 62, 80, 0.12);
+  --shadow-elevated: 0 8px 32px rgba(44, 62, 80, 0.16);
+  --shadow-vermillion: 0 4px 16px rgba(196, 30, 58, 0.15);
+
+  /* === 过渡 === */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+
+  /* === 布局 === */
+  --max-width: 1200px;
+  --header-height: 64px;
+  --sidebar-width: 280px;
+
+  /* === z-index === */
+  --z-header: 100;
+  --z-overlay: 200;
+  --z-modal: 300;
+  --z-tooltip: 400;
+}

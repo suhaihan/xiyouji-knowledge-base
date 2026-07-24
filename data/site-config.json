@@ -1,0 +1,48 @@
+{
+  "site": {
+    "name": "西游记知识库",
+    "subtitle": "Journey to the West Knowledge Base",
+    "description": "全方位解读中国古典名著《西游记》——人物、章节、地理、法宝、台词一站式查询",
+    "url": "",
+    "language": "zh-CN"
+  },
+  "stats": {
+    "characters": 100,
+    "chapters": 100,
+    "locations": 50,
+    "artifacts": 50,
+    "quotes": 50
+  },
+  "categories": [
+    {
+      "id": "characters",
+      "name": "人物",
+      "icon": "character",
+      "description": "取经师徒及各路神仙妖魔"
+    },
+    {
+      "id": "chapters",
+      "name": "章节",
+      "icon": "chapter",
+      "description": "一百回完整目录与内容摘要"
+    },
+    {
+      "id": "locations",
+      "name": "地点",
+      "icon": "location",
+      "description": "取经路线与重要地点"
+    },
+    {
+      "id": "artifacts",
+      "name": "法宝",
+      "icon": "artifact",
+      "description": "神兵利器与法宝图鉴"
+    },
+    {
+      "id": "quotes",
+      "name": "台词",
+      "icon": "quote",
+      "description": "经典台词与名场面"
+    }
+  ]
+}
