@@ -60,8 +60,8 @@
       "sun-wukong"
     ],
     "visitors": [
-      "tang-sanzang",
-      "guanyin",
+      "tang-seng",
+      "guanyin-pusa",
       "erlang-shen"
     ],
     "related_locations": [
@@ -175,7 +175,7 @@
       }
     ],
     "residents": [
-      "ao-guang"
+      "dong-hai-longwang"
     ],
     "visitors": [
       "sun-wukong"
@@ -262,14 +262,14 @@
       }
     ],
     "residents": [
-      "yu-huang-da-di",
-      "taishang-laojun",
-      "tota-tianwang"
+      "yu-huang-dadi",
+      "ta-li-tianwang",
+      "taishang-laojun"
     ],
     "visitors": [
       "sun-wukong",
-      "guanyin",
-      "ru-lai-fo-zu"
+      "guanyin-pusa",
+      "ru-lai-fozu"
     ],
     "related_locations": [
       {
@@ -332,8 +332,8 @@
     "residents": [],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin"
+      "tang-seng",
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -403,10 +403,10 @@
     ],
     "residents": [
       "tang-taizong",
-      "tang-sanzang"
+      "tang-seng"
     ],
     "visitors": [
-      "guanyin"
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -464,8 +464,8 @@
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin"
+      "tang-seng",
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -529,8 +529,8 @@
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin"
+      "tang-seng",
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -592,9 +592,9 @@
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin",
-      "mu-cha"
+      "tang-seng",
+      "guanyin-pusa",
+      "hui-an-xing-zhe"
     ],
     "related_locations": [
       {
@@ -655,14 +655,14 @@
       }
     ],
     "residents": [
-      "zhen-yuan-daxian"
+      "zhen-yuan-da-xian"
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
+      "tang-seng",
       "zhu-bajie",
       "sha-wujing",
-      "guanyin"
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -716,11 +716,11 @@
       }
     ],
     "residents": [
-      "bai-gu-jing"
+      "baigujing"
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
+      "tang-seng",
       "zhu-bajie",
       "sha-wujing"
     ],
@@ -792,8 +792,8 @@
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin"
+      "tang-seng",
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -859,12 +859,12 @@
       }
     ],
     "residents": [
-      "lingshen-dawang"
+      "ling-gan-da-wang"
     ],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
-      "guanyin"
+      "tang-seng",
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -926,7 +926,7 @@
     "residents": [],
     "visitors": [
       "sun-wukong",
-      "tang-sanzang",
+      "tang-seng",
       "zhu-bajie",
       "sha-wujing"
     ],
@@ -999,7 +999,7 @@
     ],
     "residents": [
       "tie-shan-gongzhu",
-      "niu-mowang"
+      "niuwang-mo"
     ],
     "visitors": [
       "sun-wukong"
@@ -1080,14 +1080,14 @@
       }
     ],
     "residents": [
-      "ru-lai-fo-zu"
+      "ru-lai-fozu"
     ],
     "visitors": [
-      "tang-sanzang",
+      "tang-seng",
       "sun-wukong",
       "zhu-bajie",
       "sha-wujing",
-      "guanyin"
+      "guanyin-pusa"
     ],
     "related_locations": [
       {
@@ -1154,7 +1154,7 @@
       }
     ],
     "residents": [
-      "guanyin",
+      "guanyin-pusa",
       "hong-hai-er",
       "long-nu"
     ],
@@ -1223,7 +1223,7 @@
       }
     ],
     "residents": [
-      "tang-sanzang"
+      "tang-seng"
     ],
     "visitors": [
       "sun-wukong",
@@ -1613,14 +1613,14 @@
     ],
     "residents": [
       "jin-jiao-dawang",
-      "yin-jiao-dawang"
+      "yin-jiao-dawang",
+      "taishang-laojun"
     ],
     "visitors": [
       "sun-wukong",
       "tang-seng",
       "zhu-bajie",
-      "sha-wujing",
-      "taishang-laojun"
+      "sha-wujing"
     ],
     "related_locations": [
       {
@@ -2169,14 +2169,15 @@
         "description": "太上老君以芭蕉扇收服青牛"
       }
     ],
-    "residents": [],
+    "residents": [
+      "taishang-laojun"
+    ],
     "visitors": [
       "sun-wukong",
       "tang-seng",
       "zhu-bajie",
       "sha-wujing",
       "nezha",
-      "taishang-laojun",
       "ru-lai-fozu"
     ],
     "related_locations": [

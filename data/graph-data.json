@@ -11,7 +11,7 @@
       "id": "tang-seng",
       "name": "唐僧",
       "category": 0,
-      "value": 97,
+      "value": 110,
       "symbolSize": 60
     },
     {
@@ -39,7 +39,7 @@
       "id": "yu-huang-dadi",
       "name": "玉皇大帝",
       "category": 1,
-      "value": 25,
+      "value": 28,
       "symbolSize": 60
     },
     {
@@ -74,8 +74,8 @@
       "id": "ta-li-tianwang",
       "name": "托塔李天王",
       "category": 1,
-      "value": 8,
-      "symbolSize": 44
+      "value": 9,
+      "symbolSize": 47
     },
     {
       "id": "wangmu-niangniang",
@@ -95,8 +95,8 @@
       "id": "dong-hai-longwang",
       "name": "东海龙王敖广",
       "category": 1,
-      "value": 3,
-      "symbolSize": 29
+      "value": 4,
+      "symbolSize": 32
     },
     {
       "id": "xi-hai-longwang",
@@ -109,14 +109,14 @@
       "id": "ru-lai-fozu",
       "name": "如来佛祖",
       "category": 2,
-      "value": 28,
+      "value": 30,
       "symbolSize": 60
     },
     {
       "id": "guanyin-pusa",
       "name": "观音菩萨",
       "category": 2,
-      "value": 21,
+      "value": 33,
       "symbolSize": 60
     },
     {
@@ -151,8 +151,8 @@
       "id": "niuwang-mo",
       "name": "牛魔王",
       "category": 3,
-      "value": 9,
-      "symbolSize": 47
+      "value": 10,
+      "symbolSize": 50
     },
     {
       "id": "tie-shan-gongzhu",
@@ -172,8 +172,8 @@
       "id": "baigujing",
       "name": "白骨精",
       "category": 3,
-      "value": 3,
-      "symbolSize": 29
+      "value": 4,
+      "symbolSize": 32
     },
     {
       "id": "huangpao-guai",
@@ -340,8 +340,8 @@
       "id": "zhen-yuan-da-xian",
       "name": "镇元大仙",
       "category": 1,
-      "value": 2,
-      "symbolSize": 26
+      "value": 3,
+      "symbolSize": 29
     },
     {
       "id": "shou-xing",
@@ -424,8 +424,8 @@
       "id": "hui-an-xing-zhe",
       "name": "惠岸行者",
       "category": 2,
-      "value": 1,
-      "symbolSize": 23
+      "value": 2,
+      "symbolSize": 26
     },
     {
       "id": "shan-cai-tong-zi",
@@ -655,8 +655,8 @@
       "id": "ling-gan-da-wang",
       "name": "灵感大王",
       "category": 3,
-      "value": 1,
-      "symbolSize": 23
+      "value": 2,
+      "symbolSize": 26
     },
     {
       "id": "jin-mao-hou",
