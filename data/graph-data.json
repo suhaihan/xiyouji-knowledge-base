@@ -11,7 +11,7 @@
       "id": "tang-seng",
       "name": "唐僧",
       "category": 0,
-      "value": 94,
+      "value": 97,
       "symbolSize": 60
     },
     {
@@ -67,15 +67,15 @@
       "id": "nezha",
       "name": "哪吒",
       "category": 1,
-      "value": 8,
-      "symbolSize": 44
+      "value": 9,
+      "symbolSize": 47
     },
     {
       "id": "ta-li-tianwang",
       "name": "托塔李天王",
       "category": 1,
-      "value": 7,
-      "symbolSize": 41
+      "value": 8,
+      "symbolSize": 44
     },
     {
       "id": "wangmu-niangniang",
@@ -116,7 +116,7 @@
       "id": "guanyin-pusa",
       "name": "观音菩萨",
       "category": 2,
-      "value": 18,
+      "value": 21,
       "symbolSize": 60
     },
     {
@@ -144,8 +144,8 @@
       "id": "ling-ji-pusa",
       "name": "灵吉菩萨",
       "category": 2,
-      "value": 2,
-      "symbolSize": 26
+      "value": 4,
+      "symbolSize": 32
     },
     {
       "id": "niuwang-mo",
@@ -277,8 +277,8 @@
       "id": "ju-ling-shen",
       "name": "巨灵神",
       "category": 1,
-      "value": 0,
-      "symbolSize": 20
+      "value": 1,
+      "symbolSize": 23
     },
     {
       "id": "tai-yin-xingjun",
@@ -340,8 +340,8 @@
       "id": "zhen-yuan-da-xian",
       "name": "镇元大仙",
       "category": 1,
-      "value": 1,
-      "symbolSize": 23
+      "value": 2,
+      "symbolSize": 26
     },
     {
       "id": "shou-xing",
@@ -424,8 +424,8 @@
       "id": "hui-an-xing-zhe",
       "name": "惠岸行者",
       "category": 2,
-      "value": 0,
-      "symbolSize": 20
+      "value": 1,
+      "symbolSize": 23
     },
     {
       "id": "shan-cai-tong-zi",
@@ -543,8 +543,8 @@
       "id": "huang-mei-lao-fo",
       "name": "黄眉老佛",
       "category": 3,
-      "value": 0,
-      "symbolSize": 20
+      "value": 2,
+      "symbolSize": 26
     },
     {
       "id": "wan-sheng-long-wang",
@@ -585,8 +585,8 @@
       "id": "da-peng-jing",
       "name": "大鹏金翅雕",
       "category": 3,
-      "value": 0,
-      "symbolSize": 20
+      "value": 2,
+      "symbolSize": 26
     },
     {
       "id": "du-gong-jing",
@@ -599,8 +599,8 @@
       "id": "xie-zi-jing",
       "name": "蝎子精",
       "category": 3,
-      "value": 0,
-      "symbolSize": 20
+      "value": 1,
+      "symbolSize": 23
     },
     {
       "id": "yu-tu-jing",
@@ -662,8 +662,8 @@
       "id": "jin-mao-hou",
       "name": "金毛犼",
       "category": 3,
-      "value": 0,
-      "symbolSize": 20
+      "value": 1,
+      "symbolSize": 23
     },
     {
       "id": "hu-a-qi-da-wang",
